@@ -1,0 +1,87 @@
+How to (re)Build Civalization
+  by Daniel Zapata
+
+==
+
+Civilization is a society. That means people. Plural. Teamwork and co-operation are man's fundamental advantage. Teamwork is only possible among people who trust each other. Find people you trust.
+
+First, cover the *needs* (water, food, shelter) then make tools which enable you to do anything, including cover the needs more easily.
+
+This book is divided into four sections, but they are really interdependant. The tools section underlies the other three sections because a new tool will unlock the ability to have more plentiful food, or cleaner water, or a sturdier house. Each level of the needs will depend to some extent on the existance of tools.
+
+Water:
+  level 0 - no tools
+    Find a stream, creek, or river. Ponds and other still water are no good. The ocean is no good. There's a reason the Nile, the world's longest freshwater river is the place civilization started. Keep your water clean. Do not piss or shit in it, or allow other to do so, including animals. Do not piss or shit in a place where it might evenually seep into the ground and get to the water.
+
+Food:
+  level 0 - no tools
+    Gather fresh edibles.
+  level 1 - stone/wood tools
+    Scavenge meat from dead animals, ideally recently killed. Boil it thoroughly.
+    Catch fish.
+    Trap small game. (rabbits, rodents)
+    Hunt larger game. (boars, herd grazers)
+
+Shelter:
+  level 0 - no tools
+    Stack some fallen branches against a tree or boulder and build a lean-to.
+
+Tools:
+-> hammer stone
+  -> stone knife
+    -> bark-strands rope
+    -> knife handle
+      -> stone knife (improved)
+        -> wooden spear
+          -> fish-bone needles
+          -> salmon/perch/wolffish/cod leather, rayskin/sharkskin leather/sandpaper
+          -> fish oil
+        -> wooden bowl
+        -> friction fire
+          -> charcoal
+            -> bloomery (for refining iron ore)
+          -> clay pot
+            -> Fish glue
+            -> Evaporative Refrigerator
+  -> stone hatchet
+    
+Bloomery
+  Build a pit or chimney with heat-resistant walls (earth, clay, or stone). Near the bottom, one or more pipes (clay or metal) enter through the side walls. These pipes allow air to enter the furnace (by natural draught or forced with bellows/trompe). An opening at the bottom of the bloomery may be used to remove the bloom, or the bloomery can be tipped over and the bloom removed from the top.
+
+Charcoal
+  Aquire dry wood. Pile into an organized dome-shaped mound. Cover with smaller branches. Cover with leaves. Cover with dirt. Leave chimney hole in center of mound. Covering limits oxygen exposure to prevent burning/full combustion. Add embers, coals, fire to chimney hole to begin mound smoldering time. As mound smoulders, it will shrink, requiring more dirt to be added to outside. If there isn't enough oxygen the mound will cool too much and if there is too much oxygen the mound will catch fire. Someone must tend to the mound the entire time it smoulders to keep it in check.
+  Method 2: Put dry wood in clay container. Close container with a lid that has a small hole in the center. Put container in fire. The wood inside should smoulder/not catch fire and turn to charcoal.
+
+Clay Pot
+  Find clay near riverbed. Will stick together in hand when wet. Filter/clean to remove sand, small rocks, plant matter, and bubbles/air pockets. Mix water with clay to shape pot. A flat base with coiled layers on top is easy. When fully shaped, let dry overnight (move to dry spot). When dry, build a fire around the pot. Let fire burn itself down. Once cooled, clean and use. When cooking with clay containers, soak pot in water for 30-45 minutes, then heat slowly over coals. Do not let pot get too hot to quickly, or let the heat concentrate on any one point.
+
+Evaporative Refrigerator
+  Make 2 clay pots, one small enough to fit inside the other. Put small pot in large pot. Fill space between the pots with wet sand. Fill the small pot with food and cover with wet cloth or a stone. Keep in a shady place. Will need to add water to sand periodically.
+  This cools things because when water evaporates, it loses energy (heat). At best you'll be able to knock 30 degrees off air temperature. In a humid environment it will not work well.
+
+Fish Glue
+  Boil the skin, bones, and swim bladders. Optionally treat components with lime, rinse, then boil. Good for waterproofing, woodworking.
+
+Fish Oil
+  Press the fatty tissue, allowing oil to drip into container.
+
+Friction Fire
+  Find dry softwoods--one long skinny stick/spindle and one flat fireboard. Cut a V-notch into the fireboard, flip it wide-side down, and put a small depression next to the point of the V. Set bark underneath the notch to catch the embers. Put spindle in depression and, maintaining downward pressure, roll it between your palms, running them quickly down the spindle in a burst of speed. Repeat until the spindle tip glows red and an ember is formed. Tap the fireboard to put the ember on the bark, then move it to a tinder bundle and blow to flame.
+
+Hammer Stone
+  Find palm sized granite-type round stone. Search riverbeds.
+
+Knife Handle
+
+Portland cement
+  Grind limestone with clay, burn the mixture, let it cool and grind again
+
+Stone Knife
+  Find chet/flint/obsidian-like rock. Strike at corners with hammer stone to flake pieces off. See diagram.
+
+Stone Knife (Improved)
+  Attach knife handle to stone knife blade.
+
+Wooden Spear
+  Find 3-5ft straight branch. Shave protrusions off. Split an end in quarters. Separate quarters with + of twigs. Optionally wrap the spear above and below the + wedges with rope/bark. Sharpen quarters individually. Aim slightly below the target if spearfishing.
+
