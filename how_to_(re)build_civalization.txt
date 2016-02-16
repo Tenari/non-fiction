@@ -40,6 +40,13 @@ Tools:
         -> friction fire
           -> charcoal
             -> bloomery (for refining iron ore)
+            -> kiln
+              -> portland cement
+                -> concrete
+                  -> walls
+                  -> columns
+                    -> arches
+                  -> roads
           -> clay pot
             -> Fish glue
             -> Evaporative Refrigerator
@@ -54,6 +61,9 @@ Charcoal
 
 Clay Pot
   Find clay near riverbed. Will stick together in hand when wet. Filter/clean to remove sand, small rocks, plant matter, and bubbles/air pockets. Mix water with clay to shape pot. A flat base with coiled layers on top is easy. When fully shaped, let dry overnight (move to dry spot). When dry, build a fire around the pot. Let fire burn itself down. Once cooled, clean and use. When cooking with clay containers, soak pot in water for 30-45 minutes, then heat slowly over coals. Do not let pot get too hot to quickly, or let the heat concentrate on any one point.
+
+Concrete
+  See "Portland Cement." Mix one part cement, two parts sand and three parts gravel by volume and add enough water so the resulting slurry is pourable to make concrete.
 
 Evaporative Refrigerator
   Make 2 clay pots, one small enough to fit inside the other. Put small pot in large pot. Fill space between the pots with wet sand. Fill the small pot with food and cover with wet cloth or a stone. Keep in a shady place. Will need to add water to sand periodically.
@@ -71,10 +81,14 @@ Friction Fire
 Hammer Stone
   Find palm sized granite-type round stone. Search riverbeds.
 
+Kiln
+  Use clay bricks sealed together with wet clay to build a kiln. See design.
+
 Knife Handle
 
-Portland cement
+Portland Cement
   Grind limestone with clay, burn the mixture, let it cool and grind again
+  Crush 85 pounds of limestone with a sledge hammer. Each piece of limestone should be no more than 3 inches in diameter but smaller is better. Add 2 pounds of blackboard chalk and/or other ingredients like sea shells, slate, sand, iron ore and blast furnace slag. Add 15 pounds of silica clay cat litter. Mix ingredients thoroughly. Add just enough water to make all the ingredients wet. (Some use a mixture that contains about 15 percent water by weight although some cement say that the ingredients should be dry). Bake the wet, but not fluid mixture in a brick kiln capable of reaching at least 1,500 degrees Fahrenheit, until it glows red hot. (advanced manufacturers uss very large, rotating kilns capable of reaching 2,700 degrees Fahrenheit). This baked mixture of limestone, clay and chalk is called "clinker." Allow the clinker to cool. Put on a dust filter face mask. Crush the clinker into a fine powder. One pound of manufactured cement contains about 150 billion grains so patience may be required. Thoroughly mix 5 pounds of plaster of Paris into the powdered clinker. See "Concrete."
 
 Stone Knife
   Find chet/flint/obsidian-like rock. Strike at corners with hammer stone to flake pieces off. See diagram.
