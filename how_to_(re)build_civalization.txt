@@ -112,7 +112,7 @@ Plaster of Paris
 
 Portland Cement
   Proportions by weight = 85 limestone : 2 chalk/misc : 15 silica clay pellets. Crush limestone. Limestone pieces should be no more than 3 inches in diameter. Smaller is better. Add blackboard chalk and/or other ingredients like sea shells, slate, sand, iron ore and blast furnace slag. Add silica clay pellets. Mix ingredients thoroughly. Add just enough water to make all the ingredients wet. (Some use about 15 percent water by weight although some cement makers say that the ingredients should be dry). Bake the wet, but not fluid, mixture in a kiln capable of reaching at least 1,500F, until it glows red hot. (advanced manufacturers use very large, rotating kilns capable of reaching 2,700F). This baked mixture is called "clinker." Allow the clinker to cool. Put on a dust filter face mask. Crush the clinker into a fine powder. Don't breathe it in. Ideally, 1 pound of cement contains about 150 billion grains, so thoroughly crush it. Optionally mix 5 pounds of "Plaster of Paris" into the powdered clinker. See "Concrete."
-  Crushing the limestone fine enough before mixing it can be difficult with the low technology. You can comminute the limestone by burning and slaking. Do this by heating the limestone to 900C for several hours to turn the limestone into quicklime. After it cools, combine the quicklime with water to form slaked lime. This slaked lime is ready to be comined with the other ingredients.
+  Crushing the limestone fine enough before mixing it can be difficult with low technology. You can comminute the limestone by burning and slaking. Do this by heating the limestone to 900C for several hours to turn the limestone into quicklime. After it cools, combine the quicklime with water to form slaked lime. This slaked lime is ready to be comined with the other ingredients.
 
 Stone Knife
   Find chet/flint/obsidian-like rock. Strike at corners with hammer stone to flake pieces off. See diagram.
@@ -127,3 +127,24 @@ Walls
 Wooden Spear
   Find 3-5ft straight branch. Shave protrusions off. Split an end in quarters. Separate quarters with + of twigs. Optionally wrap the spear above and below the + wedges with rope/bark. Sharpen quarters individually. Fire-harden the points by roasting in open flame, but removing before the points combust. Aim slightly below the target if spearfishing.
 
+==
+
+General Knowledge Reference:
+
+Temperatures:
+  - F = Farenheit and C = Celcius. F = (C x 9/5) + 32
+  - C is set up such that 0C is the freezing temp of water and 100C is the boiling temp, at standard atmospheric pressure.
+  - Typical campfire burns around 855C - 1100C
+  - Coal gas burns at about 3,590F under 100% air conditions. More or less air will decrease the temperature.
+  - Most organic compounds have a constant-pressure adiabatic flame temperature in a narrow range around 1950C. Because compounds like wood, fat, and petroleum all have C-H, C-C, and O-O bonds that are broken to release energy in roughly the same ratios, the adiabatic flame temperatures for these substances are nearly equal.
+  Metal Melting Point in C
+  Lead            327
+  Brass           930
+  Silver          962
+  Gold            1063
+  Copper          1084
+  Stainless Steel 1510
+  Iron            1536
+  Iridium         2450
+  Molybdenum      2620
+  Tungsten        3400
