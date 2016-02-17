@@ -39,7 +39,28 @@ Tools:
         -> wooden bowl
         -> friction fire
           -> charcoal
-            -> bloomery (for refining iron ore)
+            -> bloomery
+              -> iron bloom/sponge iron
+                -> wrought iron/mild steel
+                  -> rivets
+                  -> nails
+                  -> wire
+                  -> chains
+                  -> rails
+                  -> railway couplings
+                  -> water and steam pipes
+                  -> nuts
+                  -> bolts
+                  -> horseshoes
+                  -> handrails
+                  -> wagon tires
+                  -> swords
+                  -> cutlery
+                  -> chisels
+                  -> axes
+                  -> other edged tools
+                  -> springs
+                  -> files
             -> kiln
               -> portland cement
                 -> concrete
@@ -76,7 +97,7 @@ Fish Oil
   Press the fatty tissue, allowing oil to drip into container.
 
 Friction Fire
-  Find dry softwoods--one long skinny stick/spindle and one flat fireboard. Cut a V-notch into the fireboard, flip it wide-side down, and put a small depression next to the point of the V. Set bark underneath the notch to catch the embers. Put spindle in depression and, maintaining downward pressure, roll it between your palms, running them quickly down the spindle in a burst of speed. Repeat until the spindle tip glows red and an ember is formed. Tap the fireboard to put the ember on the bark, then move it to a tinder bundle and blow to flame.
+  Find dry softwoods--one long skinny stick/spindle and one flat fireboard. The kind of wood used is very important. Some are easy to start, and some are near impossible. Cut a V-notch into the fireboard, flip it wide-side down, and put a small depression next to the point of the V. Set bark underneath the notch to catch the embers. Put spindle in depression and, maintaining downward pressure, roll it between your palms, running them quickly down the spindle in a burst of speed. Repeat until the spindle tip glows red and an ember is formed. Tap the fireboard to put the ember on the bark, then move it to a tinder bundle and blow to flame.
 
 Hammer Stone
   Find palm sized granite-type round stone. Search riverbeds.
@@ -86,15 +107,22 @@ Kiln
 
 Knife Handle
 
+Plaster of Paris
+  Made by calcining gypsum. Heat gypsum to 300F to create calcium sulfate and then grind it into a fine white powder. Add water to the powder to make a slurry. The slurry can be molded in a variety of ways, and as it sets, a firm matrix is created, creating a solid shape which is also very smooth. Useful asconstruction finishing materials/fireproofing, casts on broken bones.
+
 Portland Cement
-  Grind limestone with clay, burn the mixture, let it cool and grind again
-  Crush 85 pounds of limestone with a sledge hammer. Each piece of limestone should be no more than 3 inches in diameter but smaller is better. Add 2 pounds of blackboard chalk and/or other ingredients like sea shells, slate, sand, iron ore and blast furnace slag. Add 15 pounds of silica clay cat litter. Mix ingredients thoroughly. Add just enough water to make all the ingredients wet. (Some use a mixture that contains about 15 percent water by weight although some cement say that the ingredients should be dry). Bake the wet, but not fluid mixture in a brick kiln capable of reaching at least 1,500 degrees Fahrenheit, until it glows red hot. (advanced manufacturers uss very large, rotating kilns capable of reaching 2,700 degrees Fahrenheit). This baked mixture of limestone, clay and chalk is called "clinker." Allow the clinker to cool. Put on a dust filter face mask. Crush the clinker into a fine powder. One pound of manufactured cement contains about 150 billion grains so patience may be required. Thoroughly mix 5 pounds of plaster of Paris into the powdered clinker. See "Concrete."
+  Proportions by weight = 85 limestone : 2 chalk/misc : 15 silica clay pellets. Crush limestone. Limestone pieces should be no more than 3 inches in diameter. Smaller is better. Add blackboard chalk and/or other ingredients like sea shells, slate, sand, iron ore and blast furnace slag. Add silica clay pellets. Mix ingredients thoroughly. Add just enough water to make all the ingredients wet. (Some use about 15 percent water by weight although some cement makers say that the ingredients should be dry). Bake the wet, but not fluid, mixture in a kiln capable of reaching at least 1,500F, until it glows red hot. (advanced manufacturers use very large, rotating kilns capable of reaching 2,700F). This baked mixture is called "clinker." Allow the clinker to cool. Put on a dust filter face mask. Crush the clinker into a fine powder. Don't breathe it in. Ideally, 1 pound of cement contains about 150 billion grains, so thoroughly crush it. Optionally mix 5 pounds of "Plaster of Paris" into the powdered clinker. See "Concrete."
+  Crushing the limestone fine enough before mixing it can be difficult with the low technology. You can comminute the limestone by burning and slaking. Do this by heating the limestone to 900C for several hours to turn the limestone into quicklime. After it cools, combine the quicklime with water to form slaked lime. This slaked lime is ready to be comined with the other ingredients.
 
 Stone Knife
   Find chet/flint/obsidian-like rock. Strike at corners with hammer stone to flake pieces off. See diagram.
 
 Stone Knife (Improved)
   Attach knife handle to stone knife blade.
+
+Walls
+  From wood:
+  From concrete: Drive stakes into ground to outline wall. Tie string between the stakes as a guide. Dig 1ft down within outlined area. Ensure bottom of hole is level. Measure and cut wooden form to stand a few inches above the eventual height of your wall. Like a solid wooden fence that traces the entire outline. Attach small blocks of wood to the inside of the form at intervals of about 2 feet to spread out the concrete and prevent cracking. Place the wooden form into the hole. Ensure it lies level. Secure it the ground with stakes/weights such that it will remain solid when stood upon. Concrete is brittle,so optionally wire a metal mesh or add iron rods to inside of form for flexiblity. Mix concrete. Pour concrete into the form. Keep a fresh batch of concrete ready as you pour. Pour as quickly and evenly as you can so that no part of the wall dries much before any other. Wait at least half a day for the concrete to dry and remove the wooden form.
 
 Wooden Spear
   Find 3-5ft straight branch. Shave protrusions off. Split an end in quarters. Separate quarters with + of twigs. Optionally wrap the spear above and below the + wedges with rope/bark. Sharpen quarters individually. Fire-harden the points by roasting in open flame, but removing before the points combust. Aim slightly below the target if spearfishing.
