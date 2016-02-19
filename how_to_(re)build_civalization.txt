@@ -29,7 +29,6 @@ Shelter:
 Tools:
 -> hammer stone
   -> stone knife
-    -> bark-strands rope
     -> knife handle
       -> stone knife (improved)
         -> wooden spear
@@ -37,6 +36,7 @@ Tools:
           -> salmon/perch/wolffish/cod leather, rayskin/sharkskin leather/sandpaper
           -> fish oil
         -> wooden bowl
+        -> wooden bow
         -> friction fire
           -> charcoal
             -> bloomery
@@ -72,6 +72,13 @@ Tools:
             -> Fish glue
             -> Evaporative Refrigerator
   -> stone hatchet
+-> natural fiber
+  -> rope
+  -> string
+    -> cloth
+      -> clothes
+    -> bowstring
+    -> snare
     
 Bloomery
   Build a pit or chimney with heat-resistant walls (earth, clay, or stone). Near the bottom, one or more pipes (clay or metal) enter through the side walls. These pipes allow air to enter the furnace (by natural draught or forced with bellows/trompe). An opening at the bottom of the bloomery may be used to remove the bloom, or the bloomery can be tipped over and the bloom removed from the top.
@@ -107,6 +114,9 @@ Kiln
 
 Knife Handle
 
+Natural Fiber
+  Hemp, milkweed, flax, cotton, willow bark, reed-type plants. Most plants can be used. Experiment to know what each is best for. Stems/stringy stuff is better for thick twine/string, fluffy/fine stuff is better for clothes. Gutstring/ligaments and animal fur/hair are also worth looking into.
+
 Plaster of Paris
   Made by calcining gypsum. Heat gypsum to 300F to create calcium sulfate and then grind it into a fine white powder. Add water to the powder to make a slurry. The slurry can be molded in a variety of ways, and as it sets, a firm matrix is created, creating a solid shape which is also very smooth. Useful asconstruction finishing materials/fireproofing, casts on broken bones.
 
@@ -119,6 +129,9 @@ Stone Knife
 
 Stone Knife (Improved)
   Attach knife handle to stone knife blade.
+
+String
+  Fold a strip of fiber into thirds. Hold by one fold such that one side hangs lower than another. Twist fold a few times to start string. Twist left side clockwise, and wrap over right side to to switch the places of the sides. Repeat on new left side. When a side is almost out of length, splice in a new strip of fiber.
 
 Walls
   From wood:
