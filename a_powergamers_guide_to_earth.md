@@ -50,6 +50,13 @@ There are two main subclasses that people play this as: Investor and Inventor.
 
 ## The grind cycle
 
+## Sample playthrough
+
+each number is your age:
+
+3. learn to read
+4. read everything you can get your hands on
+5. learn more things from books
 
 
 # Warriors
@@ -101,4 +108,6 @@ Famous Bards:
 - Brad Pitt
 - etc...
 
-The essential characteristic of a bard is attention whoring. Look. You *can* win as a bard. But you wont. It's true that the bulk of winning bards put in a lot of time and effort, but it's also true that for every Jimmy Hendrix who makes a ton of money, there is a [Micheal Angelo](https://en.wikipedia.org/wiki/Michael_Angelo_Batio) who no one has ever heard of.
+Look. You *can* win as a bard. But **you** wont. It's true that the bulk of winning bards put in a lot of time and effort, but it's also true that for every Jimmy Hendrix who makes a ton of money, there is a [Micheal Angelo](https://en.wikipedia.org/wiki/Michael_Angelo_Batio) who no one has ever heard of.
+
+The essential characteristic of a bard is attention whoring. 
