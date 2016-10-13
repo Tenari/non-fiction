@@ -60,14 +60,22 @@ There are two main subclasses that people play this as: Investor and Inventor.
 
 ## The grind cycle
 
+1. Pick a thing to learn, which seems easy to apply to the business of making money.
+2. Learn the thing.
+3. Figure out how to apply the thing to the business of making money.
+4. Apply the thing.
+
+And you repeat it, using the money you've just earned as funding for the next grind cycle.
+
+For example: If I knew how to launch rockets to asteroids and mine them for precious metals, I could probably make money. But the amount of money I'd need in order to be able to apply that knowledge is [huge](https://i.imgflip.com/yuegp.jpg). So I'm gonna need to learn something smaller first.
+
+The vast bulk of your time will be spent on #4. As I always say "Execution is everything."
+
 ## Sample playthrough
 
-each number is your age:
-
-3. learn to read
-4. read everything you can get your hands on
-5. learn more things from books
-
+Age 0 - 10: be a nerd and read a ton of books, and learn how to program kiddie shit.
+Age 11 - 15: Learn real programming skills like [Ruby on Rails](http://guides.rubyonrails.org/) and [Node.js](https://nodejs.org/en/) and [Scala](http://www.scala-lang.org/documentation/). Also learn basic value investing, and the effects of simple dollar-cost-averaging in wide-index ETFs
+Age 16: Drop out of school. High school is a waste of time. Time value of money means your time is worth more doing something better.
 
 # Warriors
 
