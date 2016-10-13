@@ -4,6 +4,16 @@ by Daniel Zapata
 
 ---
 
+## Contents
+
+- [Intro](#intro)
+- [Wizards](#wizards)
+- [Warriors](#warriors)
+- [Rogues](#rogues)
+- [Bards](#bards)
+
+# Intro
+
 Earth is an MMO where you have to play as human, you don't get to pick your race, or your gender, and there are no re-rolls or resurrection (unless you unlock the Jesus feat).
 
 Like any MMO, people play for many different reasons. Some want to "enjoy the world" or "hang out with friends" or some such bullshit. Others, powergamers, play to WIN.
@@ -98,7 +108,7 @@ I almost wrote "Your stat is power," but since humans are social animals, it's k
 
 The essential characteristic of a rogue is persuasion.
 
-# Bard
+# Bards
 
 Don't be a bard. Your stat is fame.
 
