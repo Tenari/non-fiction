@@ -73,9 +73,11 @@ The vast bulk of your time will be spent on #4. As I always say "Execution is ev
 
 ## Sample playthrough
 
-Age 0 - 10: be a nerd and read a ton of books, and learn how to program kiddie shit.
-Age 11 - 15: Learn real programming skills like [Ruby on Rails](http://guides.rubyonrails.org/) and [Node.js](https://nodejs.org/en/) and [Scala](http://www.scala-lang.org/documentation/). Also learn basic value investing, and the effects of simple dollar-cost-averaging in wide-index ETFs
-Age 16: Drop out of school. High school is a waste of time. Time value of money means your time is worth more doing something better.
+**Age 0 - 10:** be a nerd and read a ton of books, and learn how to program kiddie shit.
+
+**Age 11 - 15:** Learn real programming skills like [Ruby on Rails](http://guides.rubyonrails.org/) and [Node.js](https://nodejs.org/en/) and [Scala](http://www.scala-lang.org/documentation/). Also learn basic value investing, and the effects of simple dollar-cost-averaging in wide-index ETFs
+
+**Age 16:** Drop out of school. High school is a waste of time. Time value of money means your time is worth more doing something better.
 
 # Warriors
 
