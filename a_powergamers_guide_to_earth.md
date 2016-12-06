@@ -34,9 +34,17 @@ Once you've picked your class, the game is pretty straightforward. Just grind at
 
 The reason most people suck at this game is that they don't know what endgame they are aiming for. They don't have realistic expectations about what endgames are possible, or they lose sight of the engame, or they get tired of the grind and stop playing. Look, it's your character, do whatever you want with it, but I'm just saying, follow my guide and you'll win. Do something else, and dont be surprised when you lose.
 
+Another important reason people suck at this game is that they don't realize what the score is. 
+
+The score is your net worth.
+
+Measured in money.
+
+The score is measured in money, because money can buy friends, fun, fame, power, and cool stuff. But all those other things are difficult to measure. Money is not. You can't kid yourself about money. You either have it or you don't. So it's better to optimize yourself around making money, and then just use the money to buy whatever you really want.
+
 # Wizards
 
-Your stat is money.
+Your stat is knowledge.
 
 Famous wizards are:
 - Benjamin Graham
@@ -48,11 +56,16 @@ Famous wizards are:
 - Peter Thiel
 - Jeff Bezos
 - Sergey Brin + Larry Page
-- Cuckerberg
+- Mark Cuckerberg
 
 The thing you'll notice about this list is that these guys are all an order of magnitude (or two) richer than the guys from the other categories. There's a reason I said that being a wizard is where it's at, yo.
 
 The essential characteristic of a wizard is that they use secret knowledge to their advantage. Some of these guys discovered secret knowledge for themselves and used it. Others on here just took knowledge that was already out there and applied it to a field no one else had. But all of these guys were doing things that basically no one else understood. And because other players couldn't or wouldn't take the time to understand the things these guys knew, these guys have an inexplicable quality to them. Plus some good dice rolls never hurt anyone.
+
+Drawbacks to being a wizard:
+- not sexy
+- not cool
+- unlikely to result in sudden life changes
 
 ## Subclasses
 
@@ -81,7 +94,7 @@ The vast bulk of your time will be spent on #4. As I always say "Execution is ev
 
 # Warriors
 
-Your stat is fame.
+Your stat is athleticism.
 
 Famous warriors are:
 - Arnold Schwarzenegger
@@ -94,9 +107,11 @@ Famous warriors are:
 - Cristiano Ronaldo
 - etc...
 
-You might be tempted to think that your stat is sprinting time or lifting weight. It's not. Your stat is fame.
+The thing you'll notice about these guys is that they are a lot more famous than most of the wizards. They're also a lot poorer. Take that for what you will.
 
 The essential characteristic of a successful warrior is leveraging extraordinary physical prowess into fame. Because of this game mechanic called "ageing," warriors are at a disadvantage to other classes in that they only have a very short time window in which to win or lose. Because as soon as they are off their peak physical performance, their ability to garner fame falls off exponentially until they're just some random fucker working at Dick's sporting goods.
+
+Drawbacks of being a warrior:
 
 # Rogues
 
