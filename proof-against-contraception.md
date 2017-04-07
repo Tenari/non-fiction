@@ -61,35 +61,40 @@
 
 1. Women should be beautiful.
 2. Contraception makes women ugly.
-  1. Contraception makes women [fatter](https://www.eurekalert.org/pub_releases/2009-03/uotm-sfi030409.php).
-  2. Contraception makes women have [ugly voices](http://www.huffingtonpost.com/2012/12/12/fertility-women-attractiveness-study_n_2286537.html).
-  3. Contraception makes women [move in an unattractive way](http://www.livescience.com/22402-women-dances-ovulation-fertility.html).
-  4. Contraception makes women infertile, which, on an instinctual level is [ugly](https://www.psychologytoday.com/articles/200709/the-strippers-secret) to men.
-  5. Contraception can make women have acne, have blotchy spots on exposed skin, gain facial hair, and have yellow skin. [source](http://www.mayoclinic.org/drugs-supplements/estrogen-and-progestin-oral-contraceptives-oral-route/side-effects/DRG-20069422)
+    1. Contraception makes women [fatter](https://www.eurekalert.org/pub_releases/2009-03/uotm-sfi030409.php).
+    2. Contraception makes women have [ugly voices](http://www.huffingtonpost.com/2012/12/12/fertility-women-attractiveness-study_n_2286537.html).
+    3. Contraception makes women [move in an unattractive way](http://www.livescience.com/22402-women-dances-ovulation-fertility.html).
+    4. Contraception makes women infertile, which, on an instinctual level is [ugly](https://www.psychologytoday.com/articles/200709/the-strippers-secret) to men.
+    5. Contraception can make women have acne, have blotchy spots on exposed skin, gain facial hair, and have yellow skin. [source](http://www.mayoclinic.org/drugs-supplements/estrogen-and-progestin-oral-contraceptives-oral-route/side-effects/DRG-20069422)
 3. Delibertately making oneself ugly constitutes self harm.
 4. Thus contraception is harmful.
+
 
 1. Divorce is harmful.
 2. The divorce rate is [highly correlated](http://media.breitbart.com/media/2015/12/divorce-pill.png), in a slightly lagging way, to the use of the oral contraceptives.
 3. If there is a causative effect instead of spurious correlation, then contraception causes divorce.
 4. Thus, contraception is harmful.
 
+
 1. Deliberately increasing one's own risk of harm, without an outweighing benefit, constitutes self-harm.
 2. Using contraceptives increases the risk of breast cancer, stroke, heart attack, and blood clots.
 3. Thus, unless contraceptives provide an extraordinary benefit outweighing all these risks, contraception is harmful.
+
 
 1. Deliberately reducing one's own enjoyment, without an outweighing benefit, constitutes self-harm.
 2. Using condoms reduces enjoyment of sex.
 3. Thus, unless contraceptives provide an extraordinary benefit outweighing the reduction of pleasure, contraception is harmful.
 
+
 1. Adultery, Divorce, and Fornication are sins.
 2. Sins damage one's own relationship with God, which constitutes self-harm.
 3. Contraception facilities all these sins, making them easier to engage in.
-  1. Socially accepted use of contraception facilitates these sins by making the illusion of consequense-free sexal vice possible. 
-  2. Without perceived consequences, people are more likely to sin.
+    1. Socially accepted use of contraception facilitates these sins by making the illusion of consequense-free sexal vice possible. 
+    2. Without perceived consequences, people are more likely to sin.
 4. Wide-spread acceptance of contraception is highly correlated with wide-spread de-stigmatization of these sins.
 5. Thus, to the degree that using contraception makes sin more likely, contraception causes sin.
 6. Thus, contraception causes self-harm.
+
 
 1. Deliberately damaging, or limiting one's intimacy with a spouse is self-harm.
 2. Using contraception reduces the likelyhood of children.
@@ -99,6 +104,7 @@
 6. Using contraception implies that a woman is not fit to be a mother, which if said aloud often is an insult.
 7. Insulting a spouse damages intimacy.
 8. Using contraception either directly, or indirectly damages or limits intimacy with a spouse.
+
 
 ## Definitions
 
