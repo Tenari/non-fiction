@@ -56,10 +56,12 @@ Supporting proofs are found below.
 
 ## Proof that Natural Law is real
 
-1. God exists.
-2. God sustains reality.
-3. Law is a rule of action put into place by one who has care of the community.
-4. ...
+1. Definition of [Natural Law](#definitions)
+2. The relations of human beings have a natural form.
+3. Aberrations from this form are rightly discouraged.
+4. Repeated discouragement of an action creates, or implies the existence of a rule of conduct relating to that action.
+5. Thus, the natural relations of human beings give rise to rules of conduct.
+6. These rules of conduct are the definition of natural law. QED
 
 ## Proof that using contraception breaks the natural law
 
