@@ -9,7 +9,7 @@
 5. If evil objectively existed, then God would have created it, because of #1.
 6. Thus, evil does not objectively exist in its own right.
 7. Thus, what we consider "evil" is best understood as a privation of good, or a *lack* of goodness.
-8. If evil is a privation of good, then contraception is evil by the [proof from privation view of evil](#proof-from-privation-view-of-evil).
+8. If evil is a privation of good, then _contraception is evil_ by the [proof from privation view of evil](#proof-from-privation-view-of-evil).
 
 #### Proof from privation view of evil
 
@@ -20,34 +20,58 @@
 5. If #3 and #4 are true, then the creation of human life is good.
 6. Contraception actively prevents the creation of human life.
 7. By substitution, contraception actively prevents that which is good.
-8. Thus, contraception is evil.
+8. Thus, _contraception is evil._
 
 #### Proof from natural law
 
-1. Natural Law is real.
+1. [Natural Law](#definitions) [is real.](#proof-that-natural-law-is-real)
 2. Breaking the natural law is always immoral.
-3. Using contraception breaks the natural law.
-4. Therefore using contraception is immoral.
+3. [Using contraception breaks the natural law.](#proof-that-using-contraception-breaks-the-natural-law)
+4. Therefore using _contraception is immoral._
 
-#### Proof from consequences
+#### Proof from consequences to self
 
 1. Deliberate self-harm is immoral.
 2. Using contraception [causes harm](#proof-that-contraception-causes-self-harm) to the people using it.
-3. Therefore using contraception is immoral.
+3. Therefore using _contraception is immoral._
+
+##### Proof from extra-marital sex
+
+1. Extra-marital sex is bad.
+2. Promoting something bad is bad.
+3. Using contraception promotes contraception to the society at large.
+4. Promoting contraception leads to widespread acceptance of contraception.
+5. Widespread acceptance of contraception promotes extra-marital sex by making it easier to "get away with."
+6. By substitution of 4, promoting contraception promotes extra-marital sex.
+7. By substitution of 3, Using contraception promotes extra-marital sex.
+8. By #2, _using contraception is bad._
 
 #### Proof by [John C Wright](http://www.scifiwright.com/2012/01/contra-contraception-2/)
 
 1. There are some things within full human power, and some things not within full human power.
-3. The human mind is an admixture of [reason, passions, and appetites](#definitions).
-4. Humans are happy when they achieve their [desires](#definitions) and avoid their [aversions](#definitions).
-5. Any appetites and passions which align with that which the reason knows to be true and right, are feasible and praiseworthy.
+2. The human mind is an admixture of [reason, passions, and appetites](#definitions).
+3. Humans are happy when they achieve their [desires](#definitions) and avoid their [aversions](#definitions).
+4. Reason determines the desires and aversions, by deciding what is good.
+5. Appetites and passions do not always align with that which the reason knows to be good and true and right and praiseworthy.
+6. To be happy, reason must command the appetites and passions; restraining them when they point at the false and blameworthy, and encouraging them when they point at the true and praiseworthy.
+    1. Else, the appetites and passions will direct one toward their aversions and away from their desires.
+    2. Which will not lead to happiness by #3.
+7. It is praiseworthy to act with one's desires in accord with nature, and blameworthy to go against nature.
+8. The virtue of self command of the passions to their natural objects is called temperance, and in due degree is called moderation. The moderation and temperance of the sexual passions is called chastity.
+9. Adultery, fornication, sexual perversion are unchaste.
+If a society alters its laws and customs so that the use of contraception is allowed in the laws and approved by the social mores of society, it cannot logically and at the same time disapprove of unchastity.
+
+
+** **
+
+Supporting proofs are found below.
 
 ## Proof that Natural Law is real
 
 1. God exists.
 2. God sustains reality.
 3. Law is a rule of action put into place by one who has care of the community.
-4. 
+4. ...
 
 ## Proof that using contraception breaks the natural law
 
@@ -115,9 +139,10 @@ Sixth:
 
 ## Definitions
 
-- <span id="appetites">Appetites</span>: The appetites consist of bodily cravings for bodily things: salivating at the sight of an apple.
+- Appetites: The appetites consist of bodily cravings for bodily things: salivating at the sight of an apple.
 - Aversion: what one would rather avoid
 - Desire: what one would rather get
 - God: The classical theistic conception of God as Pure Acutality, and Goodness Itself
+- Natural Law: rules of conduct arising out of the natural relations of human beings as established by the Creator. Rules which so necessarily agree with the nature and state of man that, without observing them, the peace and happiness of society can never be preserved.
 - Passions: The passions consist of cravings for imponderables, such a love and honor or revenge or property.
 - Reason: The general name for the faculty by which we distinguish true propositions from false, and by which we judge the rightness or wrongness of actions. (their blameworthiness and praiseworthiness, whether they are fit or right to do)
