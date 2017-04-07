@@ -35,7 +35,7 @@
 2. Using contraception [causes harm](#proof-that-contraception-causes-self-harm) to the people using it.
 3. Therefore using _contraception is immoral._
 
-##### Proof from extra-marital sex
+#### Proof from extra-marital sex
 
 1. Extra-marital sex is bad.
 2. Promoting something bad is bad.
@@ -59,7 +59,8 @@
 7. It is praiseworthy to act with one's desires in accord with nature, and blameworthy to go against nature.
 8. The virtue of self command of the passions to their natural objects is called temperance, and in due degree is called moderation. The moderation and temperance of the sexual passions is called chastity.
 9. Adultery, fornication, sexual perversion are unchaste.
-If a society alters its laws and customs so that the use of contraception is allowed in the laws and approved by the social mores of society, it cannot logically and at the same time disapprove of unchastity.
+11. ...
+10. If a society alters its laws and customs so that the use of contraception is allowed in the laws and approved by the social mores of society, it cannot logically and at the same time disapprove of unchastity.
 
 
 ** **
