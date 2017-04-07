@@ -37,6 +37,8 @@
 
 #### Proof from extra-marital sex
 
+_Adapted from [John C Wright](http://www.scifiwright.com/2012/01/contra-contraception-2/)._
+
 1. Extra-marital sex is bad.
 2. Promoting something bad is bad.
 3. Using contraception promotes contraception to the society at large.
@@ -46,24 +48,9 @@
 7. By substitution of 3, Using contraception promotes extra-marital sex.
 8. By #2, _using contraception is bad._
 
-#### Proof by [John C Wright](http://www.scifiwright.com/2012/01/contra-contraception-2/)
-
-1. There are some things within full human power, and some things not within full human power.
-2. The human mind is an admixture of [reason, passions, and appetites](#definitions).
-3. Humans are happy when they achieve their [desires](#definitions) and avoid their [aversions](#definitions).
-4. Reason determines the desires and aversions, by deciding what is good.
-5. Appetites and passions do not always align with that which the reason knows to be good and true and right and praiseworthy.
-6. To be happy, reason must command the appetites and passions; restraining them when they point at the false and blameworthy, and encouraging them when they point at the true and praiseworthy.
-    1. Else, the appetites and passions will direct one toward their aversions and away from their desires.
-    2. Which will not lead to happiness by #3.
-7. It is praiseworthy to act with one's desires in accord with nature, and blameworthy to go against nature.
-8. The virtue of self command of the passions to their natural objects is called temperance, and in due degree is called moderation. The moderation and temperance of the sexual passions is called chastity.
-9. Adultery, fornication, sexual perversion are unchaste.
-11. ...
-10. If a society alters its laws and customs so that the use of contraception is allowed in the laws and approved by the social mores of society, it cannot logically and at the same time disapprove of unchastity.
-
 
 ** **
+
 
 Supporting proofs are found below.
 
@@ -140,10 +127,5 @@ Sixth:
 
 ## Definitions
 
-- Appetites: The appetites consist of bodily cravings for bodily things: salivating at the sight of an apple.
-- Aversion: what one would rather avoid
-- Desire: what one would rather get
 - God: The classical theistic conception of God as Pure Acutality, and Goodness Itself
 - Natural Law: rules of conduct arising out of the natural relations of human beings as established by the Creator. Rules which so necessarily agree with the nature and state of man that, without observing them, the peace and happiness of society can never be preserved.
-- Passions: The passions consist of cravings for imponderables, such a love and honor or revenge or property.
-- Reason: The general name for the faculty by which we distinguish true propositions from false, and by which we judge the rightness or wrongness of actions. (their blameworthiness and praiseworthiness, whether they are fit or right to do)
