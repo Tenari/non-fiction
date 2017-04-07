@@ -115,7 +115,7 @@ Sixth:
 
 ## Definitions
 
-- Appetites: The appetites consist of bodily cravings for bodily things: salivating at the sight of an apple.
+- <span id="appetites">Appetites</span>: The appetites consist of bodily cravings for bodily things: salivating at the sight of an apple.
 - Aversion: what one would rather avoid
 - Desire: what one would rather get
 - God: The classical theistic conception of God as Pure Acutality, and Goodness Itself
