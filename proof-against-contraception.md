@@ -109,7 +109,7 @@ Fifth:
 1. Adultery, Divorce, and Fornication are sins.
 2. Sins damage one's own relationship with God, which constitutes self-harm.
 3. Contraception facilities all these sins, making them easier to engage in.
-    1. Socially accepted use of contraception facilitates these sins by making the illusion of consequense-free sexal vice possible. 
+    1. Socially accepted use of contraception facilitates these sins by making the illusion of consequence-free sexual vice possible. 
     2. Without perceived consequences, people are more likely to sin.
 4. Wide-spread acceptance of contraception is highly correlated with wide-spread de-stigmatization of these sins.
 5. Thus, to the degree that using contraception makes sin more likely, contraception causes sin.
