@@ -48,6 +48,29 @@ _Adapted from [John C Wright](http://www.scifiwright.com/2012/01/contra-contrace
 7. By substitution of 3, Using contraception promotes extra-marital sex.
 8. By #2, _using contraception is bad._
 
+See [discussion](#discussion-on-proof-from-extra-marital-sex) 
+
+#### Proof from human psychology
+
+1. Truth does not change.
+2. Some beliefs are mutually exclusive.
+    1. eg: "contraception is always morally licit" and  "contracteption is always immoral"
+3. When a group of humans changes their position to something mutually exclusive with their previous position, they are either wrong now, or were wrong in the past.
+4. Humans tend to rationalize their desires for evil things as being good.
+5. If contraception is widely available, humans tend to desire "easier, consequence-free" sex via contraception.
+6. If contraception is immoral and widely available, then by #4 and #5, many humans will not consider it to be immoral.
+7. If contraception is immoral and not widely available, then the distorting influence of #4 is not present, and truth is easier to discover.
+8. Prior to the 1930's, [all significant christian denominations held contraception to be immoral](http://touchstonemag.com/archives/article.php?id=20-04-020-f).
+9. Prior to the 1930's, contraception was not widely available.
+10. After the 1930's, contraception was widely available.
+11. After the 1930's, contraception was widely socially accepted by almost all Christian denominations.
+12. By #3, pro-contraception denominations are either wrong now, or were wrong for the bulk of their historical existence.
+13. By #7, it was easier to discover the truth about contraception for most of history.
+14. By #6 and #10, if contraception is immoral, then many humans will not consider it to be immoral.
+15. If contraception is moral, then there is no reason for church doctrinal change on the issue to be correlated with the availability of contraception.
+16. Church doctrinal change on the issue is correlated with the availability of contraception.
+17. Therefore, unless the correlation is random or spurious, it is more likely that _contraception is immoral_, than that it is moral.
+
 
 ** **
 
@@ -131,3 +154,26 @@ Sixth:
 
 - God: The classical theistic conception of God as Pure Acutality, and Goodness Itself
 - Natural Law: rules of conduct arising out of the natural relations of human beings as established by the Creator. Rules which so necessarily agree with the nature and state of man that, without observing them, the peace and happiness of society can never be preserved.
+
+** **
+
+## Discussions
+
+#### Discussion on proof from extra-marital sex
+
+Objection: 
+```
+that is very consequentialist... "owning guns leads to availability of guns leads to gun-related violence therefore guns are bad." that type of thinking just doesn't have rigor to it imo
+cars promote automobile accidents != cars are bad
+as far as proof is concerned 
+it is still reasonable to avoid an activity that may promote an undesired result
+```
+Reply:
+```
+I guess the line you are bringing into question with your car/gun analogy is #3/#4
+actually, the difference with guns is in line #5. widespread acceptance of guns does not imply widespread "gun violence" in the same way that widespread acceptance of contraception implies extra-marital sex
+yeah, it's line #5 that is the crux. Because if any given technology promotes something bad, then it is bad to that degree, but if it promotes something good, then it is good to that degree, and since things can promote multiple things, then they could have a balance of good-effects and bad-effects
+so essentially, for guns, they do necessarily promote some degree of "gun violence" but they also promote good things like hunting, tradition, fun, competition, self-defense, politeness, etc.
+so the argument I made for contraception is true/valid reasoning, it is just not the whole picture. what the final claim should really say is "contraception is bad in this aspect"
+and having shown it is bad in a (large) aspect it would now be burden of proof on some other to show that it is good in an outweighing way or ways
+```
