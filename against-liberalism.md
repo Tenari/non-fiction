@@ -9,7 +9,7 @@
 3. Discrimination is the act of making (or recognizing) a distinction between two things.
 4. Equality is central to the principal of Liberalism.
 5. By replacement, Liberalism is the political doctrine that securing a lack of distinction between rights is the primary legitimate purpose of a distinction-making authority.
-6. Thus Liberalism is incoherent.
+6. Therefore **Liberalism is incoherent.**
 
 #### Proof by freedom
 
@@ -19,7 +19,7 @@
 4. The number of available choices is proportional to the number of humans who have freedom and inversely proportional to the number and applicability of the laws.
 5. Therefore every law the government makes restricts individual freedom.
 6. By replacement, Liberalism requires that the primary purpose of governemnt is to secure individual freedom by restricting individual freedom.
-7. Therefore Liberalism is incoherent.
+7. Therefore **Liberalism is incoherent.**
 
 #### Proof by rights
 
@@ -34,7 +34,7 @@
 6. Thus Liberalism requires the impossible.
 7. Thus Liberalism is the political doctrine that acheiving the impossible is the primary legitimate purpose of government.
 8. But nothing impossible can be the primary purpose of anything coherent.
-9. Therefore Liberalism is incoherent.
+9. Therefore **Liberalism is incoherent.**
 
 #### Proof by contradiction
 
@@ -45,7 +45,7 @@
 4. By definition, if the government grants a right, it limits the freedom of the subjects to that right.
 5. If #4, then it is impossible for the government to both secure freedom and equal rights, for increasing one necessarily reduces the other.
 6. But nothing impossible can be the primary purpose of anything coherent.
-7. Therefore Liberalism is incoherent.
+7. Therefore **Liberalism is incoherent.**
 
 ## Definitions
 
