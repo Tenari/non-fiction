@@ -54,7 +54,7 @@
 - A **right** is a specific discriminating authority possessed by an individual; for example a property right discriminates between the owner and the trespasser, treating the former’s claims as authoritative over the latter’s claims.
 - **Equal**: the same. Equivalent. Identical.
 - **Authority** is a moral capacity to oblige a subject to choose this thing rather than that.
-- A **subject** is an individual.
+- A **subject** is an individual under authority.
 - **Government** is a discriminating authority which initiates force to support a particular conception of the good.
 
 ## Sources
