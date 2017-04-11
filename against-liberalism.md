@@ -4,7 +4,7 @@
 
 #### Proof by definition of government
 
-1. **Government** is a discriminating authority which initiates force to support a particular conception of the good.
+1. [**Government**](#definitions) is a discriminating authority which initiates force to support a particular conception of the good.
 2. Two things are equal if there is no distinction between them.
 3. Discrimination is the act of making (or recognizing) a distinction between two things.
 4. Equality is central to the principal of Liberalism.
@@ -35,6 +35,17 @@
 7. Thus Liberalism is the political doctrine that acheiving the impossible is the primary legitimate purpose of government.
 8. But nothing impossible can be the primary purpose of anything coherent.
 9. Therefore Liberalism is incoherent.
+
+#### Proof by contradiction
+
+1. [Definition of liberalism](#definitions)
+2. Every right has subjects whose choices must be limited by that right.
+    - By replacement this could also read: Every discriminating authority has subjects who must be obliged to choose *x* rather than *y*.
+3. Thus if the government grants an individual a right, it limits the available choices of the subjects to that right.
+4. By definition, if the government grants a right, it limits the freedom of the subjects to that right.
+5. If #4, then it is impossible for the government to both secure freedom and equal rights, for increasing one necessarily reduces the other.
+6. But nothing impossible can be the primary purpose of anything coherent.
+7. Therefore Liberalism is incoherent.
 
 ## Definitions
 
