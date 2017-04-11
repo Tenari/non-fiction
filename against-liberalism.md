@@ -45,3 +45,11 @@
 - **Authority** is a moral capacity to oblige a subject to choose this thing rather than that.
 - A **subject** is an individual.
 - **Government** is a discriminating authority which initiates force to support a particular conception of the good.
+
+## Sources
+
+Most of the definitions, along with a fair amount of the reasoning came almost word-for-word from Zippy Catholic:
+
+- https://zippycatholic.wordpress.com/2013/11/18/definition-of-liberalism/
+- https://zippycatholic.wordpress.com/2014/04/24/because-i-said-so-thats-why/
+- https://zippycatholic.wordpress.com/2014/08/03/subsidiarity-and-freedom-are-unrelated/
