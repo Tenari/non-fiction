@@ -71,6 +71,15 @@ See [discussion](#discussion-on-proof-from-extra-marital-sex)
 16. Church doctrinal change on the issue is correlated with the availability of contraception.
 17. Therefore, unless the correlation is random or spurious, it is more likely that _contraception is immoral_, than that it is moral.
 
+#### Proof from purpose of government
+
+1. The purpose of government is to restrain the evil desires of its citizens via the promise of punishment.
+2. The current laws and culture defining the Sexual Marketplace (SMP) allow the evil desires of the participants free reign.
+3. Making contraception illegal to produce or sell would severely restrict the free reign of the evil sexual desires of the participants in the SMP.
+4. Thus making contracpetion illegal will restrain the evil desires of the citizens.
+5. Thus government should make contraception illegal, if it is to fulfill its purpose.
+6. But whatever the government should restrain is evil, by definition.
+7. Thus _contraception is evil._
 
 ** **
 
@@ -79,7 +88,14 @@ Supporting proofs are found below.
 
 ## Proof that Natural Law is real
 
+(in progress... defining natural law rigorously is hard...)
+
 1. Definition of [Natural Law](#definitions)
+2. "Cats have four legs" is a true statement.
+3. Not every single cat has four legs.
+4. Thus #2 can only be true if it refers to an archetypical "cat," which contains the essential _essence_ of what it is to be a "cat."
+5. Every exsitent thing has a statement similar to #2 which is true, but not true of every 
+
 2. The relations of human beings have a natural form.
 3. Aberrations from this form are rightly discouraged.
 4. Repeated discouragement of an action creates, or implies the existence of a rule of conduct relating to that action.
@@ -89,10 +105,9 @@ Supporting proofs are found below.
 ## Proof that using contraception breaks the natural law
 
 1. Sex has two natural purposes: Unity and procreation.
-2. Natural law holds that a thing must fulfill, or potentially fulfill it's purpose to be good.
-3. Contraception prevents procreation.
-4. This prevents sex from fully achieving it's purpose.
-5. Thus contraception breaks natural law.
+2. Natural law holds that no thing should be used in a manner directly opposed to its natural purpose.
+3. Contraception is directly opposed to procreation.
+4. Thus contraception breaks natural law.
 
 ## Proof that contraception causes self harm
 
@@ -153,7 +168,7 @@ Sixth:
 ## Definitions
 
 - God: The classical theistic conception of God as Pure Acutality, and Goodness Itself
-- Natural Law: rules of conduct arising out of the natural relations of human beings as established by the Creator. Rules which so necessarily agree with the nature and state of man that, without observing them, the peace and happiness of society can never be preserved.
+- Natural Law: The idea that all things have objective essences which exist independent of the things themseleves, and the idea that these essences contain a purpose which all instantiations of the essence exist *for*, and the idea that it is good to realize the purpose of a thing, and bad to frustrate the realization of the purpose of a thing. The fundamental natural law is: the purpose of rationality is the pursuit of what is good and the avoidance of what frustrates the realization of the good.
 
 ** **
 
