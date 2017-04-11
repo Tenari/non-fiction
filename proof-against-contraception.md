@@ -50,6 +50,17 @@ _Adapted from [John C Wright](http://www.scifiwright.com/2012/01/contra-contrace
 
 See [discussion](#discussion-on-proof-from-extra-marital-sex) 
 
+Alternate form
+
+1. Whatever inhibits goodness or flourishing is evil.
+2. Stable marriages are necessary to a flourishing society.
+3. [Extra-marital sex destabilizes existing marriages](http://socialpathology.blogspot.com/2012/03/promiscuity-data-guest-post.html), and makes people less likely to form new marriages.
+4. Contraception facilitates, and thus increases or causes extra-marital sex.
+5. By substitution, contraception destabilizes existing marriages, and makes people less likely to form new marriages.
+6. But destabilizing what is necessary for flourishing is equivalent to inhibiting flourishing.
+7. Thus contraception inhibits flourishing.
+8. Thus by #1, _contraception is evil._
+
 #### Proof from human psychology
 
 1. Truth does not change.
