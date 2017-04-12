@@ -35,6 +35,8 @@
 2. Using contraception [causes harm](#proof-that-contraception-causes-self-harm) to the people using it.
 3. Therefore using _contraception is immoral._
 
+See [discussion](#discussion-on-proof-from-consequences-to-self) 
+
 #### Proof from extra-marital sex
 
 _Adapted from [John C Wright](http://www.scifiwright.com/2012/01/contra-contraception-2/)._
@@ -202,4 +204,26 @@ yeah, it's line #5 that is the crux. Because if any given technology promotes so
 so essentially, for guns, they do necessarily promote some degree of "gun violence" but they also promote good things like hunting, tradition, fun, competition, self-defense, politeness, etc.
 so the argument I made for contraception is true/valid reasoning, it is just not the whole picture. what the final claim should really say is "contraception is bad in this aspect"
 and having shown it is bad in a (large) aspect it would now be burden of proof on some other to show that it is good in an outweighing way or ways
+```
+
+#### Discussion on proof from consequences to self
+
+Objection:
+```
+I question that all contraception causes self harm because:
+ - You only mention self harm for women but men can have vasectomies. How does that make them ugly?
+ - Of the 5 reasons that contraception makes women ugly, it is possible that a woman could experience none of them.
+```
+
+Reply:
+```
+Before answering the specific objections raised, I will answer the general one: Even if not *every* instance of contraception's use leads to self-harm, the fact that in the main it causes self-harm is enough to damn it *in the main.* Which is still a significantly different position than that of the average American, or the average American Christian, or even the average American Christian Catholic.
+
+In regard to vasectomies: a part of the body is literally made non-functional, constituting self-harm. If a doctor surgically snipped a tendon in my leg, even if I felt no physical pain at the snipping, I would be harmed, because my leg would no longer function. Now, it is a widely accepted principle that self-harm of this sort can be valid as a means to save the whole, but no one gets a vasectomy to save their life. Also, the only guy I knew who had a vasectomy reported non-trivial soreness, swelling, discomfort, and pain lasting for a few days; which all constitute (at least a form of) harm. Which he brought on himself. self-harm.
+
+There were six separate proofs given that contraception causes self-harm. So even if this objection totally invalidates the first proof, that leaves 5 remaining proofs to contend with.
+However, the mere fact that none of the listed uglifications were *noticed* does not imply that they did not happen, humans being notoriously oblivious.
+However, even if a woman existed who was capable of using oral contraceptives without any damage to her phsyical beauty whatsoever, she would still be rendered infertile, which point 2.iv considers to be ugly.
+However, even if point 2.iv is disagreed with, and infertility is not considered ugly, it is still true that any woman using oral contracpetives would be *risking* all of these aspects of her beauty, which should not be undertaken without a valid, outweighing reason. Selfishness generally not being considered a valid reason.
+However, even if she is not considered to be at risk of any of these detriments to her beauty, she would still be setting a bad example for the more-typical woman who does have to contend with all these factors, and on that reason alone would have a strong barrier to overcome in her defense of her own use.
 ```
