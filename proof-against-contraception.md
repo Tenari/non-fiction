@@ -102,22 +102,22 @@ Supporting proofs are found below.
 ## Proof that Natural Law is real
 
 1. Definition of [Natural Law](#definitions)
-2. Physical actions are real things.
-3. Subjective meaning is incoherent.
-4. Thus, if real things are to have meaning at all, that meaning must be objective.
-5. If a man cares about anything at all, he attests to the existence of meaning.
-6. All men care to some degree about something.
-7. Thus all men attest to the existence of objective meaning. (By their actions if not their words)
-8. Thus, it is rational to care about any thing if and only if that thing has objective meaning.
-9. All things occupy the same universe, and therefore affect, or have the potential to affect each other.
-10. Since #9, if it is rational to care about any thing, then it is rational to care about everything. (to some infintesimally small degree)
-11. Thus, if it is rational to care about anything, all things have objective meaning.
-12. By #6 and #8, unless a man admit that nothing he does or thinks is rational *at all*, all things have objective meaning.
-13. But no rational man can admit #12, because it is irrational to believe that rationality does not exist.
-14. Thus it is rational to care about things.
-15. By #11 and #14, all things have objective meaning.
-16. That all things have objective meaning is just a shorter definiton of natural law.
-17. Thus natural law is real.
+2. Subjective meaning is incoherent.
+3. Thus, if real things are to have meaning at all, that meaning must be objective.
+4. If a man cares about anything at all, he attests to the existence of meaning.
+    - For no man cares about that which he considers meaningless
+5. All men care to some degree about something.
+6. Thus all men attest to the existence of objective meaning. (By their actions if not their words)
+7. Thus, it is rational to care about any thing if and only if that thing has objective meaning.
+8. All things occupy the same universe, and therefore affect, or have the potential to affect each other.
+9. Since #8, if it is rational to care about any thing, then it is rational to care about everything. (to some infintesimally small degree)
+10. Thus, if it is rational to care about anything, all things have objective meaning.
+11. By #5 and #10, unless a man admit that nothing he does or thinks is rational *at all*, all things have objective meaning.
+12. But no rational man can admit #11, because it is irrational to believe that rationality does not exist.
+13. Thus it is rational to care about things.
+14. By #10 and #13, all things have objective meaning.
+15. That all things have objective meaning is just a shorter definiton of natural law.
+16. Thus natural law is real.
 
 ## Proof that using contraception breaks the natural law
 
