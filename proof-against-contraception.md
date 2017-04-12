@@ -101,19 +101,23 @@ Supporting proofs are found below.
 
 ## Proof that Natural Law is real
 
-(in progress... defining natural law rigorously is hard...)
-
 1. Definition of [Natural Law](#definitions)
-2. "Cats have four legs" is a true statement.
-3. Not every single cat has four legs.
-4. Thus #2 can only be true if it refers to an archetypical "cat," which contains the essential _essence_ of what it is to be a "cat."
-5. Every exsitent thing has a statement similar to #2 which is true, but not true of every 
-
-2. The relations of human beings have a natural form.
-3. Aberrations from this form are rightly discouraged.
-4. Repeated discouragement of an action creates, or implies the existence of a rule of conduct relating to that action.
-5. Thus, the natural relations of human beings give rise to rules of conduct.
-6. These rules of conduct are the definition of natural law. QED
+2. Physical actions are real things.
+3. Subjective meaning is incoherent.
+4. Thus, if real things are to have meaning at all, that meaning must be objective.
+5. If a man cares about anything at all, he attests to the existence of meaning.
+6. All men care to some degree about something.
+7. Thus all men attest to the existence of objective meaning. (By their actions if not their words)
+8. Thus, it is rational to care about any thing if and only if that thing has objective meaning.
+9. All things occupy the same universe, and therefore affect, or have the potential to affect each other.
+10. Since #9, if it is rational to care about any thing, then it is rational to care about everything. (to some infintesimally small degree)
+11. Thus, if it is rational to care about anything, all things have objective meaning.
+12. By #6 and #8, unless a man admit that nothing he does or thinks is rational *at all*, all things have objective meaning.
+13. But no rational man can admit #12, because it is irrational to believe that rationality does not exist.
+14. Thus it is rational to care about things.
+15. By #11 and #14, all things have objective meaning.
+16. That all things have objective meaning is just a shorter definiton of natural law.
+17. Thus natural law is real.
 
 ## Proof that using contraception breaks the natural law
 
