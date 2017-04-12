@@ -25,11 +25,11 @@
 
 1. [Liberalism](#definitions) requires that all citizens hold equal [rights](#definitions).
 2. Assume subject A has concrete right X.
-    1. Alan has the right to wear this sock.
+    - Alan has the right to wear this sock.
 3. By #1, subject B must also have concrete right X.
-    1. Bob must also have the right to wear this sock.
+    - Bob must also have the right to wear this sock.
 4. By definition, a right can only be possessed by one entity. "An individual"
-    1. Both Alan and Bob cannot wear the same sock at the same time.
+    - Both Alan and Bob cannot wear the same sock at the same time.
 5. Thus, it is impossible for subject A and subject B to both have concrete right X.
 6. Thus Liberalism requires the impossible.
 7. Thus Liberalism is the political doctrine that acheiving the impossible is the primary legitimate purpose of government.
