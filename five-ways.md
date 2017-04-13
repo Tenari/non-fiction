@@ -15,6 +15,7 @@
     - [The Third Way: Argument from Possibility and Necessity](#the-third-way-argument-from-possibility-and-necessity)
     - [The Fourth Way: Argument from Gradation of Being](#the-fourth-way-argument-from-gradation-of-being)
     - [The Fifth Way: Argument from Design](#the-fifth-way-argument-from-design)
+- [References](#references)
 
 ## Introduction
 
@@ -37,7 +38,7 @@ Theorem: God, an object which causes all change in the universe and does not its
 6. Any changing thing requires another concurrent external influence.
 7. #5 and #6 together imply either:
     1. a terminated series containing an initial influence, which proves the theorem by 5.i
-    2. an infinite series of concurrent externally changing objects.
+    2. an infinite series of changing objects, each concurrently influencing the next.
 8. #7.ii is impossible.
     1. Each item in a concurrent causal series of changes derives it power to cause change from the previous item.
     2. If there is no first item, there is no item from which power to cause change is initially derived, leaving no explanation for why change occurs.
@@ -118,3 +119,11 @@ if it exists because its potential to exist is actualized, then it is being made
 4. Therefore some intelligent being exists by whom all natural things are directed to their end; and this being we call God.
 
 > The fifth way is taken from the governance of the world. We see that things which lack intelligence, such as natural bodies, act for an end, and this is evident from their acting always, or nearly always, in the same way, so as to obtain the best result. Hence it is plain that not fortuitously, but designedly, do they achieve their end. Now whatever lacks intelligence cannot move towards an end, unless it be directed by some being endowed with knowledge and intelligence; as the arrow is shot to its mark by the archer. Therefore some intelligent being exists by whom all natural things are directed to their end; and this being we call God.
+
+## References
+
+- http://www.aquinasonline.com/Topics/firstway-analysis.pdf
+- http://branemrys.blogspot.com/2004/11/aquinass-first-way.html
+- http://egnorance.blogspot.com/2011/08/aquinas-first-way.html
+- http://web.mnstate.edu/gracyk/courses/web%20publishing/aquinasfiveways_argumentanalysis.htm?_
+- https://www.amazon.com/Aquinas-Beginners-Guide-Guides-ebook/dp/B00O0G3BEW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1492048538&sr=1-1&keywords=aquinas
