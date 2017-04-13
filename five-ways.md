@@ -1,5 +1,7 @@
 # The Five Ways
 
+To prove the existence of God.
+
 ## Content
 
 - [Introduction](#introduction)
