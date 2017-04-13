@@ -8,7 +8,7 @@ Some of these proofs are stronger than other. Any given proposition can be debat
 
 ## Proofs
 
-Theorem: Democracy is evil
+**Theorem: Democracy is evil**
 
 Proof:
 1. *Democracy* is a *form of government*.
