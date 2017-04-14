@@ -240,3 +240,13 @@ Reply:
 > However, even if point 2.iv is disagreed with, and infertility is not considered ugly, it is still true that any woman using oral contracpetives would be *risking* all of these aspects of her beauty, which should not be undertaken without a valid, outweighing reason. Selfishness generally not being considered a valid reason.
 > 
 > However, even if she is not considered to be at risk of any of these detriments to her beauty, she would still be setting a bad example for the more-typical woman who does have to contend with all these factors, and on that reason alone would have a strong barrier to overcome in her defense of her own use.
+
+Objection:
+
+> There are many types of contraception, not just oral.  (IUD'S, condoms, diaphragm, cervical cap, etc)  You're saying that all of these make you ugly and do self harm?
+
+Reply:
+
+> If you define loss or suspension of capability as harm, then losing (or suspending) your fertility, in whatever manner, counts as harm.
+> 
+> If you don't accept that definition, then I would have to concede that it is possible that those other methods do not apply to the "makes women ugly" form of the proof that contraception causes self harm. But there are still 5 other proofs supporting the claim "contraception causes self-harm." The proofs from divorce, risk, reduced pleasure, other sin, and insult would still apply to all the forms of contraception. Furthermore, oral contraceptives are the prevailing method in use among steady partners, so it is still significant to show that using those are immoral/a bad idea.
