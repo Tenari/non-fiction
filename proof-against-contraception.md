@@ -11,6 +11,8 @@
 7. Thus, what we consider "evil" is best understood as a privation of good, or a *lack* of goodness.
 8. If evil is a privation of good, then _contraception is evil_ by the [proof from privation view of evil](#proof-from-privation-view-of-evil).
 
+See [discussion](#discussion-on-proof-from-existence-of-god) 
+
 #### Proof from privation view of evil
 
 1. Evil is a privation of good.
@@ -250,3 +252,25 @@ Reply:
 > If you define loss or suspension of capability as harm, then losing (or suspending) your fertility, in whatever manner, counts as harm.
 > 
 > If you don't accept that definition, then I would have to concede that it is possible that those other methods do not apply to the "makes women ugly" form of the proof that contraception causes self harm. But there are still 5 other proofs supporting the claim "contraception causes self-harm." The proofs from divorce, risk, reduced pleasure, other sin, and insult would still apply to all the forms of contraception. Furthermore, oral contraceptives are the prevailing method in use among steady partners, so it is still significant to show that using those are immoral/a bad idea.
+
+Objection:
+
+> You say that using contraception makes women ugly, but having babies causes women to look ugly as well. The stress of pregnancy and motherhood, contributes to aging, and the young always look better than the old.
+
+Reply:
+
+> Assume both are true: that contraception makes women ugly and childbirth makes them ugly.
+> 
+> In this case, the logic against contraception is not affected, because any given women can simply abstain from sex if she wishes not to have children. Phrased another way, no premise or logical extrapolation listed in the proof is invalidated by the (assumed) true fact that childbirth can cause women to look uglier.
+
+#### Discussion on proof from existence of God
+
+Objection:
+
+> I do not think that evil is a privation of good, because humans can choose between good and evil. The fact of human choice allows humans to create evil, therefore evil exists and is not a privation.
+
+Reply:
+
+> The fact of human choice implies that they are able to create things which are less than perfect. But this lack of perfection is just what we refer to when we say "evil." Thus evil remains best understood as a privation of good.
+> 
+> Humans themselves are contingent beings. We cannot create anything soley of ourselves, thus everything we cause to exist must find it's most fundamental cause in God. If we consider that God is good, we must then either reconcile the seemingly contradictory statements that something Purely Good creates something evil, or we must consider that evil as such does not actually exist. If evil is merely imperfection, or the absence of Good, then it is at least plausible that something Purely Good could create something that is only partially good. God created everything, "and He saw that it was good."
