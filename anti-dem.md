@@ -6,6 +6,14 @@ Some of these proofs are stronger than other. Any given proposition can be debat
 
 "Democracy is the worst, except for all the others," is the frequent rejoinder from defenders of democracy who have heard my critique. I'll not dispute the claim here, but merely point out, that if it truly is the best form of government, AND if all I say below is true, then it should be easy--nay, trivial--to support the claim that "Monarchy is evil," and it should be possible, though not necessarily easy to support the claim that "Monarchy is more evil than Democracy." I leave doing so as an exercise to the reader.
 
+## Definitions
+
+Democracy - A system of government in which the people of a state are involved in making decisions about its affairs, typically by voting to elect representatives to a parliament or similar assembly.
+
+Republic - a form of government in which power resides in elected individuals representing the citizen body.
+
+It would appear then, that all Republics are Democracies, though perhaps not all Democracies must be Republics.
+
 ## Proofs
 
 **Theorem: Democracy is evil**
@@ -26,6 +34,35 @@ Proof:
 9. By the combination of #6 and #8, *Democracy is evil*.
 
 QED
+
+Alternate Proof:
+
+1. Lies are evil.
+2. Structures built on lies are evil.
+3. Democracy is built on the lie that "all men are equal."
+4. Thus, Democracy is evil.
+
+Alternate Proof:
+
+1. The purpose of government is to restrain evil, or promote good.
+2. A government is evil to the degree that it fails to fullfill its purpose.
+3. Democracies consistently fail to fulfill their roles to a significant degree.
+    - Every government that has killed multiple millions of its own citizens has called itself a democracy.
+        - People's Republic of China: 73M
+        - United States of America: >59M abortions alone. not to mention all the other mass killings USG perpetrated.
+        - Union of Soviet Socialist Republics: 58M
+        - Weimar Republic (Nazis): 21M 
+        - Democratic People's Republic of Korea: 3M
+    - Democracies consistently produce an enormous number of laws, which burden the citizens and prevent human flourishing.
+    - Democracies frequently imprision significant chunks of their population.
+        - Seychelles: 799 per 100k
+        - USA: 698
+        - Democratic People's Republic of Korea: 600-800
+        - Cuba: 510
+        - Saint Kitts and Nevis: 607
+        - Turkmenistan: 583
+        - Republic of Rwanda: 492
+4. Therefore, the form *democracy* is to blame, rather than any particular instantiation of the form.
 
 ### Proof of #7-i
 
@@ -95,7 +132,9 @@ QED
 - The USG tempts its citizens to *greed*.
     1. *Greed* is the inordinate love for riches.
     2. Men love that which their society exalts.
-    3. 
+    3. The US society fundamentally exalts worldy riches.
+    4. The USG is an integral part of the US society.
+    5. Thus, by contributing to US society's exhaltation of riches, the USG tempts its citizens to *greed*,
 
 ### Proof of #7.1.4
 - The USG excuses its citizens' gluttony.
