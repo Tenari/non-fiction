@@ -7,7 +7,7 @@ Proof by goodness
 1. Everything that exists is physical.
 2. Moral Goodness is not physical.
 3. Thus, Moral Goodness is not objective; is not real.
-    - Subjective Goodness is incoherent. _[proof]([#subjective-goodness-is-incoherent)_
+    - Subjective Goodness is incoherent. _[proof](#subjective-goodness-is-incoherent)_
 4. Everyone acts in accord with what he thinks is good in some sense.
 5. By combination of #3 and #4, everyone acts irrationally, always.
 6. #5 is absurd, and known to be false. Thus, the premise is false.
