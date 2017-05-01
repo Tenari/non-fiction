@@ -28,3 +28,7 @@ Materialism: the belief that matter is the fundamental substance in nature, and 
 ### Subjective Goodness is incoherent
 
 The principle of subjective goodness assumes that at least one objective good exists: The pursuit of our subjective conceptions of good. But if it is objectively good to pursue our subjective conceptions of good, then objective moral goodness exists.
+
+## Further reading
+
+More [reading](http://www.scifiwright.com/on-materialism/) on this subject than you could ever want.
