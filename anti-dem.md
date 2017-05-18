@@ -64,6 +64,18 @@ Alternate Proof:
         - Republic of Rwanda: 492
 4. Therefore, the form *democracy* is to blame, rather than any particular instantiation of the form.
 
+Alternate Proof:
+
+1. Things have natures, or essences.
+2. It is only in comparison to these natures that any particular thing can be known as **good** or **evil**.
+3. Human society is by nature hierarchical.
+4. Democracy has as its fundamental premise that there should be no hierarchy.
+    - "Rule of the people" as opposed to "Rule of the King" or "Rule of the Aristocracy"
+5. Democracies are human societies.
+6. Democracies are therefore deficient human societies, as they intentionally fail to fulfill their natural hierachical nature.
+7. Intentional failure to fulfill the nature of a thing is evil.
+8. Thus *Democracy is evil*.
+
 ### Proof of #7-i
 
 - The USG influences its citizens to become more evil themselves in the following ways:
