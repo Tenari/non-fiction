@@ -1,0 +1,13 @@
+# II. Conversion and Society
+
+1886. Society is essential to the fulfillment of the human vocation. To attain this aim, respect must be accorded to the just hierarchy of values, which "subordinates physical and instinctual dimensions to interior and spiritual ones:"
+
+Human society must primarily be considered something pertaining to the spiritual. Through it, in the bright light of truth, men should share their knowledge, be able to exercise their rights and fulfill their obligations, be inspired to seek spiritual values; mutually derive genuine pleasure from the beautiful, of whatever order it be; always be readily disposed to pass on to others the best of their own cultural heritage; and eagerly strive to make their own the spiritual achievements of others. These benefits not only influence, but at the same time give aim and scope to all that has bearing on cultural expressions, economic, and social institutions, political movements and forms, laws, and all other structures by which society is outwardly established and constantly developed.
+
+1887. The inversion of means and ends, which results in giving the value of ultimate end to what is only a means for attaining it, or in viewing persons as mere means to that end, engenders unjust structures which "make Christian conduct in keeping with the commandments of the divine Law-giver difficult and almost impossible."
+
+1888. It is necessary, then, to appeal to the spiritual and moral capacities of the human person and to the permanent need for his inner conversion, so as to obtain social changes that will really serve him. the acknowledged priority of the conversion of heart in no way eliminates but on the contrary imposes the obligation of bringing the appropriate remedies to institutions and living conditions when they are an inducement to sin, so that they conform to the norms of justice and advance the good rather than hinder it.
+
+1889. Without the help of grace, men would not know how "to discern the often narrow path between the cowardice which gives in to evil, and the violence which under the illusion of fighting evil only makes it worse." This is the path of charity, that is, of the love of God and of neighbor. Charity is the greatest social commandment. It respects others and their rights. It requires the practice of justice, and it alone makes us capable of it. Charity inspires a life of self-giving: "Whoever seeks to gain his life will lose it, but whoever loses his life will preserve it."
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P6G.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P6I.md)

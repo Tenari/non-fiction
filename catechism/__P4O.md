@@ -1,0 +1,7 @@
+# V. Viaticum, the Last Sacrament of the Christian
+
+1524. In addition to the Anointing of the Sick, the Church offers those who are about to leave this life the Eucharist as viaticum. Communion in the body and blood of Christ, received at this moment of "passing over" to the Father, has a particular significance and importance. It is the seed of eternal life and the power of resurrection, according to the words of the Lord: "He who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day." The sacrament of Christ once dead and now risen, the Eucharist is here the sacrament of passing over from death to life, from this world to the Father.
+
+1525. Thus, just as the sacraments of Baptism, Confirmation, and the Eucharist form a unity called "the sacraments of Christian initiation," so too it can be said that Penance, the Anointing of the Sick and the Eucharist as viaticum constitute at the end of Christian life "the sacraments that prepare for our heavenly homeland" or the sacraments that complete the earthly pilgrimage.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P4N.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P4P.md)

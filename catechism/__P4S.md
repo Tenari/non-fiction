@@ -1,0 +1,7 @@
+# I. Why Is This Sacrament Called "Orders"?
+
+1537. The word order in Roman antiquity designated an established civil body, especially a governing body. Ordinatio means incorporation into an ordo. In the Church there are established bodies which Tradition, not without a basis in Sacred Scripture, has since ancient times called taxeis (Greek) or ordines. and so the liturgy speaks of the ordo episcoporum, the ordo presbyterorum, the ordo diaconorum. Other groups also receive this name of ordo: catechumens, virgins, spouses, widows,....
+
+1538. Integration into one of these bodies in the Church was accomplished by a rite called ordinatio, a religious and liturgical act which was a consecration, a blessing or a sacrament. Today the word "ordination" is reserved for the sacramental act which integrates a man into the order of bishops, presbyters, or deacons, and goes beyond a simple election, designation, delegation, or institution by the community, for it confers a gift of the Holy Spirit that permits the exercise of a "sacred power" (sacra potestas) which can come only from Christ himself through his Church. Ordination is also called consecratio, for it is a setting apart and an investiture by Christ himself for his Church. the laying on of hands by the bishop, with the consecratory prayer, constitutes the visible sign of this ordination.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P4R.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P4T.md)

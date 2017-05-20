@@ -1,0 +1,7 @@
+# II. To Judge the Living and the Dead
+
+678. Following in the steps of the prophets and John the Baptist, Jesus announced the judgement of the Last Day in his preaching. Then will the conduct of each one and the secrets of hearts be brought to light. Then will the culpable unbelief that counted the offer of God's grace as nothing be condemned. Our attitude to our neighbour will disclose acceptance or refusal of grace and divine love. On the Last Day Jesus will say: "Truly I say to you, as you did it to one of the least of these my brethren, you did it to me."
+
+679. Christ is Lord of eternal life. Full right to pass definitive judgement on the works and hearts of men belongs to him as redeemer of the world. He "acquired" this right by his cross. the Father has given "all judgement to the Son". Yet the Son did not come to judge, but to save and to give the life he has in himself. By rejecting grace in this life, one already judges oneself, receives according to one's works, and can even condemn oneself for all eternity by rejecting the Spirit of love.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P1V.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P1X.md)

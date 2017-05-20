@@ -1,0 +1,13 @@
+# VI. The Necessity of Baptism
+
+1257. The Lord himself affirms that Baptism is necessary for salvation. He also commands his disciples to proclaim the Gospel to all nations and to baptize them. Baptism is necessary for salvation for those to whom the Gospel has been proclaimed and who have had the possibility of asking for this sacrament. The Church does not know of any means other than Baptism that assures entry into eternal beatitude; this is why she takes care not to neglect the mission she has received from the Lord to see that all who can be baptized are "reborn of water and the Spirit." God has bound salvation to the sacrament of Baptism, but he himself is not bound by his sacraments.
+
+1258. The Church has always held the firm conviction that those who suffer death for the sake of the faith without having received Baptism are baptized by their death for and with Christ. This Baptism of blood, like the desire for Baptism, brings about the fruits of Baptism without being a sacrament.
+
+1259. For catechumens who die before their Baptism, their explicit desire to receive it, together with repentance for their sins, and charity, assures them the salvation that they were not able to receive through the sacrament.
+
+1260. "Since Christ died for all, and since all men are in fact called to one and the same destiny, which is divine, we must hold that the Holy Spirit offers to all the possibility of being made partakers, in a way known to God, of the Paschal mystery." Every man who is ignorant of the Gospel of Christ and of his Church, but seeks the truth and does the will of God in accordance with his understanding of it, can be saved. It may be supposed that such persons would have desired Baptism explicitly if they had known its necessity.
+
+1261. As regards children who have died without Baptism, the Church can only entrust them to the mercy of God, as she does in her funeral rites for them. Indeed, the great mercy of God who desires that all men should be saved, and Jesus' tenderness toward children which caused him to say: "Let the children come to me, do not hinder them," allow us to hope that there is a way of salvation for children who have died without Baptism. All the more urgent is the Church's call not to prevent little children coming to Christ through the gift of holy Baptism.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P3L.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P3N.md)

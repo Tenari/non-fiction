@@ -1,0 +1,11 @@
+# VI. Who Can Receive This Sacrament?
+
+1577. "Only a baptized man (vir) validly receives sacred ordination." The Lord Jesus chose men (viri) to form the college of the twelve apostles, and the apostles did the same when they chose collaborators to succeed them in their ministry. The college of bishops, with whom the priests are united in the priesthood, makes the college of the twelve an ever-present and ever-active reality until Christ's return. the Church recognizes herself to be bound by this choice made by the Lord himself. For this reason the ordination of women is not possible.
+
+1578. No one has a right to receive the sacrament of Holy Orders. Indeed no one claims this office for himself; he is called to it by God. Anyone who thinks he recognizes the signs of God's call to the ordained ministry must humbly submit his desire to the authority of the Church, who has the responsibility and right to call someone to receive orders. Like every grace this sacrament can be received only as an unmerited gift.
+
+1579. All the ordained ministers of the Latin Church, with the exception of permanent deacons, are normally chosen from among men of faith who live a celibate life and who intend to remain celibate "for the sake of the kingdom of heaven." Called to consecrate themselves with undivided heart to the Lord and to "the affairs of the Lord," they give themselves entirely to God and to men. Celibacy is a sign of this new life to the service of which the Church's minister is consecrated; accepted with a joyous heart celibacy radiantly proclaims the Reign of God.
+
+1580. In the Eastern Churches a different discipline has been in force for many centuries: while bishops are chosen solely from among celibates, married men can be ordained as deacons and priests. This practice has long been considered legitimate; these priests exercise a fruitful ministry within their communities. Moreover, priestly celibacy is held in great honor in the Eastern Churches and many priests have freely chosen it for the sake of the Kingdom of God. In the East as in the West a man who has already received the sacrament of Holy Orders can no longer marry.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P4W.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P4Y.md)

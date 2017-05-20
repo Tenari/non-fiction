@@ -1,0 +1,7 @@
+# III. The Different Kinds of Sins
+
+1852. There are a great many kinds of sins. Scripture provides several lists of them. the Letter to the Galatians contrasts the works of the flesh with the fruit of the Spirit: "Now the works of the flesh are plain: fornication, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, anger, selfishness, dissension, factions, envy, drunkenness, carousing, and the like. I warn you, as I warned you before, that those who do such things shall not inherit the Kingdom of God."
+
+1853. Sins can be distinguished according to their objects, as can every human act; or according to the virtues they oppose, by excess or defect; or according to the commandments they violate. They can also be classed according to whether they concern God, neighbor, or oneself; they can be divided into spiritual and carnal sins, or again as sins in thought, word, deed, or omission. the root of sin is in the heart of man, in his free will, according to the teaching of the Lord: "For out of the heart come evil thoughts, murder, adultery, fornication, theft, false witness, slander. These are what defile a man." But in the heart also resides charity, the source of the good and pure works, which sin wounds.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P6A.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P6C.md)

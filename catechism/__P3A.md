@@ -1,0 +1,19 @@
+# IV. Where is the Liturgy Celebrated?
+
+1179. The worship "in Spirit and in truth" of the New Covenant is not tied exclusively to any one place. the whole earth is sacred and entrusted to the children of men. What matters above all is that, when the faithful assemble in the same place, they are the "living stones," gathered to be "built into a spiritual house." For the Body of the risen Christ is the spiritual temple from which the source of living water springs forth: incorporated into Christ by the Holy Spirit, "we are the temple of the living God."
+
+1180. When the exercise of religious liberty is not thwarted, Christians construct buildings for divine worship. These visible churches are not simply gathering places but signify and make visible the Church living in this place, the dwelling of God with men reconciled and united in Christ.
+
+1181. A church, "a house of prayer in which the Eucharist is celebrated and reserved, where the faithful assemble, and where is worshipped the presence of the Son of God our Savior, offered for us on the sacrificial altar for the help and consolation of the faithful - this house ought to be in good taste and a worthy place for prayer and sacred ceremonial." In this "house of God" the truth and the harmony of the signs that make it up should show Christ to be present and active in this place.
+
+1182. The altar of the New Covenant is the Lord's Cross, from which the sacraments of the Paschal mystery flow. On the altar, which is the center of the church, the sacrifice of the Cross is made present under sacramental signs. the altar is also the table of the Lord, to which the People of God are invited. In certain Eastern liturgies, the altar is also the symbol of the tomb (Christ truly died and is truly risen).
+
+1183. The tabernacle is to be situated "in churches in a most worthy place with the greatest honor." The dignity, placing, and security of the Eucharistic tabernacle should foster adoration before the Lord really present in the Blessed Sacrament of the altar. The sacred chrism (myron), used in anointings as the sacramental sign of the seal of the gift of the Holy Spirit, is traditionally reserved and venerated in a secure place in the sanctuary. the oil of catechumens and the oil of the sick may also be placed there.
+
+1184. The chair (cathedra) of the bishop or the priest "should express his office of presiding over the assembly and of directing prayer." The lectern (ambo): "The dignity of the Word of God requires the church to have a suitable place for announcing his message so that the attention of the people may be easily directed to that place during the liturgy of the Word."
+
+1185. The gathering of the People of God begins with Baptism; a church must have a place for the celebration of Baptism (baptistry) and for fostering remembrance of the baptismal promises (holy water font). The renewal of the baptismal life requires penance. A church, then, must lend itself to the expression of repentance and the reception of forgiveness, which requires an appropriate place to receive penitents. A church must also be a space that invites us to the recollection and silent prayer that extend and internalize the great prayer of the Eucharist.
+
+1186. Finally, the church has an eschatological significance. To enter into the house of God, we must cross a threshold, which symbolizes passing from the world wounded by sin to the world of the new Life to which all men are called. the visible church is a symbol of the Father's house toward which the People of God is journeying and where the Father "will wipe every tear from their eyes." Also for this reason, the Church is the house of all God's children, open and welcoming.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P39.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P3B.md)

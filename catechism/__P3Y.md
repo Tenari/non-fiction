@@ -1,0 +1,13 @@
+# II. What is This Sacrament Called?
+
+1328. The inexhaustible richness of this sacrament is expressed in the different names we give it. Each name evokes certain aspects of it. It is called: Eucharist, because it is an action of thanksgiving to God. the Greek words eucharistein and eulogein recall the Jewish blessings that proclaim - especially during a meal - God's works: creation, redemption, and sanctification.
+
+1329. The Lord's Supper, because of its connection with the supper which the Lord took with his disciples on the eve of his Passion and because it anticipates the wedding feast of the Lamb in the heavenly Jerusalem. The Breaking of Bread, because Jesus used this rite, part of a Jewish meat when as master of the table he blessed and distributed the bread, above all at the Last Supper. It is by this action that his disciples will recognize him after his Resurrection, and it is this expression that the first Christians will use to designate their Eucharistic assemblies; by doing so they signified that all who eat the one broken bread, Christ, enter into communion with him and form but one body in him. The Eucharistic assembly (synaxis), because the Eucharist is celebrated amid the assembly of the faithful, the visible expression of the Church.
+
+1330. The memorial of the Lord's Passion and Resurrection. The Holy Sacrifice, because it makes present the one sacrifice of Christ the Savior and includes the Church's offering. the terms holy sacrifice of the Mass, "sacrifice of praise," spiritual sacrifice, pure and holy sacrifice are also used, since it completes and surpasses all the sacrifices of the Old Covenant. The Holy and Divine Liturgy, because the Church's whole liturgy finds its center and most intense expression in the celebration of this sacrament; in the same sense we also call its celebration the Sacred Mysteries. We speak of the Most Blessed Sacrament because it is the Sacrament of sacraments. the Eucharistic species reserved in the tabernacle are designated by this same name.
+
+1331. Holy Communion, because by this sacrament we unite ourselves to Christ, who makes us sharers in his Body and Blood to form a single body. We also call it: the holy things (ta hagia; sancta) - the first meaning of the phrase "communion of saints" in the Apostles' Creed - the bread of angels, bread from heaven, medicine of immortality, viaticum....
+
+1332. Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful, so that they may fulfill God's will in their daily lives.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P3X.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P3Z.md)

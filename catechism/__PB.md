@@ -1,0 +1,11 @@
+# III. The Knowledge of God According to the Church
+
+36. "Our holy mother, the Church, holds and teaches that God, the first principle and last end of all things, can be known with certainty from the created world by the natural light of human reason." Without this capacity, man would not be able to welcome God's revelation. Man has this capacity because he is created "in the image of God".
+
+37. In the historical conditions in which he finds himself, however, man experiences many difficulties in coming to know God by the light of reason alone:
+
+Though human reason is, strictly speaking, truly capable by its own natural power and light of attaining to a true and certain knowledge of the one personal God, who watches over and controls the world by his providence, and of the natural law written in our hearts by the Creator; yet there are many obstacles which prevent reason from the effective and fruitful use of this inborn faculty. For the truths that concern the relations between God and man wholly transcend the visible order of things, and, if they are translated into human action and influence it, they call for self-surrender and abnegation. the human mind, in its turn, is hampered in the attaining of such truths, not only by the impact of the senses and the imagination, but also by disordered appetites which are the consequences of original sin. So it happens that men in such matters easily persuade themselves that what they would not like to be true is false or at least doubtful.
+
+38. This is why man stands in need of being enlightened by God's revelation, not only about those things that exceed his understanding, but also "about those religious and moral truths which of themselves are not beyond the grasp of human reason, so that even in the present condition of the human race, they can be known by all men with ease, with firm certainty and with no admixture of error".
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__PA.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__PC.md)

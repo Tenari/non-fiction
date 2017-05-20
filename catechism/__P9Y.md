@@ -1,0 +1,7 @@
+# II. The Lord's Prayer
+
+2765. The traditional expression "the Lord's Prayer" - oratio Dominica - means that the prayer to our Father is taught and given to us by the Lord Jesus. the prayer that comes to us from Jesus is truly unique: it is "of the Lord." On the one hand, in the words of this prayer the only Son gives us the words the Father gave him: he is the master of our prayer. On the other, as Word incarnate, he knows in his human heart the needs of his human brothers and sisters and reveals them to us: he is the model of our prayer.
+
+2766. But Jesus does not give us a formula to repeat mechanically. As in every vocal prayer, it is through the Word of God that the Holy Spirit teaches the children of God to pray to their Father. Jesus not only gives us the words of our filial prayer; at the same time he gives us the Spirit by whom these words become in us "spirit and life." Even more, the proof and possibility of our filial prayer is that the Father "sent the Spirit of his Son into our hearts, crying, 'Abba! Father!'" Since our prayer sets forth our desires before God, it is again the Father, "he who searches the hearts of men," who "knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God." The prayer to Our Father is inserted into the mysterious mission of the Son and of the Spirit.
+
+[previous](https://github.com/Tenari/non-fiction/blob/master/catechism/__P9X.md) | [next](https://github.com/Tenari/non-fiction/blob/master/catechism/__P9Z.md)
