@@ -3,6 +3,8 @@
 - [Abortion](#abortion)
 - [Atheism](#atheism)
 - [Blank Slate](#blank-slate)
+- [Consequentialism](#consequentialism)
+- [Contraception](#contraception)
 - [Democracy](#democracy)
 - [Divorce](#divorce)
 - [Education](#education)
@@ -13,6 +15,7 @@
 - [Gluttony](#gluttony)
 - [Hedonism](#hedonism)
 - [Homosexuality](#homosexuality)
+- [Liberalism](#liberalism)
 - [Minimum Wage](#minimum-wage)
 - [Pacifism](#pacifism)
 - [Voting](#voting)
@@ -34,6 +37,18 @@ Truth: There is more than one way to prove that God exists. It has been shown lo
 Error: Any man, with the right training, could become the next Bethoveen.
 
 Truth: Not all men have the same potential. Every man is unique, and thus is suited to different tasks in different ways. No amount of training can alter fundamental human nature.
+
+### Consequentialism
+
+Error: It is sometimes justified to choose evil means in order to achieve good ends.
+
+Truth: Evil means should never be chosen, because only God can foresee all the consequences of any given action, thus no human can rightly calculate if any good end will result from evil means. Also, don't be evil. Choosing evil, whatever the justification, is still choosing evil. Don't choose evil.
+
+### Contraception
+
+Error: Contraception is morally neutral, and should be promoted for safe sex.
+
+Truth: Contraception is gravely evil, because it perverts the most unifying act a man and woman can enjoy. Promotion of contraception is evil, because promoting evil is itself evil, and because the reliable effect of promoting contraception is to destroy society's intuitions about sexual morality.
 
 ### Democracy
 
@@ -94,6 +109,12 @@ Truth: The purpose of life is the love the Lord your God with all your heart, so
 Error: Homosexuality is morally neutral, and gay "marriage" is a good thing.
 
 Truth: Marriage is fundamentally between only a man and a woman, and only in that context is sex ever licit, thus homosexuality cannot ever be morally licit.
+
+### Liberalism
+
+Error: Securing maximum freedom and equal rights is the primary purpose of government.
+
+Truth: The primary purpose of government is to restrain evil and to promote good. [Freedom](#freedom) is not always good, and [equality](#equality) is nonsense outside of mathematical contexts.
 
 ### Minimum Wage
 
