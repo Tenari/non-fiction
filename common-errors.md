@@ -15,9 +15,11 @@
 - [Gluttony](#gluttony)
 - [Hedonism](#hedonism)
 - [Homosexuality](#homosexuality)
+- [Judgement](#judgement)
 - [Liberalism](#liberalism)
 - [Minimum Wage](#minimum-wage)
 - [Pacifism](#pacifism)
+- [Racism](#racism)
 - [Voting](#voting)
 
 ### Abortion
@@ -60,7 +62,7 @@ Truth: Democracy is a fundamentally anti-heirachical and liberal. Hierarchy bein
 
 Error: Divorce is sometimes necessary.
 
-Truth: Divorce is evil. Evil is never justified. Therefore, divorce is never necessary.
+Truth: Divorce is evil. [Evil is never justified.](#consequentialism) Therefore, divorce is never necessary.
 
 ### Education
 
@@ -110,6 +112,12 @@ Error: Homosexuality is morally neutral, and gay "marriage" is a good thing.
 
 Truth: Marriage is fundamentally between only a man and a woman, and only in that context is sex ever licit, thus homosexuality cannot ever be morally licit.
 
+### Judgement
+
+Error: You should not judge others, especially harshly.
+
+Truth: Every conscious action you take toward others reflects a judgement about others. Given the necessity of judgement, (or the impossibility of non-judgement) you should always strive to judge rightly, and quickly. You should not be afraid of making even a harsh judgement, if it is right.
+
 ### Liberalism
 
 Error: Securing maximum freedom and equal rights is the primary purpose of government.
@@ -126,7 +134,13 @@ Truth: The amount of wealth created by people cannot be increased by fiat (law).
 
 Error: It is never right to do violence.
 
-Truth: Just War doctrine is correct. Self defense is moral. Defense of the innocent is moral. All these make violence sometimes right.
+Truth: [Just War doctrine](https://www.infogalactic.com/info/Just_war_theory) is correct. Self defense is moral. Defense of the innocent is moral. All these make violence sometimes right.
+
+### Racism
+
+Error: You should never judge a person or group by their race.
+
+Truth: You should always take into account as much information as is reasonable when making [judgements](#judgement).
 
 ### Voting
 
