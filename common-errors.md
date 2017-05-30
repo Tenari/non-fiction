@@ -148,3 +148,11 @@ Error: Voting is good, and you should choose the lesser of two evils.
 
 Truth: Never choose evil. Never formally cooperate with evil. Voting is at best a waste of time, and at worst formal cooperation with evil.
 
+
+TODO
+
+Pretestantism
+Feminism
+Communism
+Positivism
+
