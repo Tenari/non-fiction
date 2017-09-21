@@ -1,0 +1,63 @@
+Definition: Act - the actual way a thing exists. What is real, present and in being. I, as I stand before you, am in Act, that is, I exist.
+Definition: Potency - the potential ways of being intrinsic to a thing. What is capable of becoming real, capable of actually existing. Humans (generally) have the potency for speech, whereas they do not have the potency for unassisted flight.
+Definition: Change is when a potency is actualized.
+
+Assumption: Potency and Act divide being in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act as primary and intrinsic principles.
+
+I have the potential to exist.
+This potential is being actualized right now.
+Only something already actual can actualize potential.
+Thus, something already actual is actualizing my potential for existence.
+This thing either has the potential to exist, or is purely actual (and thus has no potentials).
+If it has the potential to exist, that potential must be being actualized concurrently, by some third thing.
+Thus, there is a regress of things which actualize the potential for existence of other things (actualizers), all at the same moment.
+This regress of actualizers is a hierarchical series.
+A hierarchical series cannot regress to infinity, but must terminate.
+The only thing which could in principle terminate this regress is something which has no potential for existence which needs to be actualized.
+Only something that is purely actual, with no potency whatsoever, could not have a potential for existence.
+Thus, this regress of actualizers must terminate in a purely actual being.
+God is the the purely actual being.
+
+Assumption: I have the potential to exist.
+Assumption: I actually exist.
+Conclusion: My potential to exist is being actualized right now.
+Assumption: Only some already actual thing can actualize potential.
+Conclusion: Some already actual thing is actualizing my potential for existence.
+Assumption: God is purely actual.
+Conclusion: If this already actual thing is purely actual, then God exists.
+Conclusion: If this thing has the the potential to exist, then some already actual third thing must be concurrently actualizing its potential for existence.
+Conclusion: This makes a series of things which actualize the potential for existence of other things, all at the same moment.
+Assumption: In a hierarchical series of causes, each member is dependent on its parent for its causal power.
+Conclusion: This series of actualizers is a hierarchical series.
+Assumption: A hierarchical series cannot regress to infinity, but must terminate.
+Conclusion: This series of actualizers must terminate.
+Assumption: The only thing which could in principle terminate this series is something which has no potential for existence which needs to be actualized.
+Conclusion: This series of actualizers must terminate in something which has no potential for existence that needs to be actualized.
+Assumption: Only something that is purely actual, with no potency whatsoever, could have no potential for existence.
+Conclusion: This series of actualizers must terminate in a purely actual thing.
+Conclusion: A purely actual thing exists.
+Assumption: God is purely actual.
+Conclusion: God exists.
+
+
+Definition of God: pure act.
+
+My existence entails something actualizing my potential for existence.
+This actualizer must be either purely actual, or a mixture of potency and act.
+If it is purely actual, God exists.
+If it is a mixture of potency and act, there is a chain of actualizers.
+This chain is hierarchical in nature, and thus must terminate.
+Only pure act could in principle terminate this chain.
+Thus, pure act exists, and this is God.
+
+
+key concepts:
+Potency and Act
+hierarchical vs linear causal serieses
+
+words to define:
+potential
+actual
+actualizer
+hierarchical series
+God
