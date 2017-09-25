@@ -12,6 +12,7 @@
 - [Evil](#evil)
 - [Formal Religion](#formal-religion)
 - [Freedom](#freedom)
+- [Free Speech](#free-speech)
 - [Gluttony](#gluttony)
 - [Hedonism](#hedonism)
 - [Homosexuality](#homosexuality)
@@ -93,6 +94,12 @@ Truth: Formal religion is necessary for Christian Unity. The heart is easily lea
 Error: More freedom is better.
 
 Truth: Since freedom is the capacity to choose what we desire, freedom is only ever as good as our own desires. On earth we are wicked and our desires are evil, so freedom is often bad for us. In heaven we shall be truly free, as we shall desire only what is good, which we will be able to do.
+
+### Free Speech
+
+Error: Free speech is an integral part of any good society.
+
+Truth: "Free speech" is generally a nonsense term. Every reasonable person agrees that speech should have at least *some* limits in society, and the rest is just haggling over price. The uselessness of "free speech" as an idea is closely related to the uselessnes of "[freedom](#freedom)" as a measure of the good. Free speech is only good when it is good, and is bad when it is bad.
 
 ### Gluttony
 
