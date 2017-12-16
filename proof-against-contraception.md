@@ -139,6 +139,7 @@ First:
     3. Contraception makes women [move in an unattractive way](http://www.livescience.com/22402-women-dances-ovulation-fertility.html).
     4. Contraception makes women infertile, which, on an instinctual level is [ugly](https://www.psychologytoday.com/articles/200709/the-strippers-secret) to men.
     5. Contraception can make women have acne, have blotchy spots on exposed skin, gain facial hair, and have yellow skin. [source](http://www.mayoclinic.org/drugs-supplements/estrogen-and-progestin-oral-contraceptives-oral-route/side-effects/DRG-20069422)
+    6. Contraception increases women's [suicide risk](http://thefederalist.com/2017/12/04/new-study-finds-hormonal-birth-control-triples-womens-risk-suicide/)
 3. Delibertately making oneself ugly constitutes self harm.
 4. Thus contraception is harmful.
 
