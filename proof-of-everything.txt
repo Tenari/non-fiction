@@ -1,0 +1,92 @@
+GOAL OF THIS DOCUMENT:
+  This is a plan for the creation of a youtube series which purports to show why everyone should be a Catholic.
+    - The series will start with one monster video, which lists, in overview form, a logical train that starts from the obvious observations of our senses and ends up with everyone being a Catholic. This video will contain links at each point to other, shorter videos which defend that point. It will start with a prelim about "analogical language" and attitude toward belief, and admittance of my personal biases, and an explanation of how the video works. It will feature a lot of words onscreen as if the screen were a whiteboard. My annoying voice will be the lecture.
+    - each support video will lay out the case for what this point means, and why it is true. then it will attempt to forsee and answer objections.
+
+===
+
+Reality is divided by Potency and Act
+The things of our everyday experience require some thing composed of Pure Act to keep their potential for existence actualized.
+Thus, God, who is Pure Act, exists.
+Pure Act is necessarily singular, because it cannot have any feature to distinguish it from any other Pure Act without having the potential to have that feature (or not have it) and violating the definition of Pure Act.
+Pure Act is necessarily immaterial, because material has the potential to be in different locations, which is potentiality, which violates the definition of Pure Act.
+etc for all the primary attributes of God.
+
+1. I am real.
+2. I can change.
+3. Change entails some potential becoming real.
+4. By 2 and 3, I must have potential.
+5. By 1 and 4, I am composed of Reality and Potentiality.
+6. Potentials can only be made real by some already real thing. (Because potentials are not fully real, and have no direct causal power)
+7. I was not always real.
+8. By 1 and 7, my existence is a potential that was made real.
+
+1. We observe that things change.
+2. Change entails some potential being actualized.
+3. Every change is caused by the simultaneous activity of some other actual thing.
+4. If this other actual thing is changing, then it too requires the simultaneous activity of some other actual thing.
+5. In a chain of per se causes, there would be no causal power at all unless there were some first cause of the chain.
+6. Every change entails a chain of per se causes.
+7. Every change entails that there be some first cause at the head of the chain of per se causes.
+8. Because of 4, this first cause must be itself unchanging.
+9. Thus, every change entails that there be an unchanging changer. Call this God.
+10. Since change entails some potential (#2) and God is unchanging (#9), God must have no potential.
+11. But Potential and Act are the two halves of reality, so if God has no potential, God must be pure Act.
+12. The things of our experience come into, and go out of existence, meaning they have the potential for existence.
+13. When things exist, this potential for existence is actualized.
+14. But the actualization of potential is what change is, and God is the first cause of all change.
+15. So God is the first cause of the existence of all things.
+16. There could be more than one thing of pure Act only if there were some differentiating feature that one had and another lacked.
+17. Having such a differentiating feature would entail having some unactualized potential.
+18. Pure Act cannot have an unactualized potential, by definition.
+19. So there must be only one thing of pure Act.
+20. Material things always have the potential to change location.
+21. By 10 and 20, God is immaterial.
+22. Pure Act does not have its potential for existence actualized, because it would then have potential and not be pure Act.
+23. So pure Act exists necessarily, intrinsically to its nature.
+24. If something exists necessarily, it cannot not exist, which means it always has and always will exist, which means it exists eternally.
+25. So God is eternal.
+26. Something is perfect if there is no part of its nature it fails to fulfill.
+27. A thing fails to fulfill part of its nature if it has some unactualized potential which it should actualize.
+28. Something is perfect if there is no unactualized potential which it should actualize.
+29. By 10 and 28, God is perfect.
+30. Every change that could occur, would necessarily have God as its first cause.
+31. To be able to cause any possible change is what is meant by omnipotence.
+32. So God is omnipotent.
+33. 
+
+
+Thus God is pure Act, which is unchanging, the cause of the existence of things, singular (or unique), immaterial, eternal, perfect, omnipotent, and omniscient.
+
+3. If a thing can change, it is a mixture of potency and act.
+4. 
+
+
+observe reality
+abstract from reality to a deeper understanding
+extrapolate from that deeper understanding to the necessary unmoved mover
+examine the nature of the unmoved mover to understand its qualities
+Realize that the existence of the God of classical theism means that miracles are possible
+    But on the other hand, the doctrine of divine concurrence tells us that since this entire natural order operates only insofar as the divine primary cause concurs with it, there is also the possibility of a supernatural order of things -- an order of things over and above the natural order, for the sake of which the latter might be suspended.  (Notice that “supernatural” here has a technical meaning that is unrelated to the sorts of things popular usage of the word suggests.  It has nothing to do with vampires, werewolves, zombies, and the like -- which, if they existed, would be part of the “natural” order in the relevant sense, rather than supernatural.) Now both of these ideas -- that some things are impossible given just the natural order of secondary causes, but that the divine primary cause might act in a supernatural way -- entail the possibility of miracles.
+Use our deeper understanding of reality to analyze the human condition and conclude on the existence and immoratality of the soul, together with the possibility of resurrection
+    The Scholastic argues that the human soul is to be conceived of as the substantial form of the living human being, related to the body as form to matter.  The intellectual and volitional powers of the soul are, it is argued, essentially immaterial, operating without direct dependence on any bodily organ.  This in turn leads to the conclusion that the human soul is naturally immortal.  For since the intellect and will do not directly depend on the body when a human being is alive, they do not perish with the death of the body.  Hence the human soul, reduced to its intellectual and volitional powers, carries on after the loss of our corporeal functions. https://www.pdcnet.org/collection/show?id=acpq_2013_0087_0001_0001_0032&file_type=pdf
+Analyze human psychology of passions vs will to see that most humans would need special revelation to know and follow God
+"The only way to know some revelation was true, is if it were certified with a miracle that could only come from God"
+Compare the religions of the world, and see that the only three that fit with what we have said are I,J,C and that I < J < C because of miracles
+  here evidence of Jesus from Case for Christ or WLCraig et al is useful
+Now observe that there are very many christian denominations and realize that we should analyze which is true
+  Historical/early Christian worship, Authority, anti-solas, sexual morality, etc
+Conclude that everyone should be a Catholic because it is true
+
+
+1. In the world, some things are changing.
+2. Change is when some potential state becomes real.
+3. Potential states can only be made real by the action of some already real thing.
+4. It is not possible for a thing to be both potentially some way, and simeltaneously actually that same way.
+5. By 3 and 4, it is impossible for a thing to change itself.
+6. By 1 and 5, for any given thing that is changing, there must be some other thing causing that change.
+7. 
+
+
+2. Nothing can change without having the potential for that change.
+
