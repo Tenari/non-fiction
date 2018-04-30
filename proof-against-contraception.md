@@ -16,12 +16,9 @@ See [discussion](#discussion-on-proof-from-existence-of-god)
 #### Proof from privation view of evil
 
 1. Evil is a privation of good.
-2. By definition, it is evil to actively prevent that which is good.
-3. The creation of good is good.
-4. Human life is good.
-5. If #3 and #4 are true, then the creation of human life is good.
-6. Contraception actively prevents the creation of human life.
-7. By substitution, contraception actively prevents that which is good.
+2. By definition, it is evil to corrupt a good.
+3. Contraception corrupts the good of sex, by actively preventing the procreative function.
+4. By substitution, contraception corrupts a good.
 8. Thus, _contraception is evil._
 
 #### Proof from natural law
