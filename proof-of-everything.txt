@@ -60,7 +60,7 @@ SCRIPT:
 preface
   Howdy, If you want to skip right to the outline, click here.
     POINT BELOW
-  If you don't know what I'm talking about, just keep watching. The point of this video is to give an outline of the rational chain that leads, step by step, to the conclusion that every person should become a Catholic. I start with the most uncontroversial premise I can imagine, but at each point along the way the odds of you disagreeing, or not understanding go up. So, each link in this chain has an attendant shorter clip where I explain what the point means, why I think it's true, and respond to common objections. Those videos are where the meat of the argumentation and support for my reasoning will lie. This video is just the outline. If you understand and agree with each statement, they lead logically to the conclusion that the Catholic Church is what she claims she is--the One True Bride of Christ.
+  If you don't know what I'm talking about, just keep watching. The point of this video is to give an outline of the rational chain that leads, step by step, to the conclusion that every person should become a Catholic. I start with the most uncontroversial premise I can imagine, but at each point along the way the odds of you disagreeing, or misunderstanding go up. So, each link in this chain has an attendant shorter clip where I explain what the point means, why I think it's true, and respond to common objections. Those videos are where the meat of the argumentation and support for my reasoning will lie. This video is just the outline. If you understand and agree with each statement, they lead logically to the conclusion that the Catholic Church is what she claims she is--the One True Bride of Christ.
     ANIMATE BASIC LOGICAL CHAIN WHILE IM TALKING
   Now, am I a genius? No. Am I even a trained philosopher, or logician? No. Might I be wrong? Yes. Of course, I don't think I'm wrong, but my own nature as a finite human being, along with my memories of having been wrong before, leads me to the conclusion that it is at least *possible* that I am wrong. A man I admire once advised me to "hold my beliefs loosely" to allow new ones in and see if they fit. While I don't always live up to that standard, I do at least try, and so I would ask the same thing of you. You may be an atheist, with a strong conviction that religion is nothing more than ridiculous superstition. You may be a born-again young-earth creationist, who knows in his heart of hearts that the literal interpretation of the Bible is the only Truth. You may have some eastern philosophy that I have no understanding of. Fine. Maybe you're right. Maybe I'm wrong. But it might go the other way as well. Think to yourself for a moment how deeply ingrained your current beliefs are, and ask yourself if it is even possible for you to consider evidence which challenges them? Try to hold your beliefs loosely, so that the truth can make itself known to you.
   When you're watching this outline, I suggest, pausing it after every numbered point that I make, and thinking about it for a second or two. If it seems obviously false, then click into the defense video, where hopefully I can explain it better. If it seems true, though, press play, and see where the next step leads you.
@@ -135,3 +135,57 @@ OUTLINE:
 ==
 56. There are many denominations of Christianity.
 57. All Christians agree that the apostles had a true Church.
+
+
+
+
+
+
+syllogisms
+
+A thing is composite if it is composed of more than one distinct part.
+I am composed of more than one distinct part.
+---
+I am composite.
+A composite thing exists at any moment only insofar as its parts are combined at that moment.
+---
+I exist at any moment only insofar as my parts are combined at that moment.
+Two (or more) parts can be combined only where there is a concurrently combining cause.
+---
+I exist at any moment only insofar as a concurrent cause keeps my parts combined.
+If a thing exists only insofar as a concurrent cause keeps its parts combined, that thing is "being caused to exist."
+---
+I am being caused to exist.
+A cause may be composite, or be absolutely simple (having no parts, even metaphysical ones).
+---
+I am being caused to exist, either by composite causes, or by something that is absolutely simple.
+God is absolutely simple.
+---
+I am being caused to exist, either by composite causes, or by God.
+If I am being caused to exsit by God, God exists.
+---
+Either God exists, or I am being caused to exist by composite causes.
+  Hold on to that one for now.
+
+I am being caused to exist by composite causes.
+Composite causes in turn require a cause of their own existence at any moment that they exist.
+---
+I am being caused to exist by composite causes, which in turn require a cause of their own existence, at any moment that they exist.
+A causal chain is when an effect is produced by a cause, which is itself produced by a cause.
+---
+I am being caused to exist by a causal chain, at any moment that I exist.
+A causal chain is chronological if it occurs over some span of time.
+---
+I am not being cause to exsit by a chronological causal chain.
+
+  lets try again
+
+I am being caused to exist by a causal chain, at any moment that I exist.
+A causal chain is hierarchical if it occurs all in one moment, or is a concurrent series of causes.
+---
+I am being caused to exist by a hierarchical causal chain.
+
+
+
+---
+If the cause of a composite thing's existence at any moment is itself composite, then it will in turn require a cause of its own existence at that moment.
