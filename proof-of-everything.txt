@@ -58,7 +58,7 @@ Conclude that everyone should be a Catholic because it is true
 SCRIPT:
 
 preface
-  Howdy, If you want to skip right to the outline, click here.
+  Howdy, If you want to skip to the outline, click here.
     POINT BELOW
   If you don't know what I'm talking about, just keep watching. The point of this video is to give an outline of the rational chain that leads, step by step, to the conclusion that every person should become a Catholic. I start with the most uncontroversial premise I can imagine, but at each point along the way the odds of you disagreeing, or misunderstanding go up. So, each link in this chain has an attendant shorter clip where I explain what the point means, why I think it's true, and respond to common objections. Those videos are where the meat of the argumentation and support for my reasoning will lie. This video is just the outline. If you understand and agree with each statement, they lead logically to the conclusion that the Catholic Church is what she claims she is--the One True Bride of Christ.
     ANIMATE BASIC LOGICAL CHAIN WHILE IM TALKING
@@ -141,7 +141,7 @@ OUTLINE:
 
 
 
-syllogisms
+syllogisms leading to God
 
 A thing is composite if it is composed of more than one distinct part.
 I am composed of more than one distinct part.
@@ -165,7 +165,7 @@ I am being caused to exist, either by composite causes, or by God.
 If I am being caused to exsit by God, God exists.
 ---
 Either God exists, or I am being caused to exist by composite causes.
-  Hold on to that one for now.
+  Hold on to that one for now. (keep the "Either God Exists or" on the screen)
 
 I am being caused to exist by composite causes.
 Composite causes in turn require a cause of their own existence at any moment that they exist.
@@ -176,7 +176,7 @@ A causal chain is when an effect is produced by a cause, which is itself produce
 I am being caused to exist by a causal chain, at any moment that I exist.
 A causal chain is chronological if it occurs over some span of time.
 ---
-I am not being cause to exsit by a chronological causal chain.
+I am not being caused to exsit by a chronological causal chain.
 
   lets try again
 
@@ -184,8 +184,70 @@ I am being caused to exist by a causal chain, at any moment that I exist.
 A causal chain is hierarchical if it occurs all in one moment, or is a concurrent series of causes.
 ---
 I am being caused to exist by a hierarchical causal chain.
-
-
-
+A hierarchical causal chain must have a beginning.
 ---
-If the cause of a composite thing's existence at any moment is itself composite, then it will in turn require a cause of its own existence at that moment.
+I am being caused to exist by a causal chain that has a beginning.
+The beginning of a chain of composite causes must not itself be composite.
+---
+I am being caused to exist by a causal chain that has a beginning, which is not itself composite.
+To be not composite is just what it means to be absolutely simple.
+---
+I am being caused to exist by a causal chain that has a beginning, which is absolutely simple.
+God is absolutely simple.
+---
+I am being caused to exist by a causal chain that has a beginning, which is God,
+If a causal chain beginning with God exists, then God exists.
+---
+THUS
+God exists.
+
+syllogisms that expand on the attributes of God.
+
+
+God is the absolutely simple cause of the exsitence of composite things.
+Potency and Act divide being in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act as primary and intrinsic principles.
+---
+God is pure act.
+There could be more than one thing of pure act only if there were some differentiating feature that one had and another lacked.
+Having such a differentiating feature would entail having some unactualized potential.
+Pure act cannot have an unactualized potential, by definition.
+So there must be only one thing of pure act.
+If there is only one thing of a kind, it is unique.
+---
+God is unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+Something is "unchanging" when it cannot in principle change.
+Change is the actualization of potential.
+Pure act has no potential to actualize.
+Pure act cannot in principle change.
+---
+God is unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+Material things always have the potential to change location.
+Pure act has no potential to actualize.
+---
+God is immaterial, unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+A thing either exists necessarily, due to its essence, or it has a potential for existence which is actualized.
+Pure act cannot have its potential for existence actualized, because it would then have potential and not be pure act.
+Pure act exists necessarily, intrinsically to its essence.
+If something exists necessarily, it cannot not exist, which means it always has and always will exist, which means it exists eternally.
+---
+God is immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+Something is perfect if there is no part of its nature which it fails to fulfill.
+A thing fails to fulfill part of its nature if it has some unactualized potential which it should actualize.
+Something is perfect if there is no unactualized potential which it should actualize.
+Pure act has no potentials, thus no unactualized potential which it should actualize.
+---
+God is perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+A thing is omnipotent if it can cause any possible change.
+Every change that could occur, would necessarily have God as its first cause.
+---
+God is omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+No cause can actualize what it does not actually have (immanently or formally)
+Since God actualizes all actual things, he must have all things "inside" himself in some way.
+Since God is immaterial, the way that he has all things inside himself must be like knowledge.
+Thus, God knows all things.
+A thing is omniscient if it knows all things.
+---
+THUS
+God is omniscient, omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+
+syllogisms that expand
