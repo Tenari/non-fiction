@@ -46,15 +46,6 @@ Now observe that there are very many christian denominations and realize that we
 Conclude that everyone should be a Catholic because it is true
 
 
-1. In the world, some things are changing.
-2. Change is when some potential state becomes real.
-3. Potential states can only be made real by the action of some already real thing.
-4. It is not possible for a thing to be both potentially some way, and simeltaneously actually that same way.
-5. By 3 and 4, it is impossible for a thing to change itself.
-6. By 1 and 5, for any given thing that is changing, there must be some other thing causing that change.
-7. 
-
-
 SCRIPT:
 
 preface
@@ -68,74 +59,11 @@ preface
 
 OUTLINE:
 
-1. We observe that things change.
-2. Change entails some potential being actualized.
-3. Every change is caused by the simultaneous activity of some other actual thing.
-==
-4. If this other actual thing is changing, then it too requires the simultaneous activity of some other actual thing.
-5. In a chain of per se causes, there would be no causal power at all unless there were some first cause of the chain.
-6. Every change entails a chain of per se causes.
-7. Every change entails that there be some first cause at the head of the chain of per se causes.
-8. Because of 4, this first cause must be itself unchanging.
-9. Thus, every change entails that there be an unchanging changer. Call this God.
-==
   Now that we've gotten to something that we are calling "God," even if that thing is ill-defined and does not seem much like what most people think God is, it would be a good time to discuss our use of language in relation to God. 
   UNIVOCAL - using words in exactly the same way. I "hit" you, you "hit" me. "Hit" is being used in the same exact sense here.
   EQUIVOCAL - using words in totally different ways. A "bat" flies away. I swing the baseball "bat." "Bat" is being used in totally different senses here.
   ANALOGICAL - using words in similar ways. This cheeseburger is good. This movie is good. You are a good person. "Good" is being used in a similar, but not exactly the same, sense here.
   When we talk about God, we can only really use analogical language, because he is so fundamentally different from our ordinary everyday experience. So when we say God is Good, we do not, and cannot, mean he is Good in exactly the same way that you or I might be Good. Keeping that in mind, let's analyze the attributes of God.
-==
-10. Since change entails some potential (#2) and God is unchanging (#9), God must have no potential.
-11. But Potential and Act are the two halves of reality, so if God has no potential, God must be pure Act.
-12. The things of our experience come into, and go out of existence, meaning they have the potential for existence.
-13. When things exist, this potential for existence is actualized.
-14. But the actualization of potential is what change is, and God is the first cause of all change.
-15. So God is the first cause of the existence of all things.
-16. There could be more than one thing of pure Act only if there were some differentiating feature that one had and another lacked.
-17. Having such a differentiating feature would entail having some unactualized potential.
-18. Pure Act cannot have an unactualized potential, by definition.
-19. So there must be only one thing of pure Act.
-20. Material things always have the potential to change location.
-21. By 10 and 20, God is immaterial.
-22. Pure Act does not have its potential for existence actualized, because it would then have potential and not be pure Act.
-23. So pure Act exists necessarily, intrinsically to its nature.
-24. If something exists necessarily, it cannot not exist, which means it always has and always will exist, which means it exists eternally.
-25. So God is eternal.
-26. Something is perfect if there is no part of its nature it fails to fulfill.
-27. A thing fails to fulfill part of its nature if it has some unactualized potential which it should actualize.
-28. Something is perfect if there is no unactualized potential which it should actualize.
-29. By 10 and 28, God is perfect.
-30. Every change that could occur, would necessarily have God as its first cause.
-31. To be able to cause any possible change is what is meant by omnipotence.
-32. So God is omnipotent.
-33. No cause can actualize what it does not actually have (immanently or formally)
-34. Since, God actualizes all things, he must have all things "inside" himself in some way.
-35. Since God is immaterial, the way that he has all things inside himself is like knowledge.
-36. Thus, God knows all things.
-37. Thus God is pure Act, which is unchanging, the cause of the existence of things, singular (or unique), immaterial, eternal, perfect, omnipotent, and omniscient.
-==
-38. Since God exists, miracles are metaphysically possible.
-39. Minds are immaterial.
-40. Humans have minds.
-41. Material reality cannot create immaterial reality.
-42. Thus, God must, by special act, join minds to bodies to form each human.
-43. Thus God cares about humans to some special degree.
-44. Immaterial beings can exist without a body.
-45. The immaterial human mind can continue to exist after physical, bodily death.
-46. Resurrection by supernatural miracle could be acheived by rejoining an immaterial human mind to its body.
-47. This argument is long, convoluted, and not immediately obvious to the great mass of humanity.
-48. Some special revelation from God would make God's nature clearer, and more well known to humanity.
-49. The only way to certify that special revelation came from God, and not a con man, would be through use of miracles that only God could accomplish, such as resurrection.
-50. Thus, we should expect that there would be a true religion, which understands God to have the attributes from 37, holds that resurrection of the body is possible, and has its revelation certified through miracles.
-51. Judiasm, Islam, and Christianity are the only world religions that fit.
-52. Islam's main miracle attestation is the Quran itself, which is not obviously actually only something doable by God.
-53. Judiasm does not attest to any miracles that Christianity does not accept, so if there is a credible miracle in Christianity that is not in Judiasm, then Christianity is true, and vice versa.
-54. The Resurrection of Jesus Christ is historically credible.
-55. Thus Christianity is more "certified" by God than any other religion.
-==
-56. There are many denominations of Christianity.
-57. All Christians agree that the apostles had a true Church.
-
 
 
 
@@ -157,11 +85,12 @@ If a thing exists only insofar as a concurrent cause keeps its parts combined, t
 ---
 I am being caused to exist.
 A cause may be composite, or be absolutely simple (having no parts, even metaphysical ones).
+    put the definition of "absolutely simple" in smaller side font on screen
 ---
-I am being caused to exist, either by composite causes, or by something that is absolutely simple.
+I am either being caused to exist by composite causes, or by an absolutely simple cause.
 God is absolutely simple.
 ---
-I am being caused to exist, either by composite causes, or by God.
+I am either being caused to exist by composite causes, or by God.
 If I am being caused to exsit by God, God exists.
 ---
 Either God exists, or I am being caused to exist by composite causes.
@@ -170,18 +99,18 @@ Either God exists, or I am being caused to exist by composite causes.
 I am being caused to exist by composite causes.
 Composite causes in turn require a cause of their own existence at any moment that they exist.
 ---
-I am being caused to exist by composite causes, which in turn require a cause of their own existence, at any moment that they exist.
+I am being caused to exist by composite causes, which in turn require a cause of their own existence at any moment that they exist.
 A causal chain is when an effect is produced by a cause, which is itself produced by a cause.
 ---
-I am being caused to exist by a causal chain, at any moment that I exist.
+I am being caused to exist by a causal chain at any moment that I exist.
 A causal chain is chronological if it occurs over some span of time.
 ---
-I am not being caused to exsit by a chronological causal chain.
+I am not being caused to exist at any given moment by a chronological causal chain.
 
-  lets try again
+  lets try again (do a rewind effect)
 
-I am being caused to exist by a causal chain, at any moment that I exist.
-A causal chain is hierarchical if it occurs all in one moment, or is a concurrent series of causes.
+I am being caused to exist by a causal chain at any moment that I exist.
+A causal chain is hierarchical if it is composed of a concurrent series of causes acting all in one moment.
 ---
 I am being caused to exist by a hierarchical causal chain.
 A hierarchical causal chain must have a beginning.
@@ -190,19 +119,18 @@ I am being caused to exist by a causal chain that has a beginning.
 The beginning of a chain of composite causes must not itself be composite.
 ---
 I am being caused to exist by a causal chain that has a beginning, which is not itself composite.
-To be not composite is just what it means to be absolutely simple.
+A thing is absolutely simple if it is "not composite."
 ---
 I am being caused to exist by a causal chain that has a beginning, which is absolutely simple.
 God is absolutely simple.
 ---
-I am being caused to exist by a causal chain that has a beginning, which is God,
+I am being caused to exist by a causal chain which begins with God.
 If a causal chain beginning with God exists, then God exists.
 ---
 THUS
 God exists.
 
 syllogisms that expand on the attributes of God.
-
 
 God is the absolutely simple cause of the exsitence of composite things.
 Potency and Act divide being in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act as primary and intrinsic principles.
@@ -250,4 +178,197 @@ A thing is omniscient if it knows all things.
 THUS
 God is omniscient, omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
 
-syllogisms that expand
+syllogisms leading to Christianity
+
+Minds are immaterial.
+Humans have minds.
+---
+Humans have an immaterial aspect to their being.
+Material reality cannot create immaterial reality.
+---
+Humans have an aspect to their being which was not created by material reality.
+God is immaterial, and capable of creation of all things.
+---
+Humans have an aspect to their being which was created directly by God.
+If God must directly act to create human beings, God cares about human beings to some special degree.
+---
+God cares about human beings to some special degree.
+    hold this thought
+
+Humans have an immaterial aspect to their being. (rewind effect to here)
+Immaterial beings, by definition, exist without a body.
+---
+Humans have an aspect of their being that is not dependent upon a body.
+If something is not dependent upon a body, it can continue to exist without a body.
+--
+Humans have an aspect of their being that can continue to exist without a body.
+Death is loss of the physical body.
+---
+The immaterial human mind can continue to exist after physical, bodily death.
+    hold this thought
+
+A miracle is a supernatural event.
+An event is supernatural if it displays some effect beyond what the natural order of secondary causes is capable of.
+---
+A miracle is an event displaying some effect beyond what the natural order of secondary causes is capable of.
+God is capable of causing effects beyond what the natural order of secondary causes is cabaple of.
+---
+Miracles are possible in principle.
+   hold this thought
+
+(both from before)
+Miracles are possible in principle.
+The immaterial human mind can continue to exist after physical, bodily death.
+---
+Resurrection by supernatural miracle could be acheived by rejoining an immaterial human mind to its body.
+    replace the previous two with this held thought
+
+Humans struggle to be rational, often having their will overridden by their passions.
+The rational arguments in favor of God's existence are complex.
+---
+Humans will struggle to discover and understand the rational arguments in favor of God's existence on their own.
+Humans understand special revelation and teaching.
+---
+Special revelation is often necessary for humans to know God.
+If God cares about human beings to some special degree, He would do what is necessary for them to know of Him.
+---
+If God cares about human beings to some special degree, it is reasonable that He would reveal himself to humans.
+God cares about human beings to some special degree. (from before)
+---
+It is reasonable that God would reveal himself to humans.
+There is material gain, and other incentives, for humans to falsely claim divine inspiration.
+---
+Any true revelation of God needs to be backed by some miracle only God is capable of performing, in order to be trusted.
+Resurrection by supernatural miracle could be acheived by rejoining an immaterial human mind to its body. (from before)
+---
+Any revelation of God backed by resurrection from the dead is trustworthy.
+    Hold this
+
+If some religion understands God correctly (insert bullets), holds that resurrection of the body is possible, and backs its claims of divine revelation by reference to supernatural miracles, then that religion is true.
+Islam, Judaism, and Christianity understand God correctly, hold that resurrection of the body is possible, and claim miracles as certification.
+---
+At least one of Islam, Judaism, and Christianity is true.
+Islam's main miracle attestation is the Quran itself, which is not obviously actually only something doable by God.
+---
+Islam is unlikely to be true.
+    animate rewind effect
+
+At least one of -Islam-, Judaism, and Christianity is true.
+Judiasm does not attest to any miracles that Christianity does not accept, so if there is a credible miracle in Christianity that is not in Judiasm, then Christianity is true.
+The Resurrection of Jesus Christ is historically credible.
+---
+Christianity is more "certified" by God than any other religion, and thus, the True Religion.
+
+syllogisms leading to Catholicism
+
+The True Bride of Christ is the branch of Christianity which:
+1. was founded by Jesus Christ
+2. has not abandoned or altered his teaching
+3. was given his authority
+4. has evidence of many miracles
+5. cannot be destroyed
+6. 
+
+The doctrines of the Catholic Church are
+  in accord with the words of the early church
+  immutable
+  logically coherent
+
+  The doctrine of the eucharist, contraception, divorce, and biblical inerrancy all favor the Catholic Church.
+
+The facts of history favor the Catholic Church
+  rebellion
+  continuity
+  tradition
+  miracles
+
+=====
+There are many branches of Christianity, which all hold mutually exclusive doctrines to be true.
+Two branches which hold mutually exclusive doctrines, cannot both be correct.
+---
+There is at most one branch of Christianity which has correct doctrine.
+Having correct doctrine is a prerequisite for being the One True Church of Christ.
+---
+There is at most one branch of Christianity which is the One True Church of Christ.
+=====
+
+=====
+Heresy has the character of being a myopic simplification of a complex web of ideas into one single truth blown all out of proportion.
+Upon examination, all Protestant denominations fit the simplification pattern of heresy.
+---
+All Protestant denominations are likely heretical.
+Christians should not be a part of a heretical denomination.
+---
+Christians should not be a part of a Protestant denomination.
+=====
+
+=====
+Christians hold that a man called Christ lived and died and lived again around the year 30.
+The evidence for Christ's resurrection comes almost entirely from the testimony of the magesterium of the Catholic Church.
+---
+Christians believe in Christ's resurrection, based on the word of the magesterium of the Catholic Church.
+It is irrational to believe something based on the evidence of an entity whose witness you do not trust.
+---
+To believe in Christ's resurrection, but to reject the magesterium of the Catholic Church is irrational.
+To accept the magesterium of the Catholic Church is to become Catholic.
+---
+Christians should become Catholic to rationally believe in Christ's resurrection.
+=====
+
+=====
+If a church was founded directly by Jesus Christ, then that church is the one true church of Christ.
+Jesus Christ founded the Catholic Church in the year 33AD.
+---
+The Catholic Church is the one true church of Christ.
+=====
+
+=====
+The one true church of Christ must not change its settled doctrines, for truth does not change.
+The Catholic Church has not changed any settled doctrines.
+---
+The Catholic Church fits this criteria for being the one true bride of Christ.
+=====
+
+1. Christians are members of the Church, which was established by Jesus and his disciples.
+2. The Church is the company of all Christians regarded as a spiritual body.
+3. No spiritual body can function properly when its various members regard each other as false, or not a part of the body.
+4. Thus if the Church is to function properly, its members must regard each other as a part of the same body.
+5. Protestants and Catholics generally do not regard each other as part of the same body.
+7. Thus if the Church is to function properly, Protestants and Catholics must merge to become one body.
+8. If a group splits, where one side of the split does not want the split to occur, and the other does, then one side is the original, and the other is the rebel.
+9. Protestants desired to establish their own, distinct body, when the original split(s) occured. Thus, Protestants are the rebels.
+10. Catholics desired to keep Protestants together, when the original split(s) occured. Thus, Catholics are the original.
+11. When two groups merge, if one is the original, and one is the rebel, the rebel must submit to the original. This is called Repentance.
+12. Thus, if Protestants and Catholics must merge, Protestants must submit to Catholics, in repentance.
+13. By #7 and #12, if the Church is to function properly, Protestants must submit to Catholics in repentance.
+14. All Protestants should desire the Church to function properly.
+15. Thus all Protestants should join the Catholic Church.
+
+
+
+
+===========================
+
+Shorter clip scripts:
+
+"A thing is composite if it is composed of more than one distinct part."
+
+You disagree with this? Really? *sigh* This is basically just a definition of a term. The dictionary definition of "composite" is "made up of distinct parts or elements," so I don't think my definition is far off from common usage. I suppose you could object to the idea of "things" as real at all. You might say that nothing is actually composed of multiple parts, so nothing is actually composite. You might hold that the things that appear to be composite are actually not things, just an aggregate of individual parts which give the illusion of being a single "thing." But at that point you're left denying the existence of rocks and trees as real things in the world, against the great mass of human experience and use of language. Maybe you're right, but I think that position is so radical it's indistinguishable from absurdity.
+
+"I am composed of more than one distinct part."
+
+What is the hand if not a part of the body? What is the eye? Do we not all learn of the parts of the body? Even our constituent atoms have parts, else the atom could not be split. Further, there are (on the classical account of humanity) immaterial parts of a human substance, namely rationality. It is absurd to deny that humans are composed of parts.
+
+"I am composite."
+
+This follows directly from the previous two premises. If you accept the definition of composite, and accept that I (and really all humans) meet that definition, then it necessarily follows that "I am composite." Denying the conclusion while accepting the premises is irrational.
+
+"A composite thing exists at any moment only insofar as its parts are combined at that moment."
+
+This means that since a composite thing is composed of parts, then when those parts are not combined, that thing cannot be said to exist. I am a fully functional human right now, but if all my constituent parts are separated, I can hardly be said to still exist. Being chopped into pieces has the reliable effect of killing people. To have it's parts combined at any moment, is just what it means for a composite thing to exist.
+
+"I exist at any moment only insofar as my parts are combined at that moment."
+
+This follows directly from the previous two premises. If you accept the definition of a composite thing's existence, and accept that I am composite, then it necessarily follows that "I exist at any moment only insofar as my parts are combined at that moment." Denying the conclusion while accepting the premises is irrational.
+
+"Two (or more) parts can be combined only where there is a concurrently combining cause."
