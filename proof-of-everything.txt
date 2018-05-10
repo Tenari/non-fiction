@@ -59,16 +59,6 @@ preface
 
 OUTLINE:
 
-  Now that we've gotten to something that we are calling "God," even if that thing is ill-defined and does not seem much like what most people think God is, it would be a good time to discuss our use of language in relation to God. 
-  UNIVOCAL - using words in exactly the same way. I "hit" you, you "hit" me. "Hit" is being used in the same exact sense here.
-  EQUIVOCAL - using words in totally different ways. A "bat" flies away. I swing the baseball "bat." "Bat" is being used in totally different senses here.
-  ANALOGICAL - using words in similar ways. This cheeseburger is good. This movie is good. You are a good person. "Good" is being used in a similar, but not exactly the same, sense here.
-  When we talk about God, we can only really use analogical language, because he is so fundamentally different from our ordinary everyday experience. So when we say God is Good, we do not, and cannot, mean he is Good in exactly the same way that you or I might be Good. Keeping that in mind, let's analyze the attributes of God.
-
-
-
-
-
 syllogisms leading to God
 
 A thing is composite if it is composed of more than one distinct part.
@@ -130,43 +120,81 @@ If a causal chain beginning with God exists, then God exists.
 THUS
 God exists.
 
+==========
+
+  Now we've gotten to something called "God," but that thing is ill-defined and seems far removed from what most people think God is. After all, when you ask "what is God?" the answer "Absolutely Simple" is going to be pretty far down on the survey results list. But, before we go on to discover more attributes of God in order to make him match the common understanding better, we should to discuss our use of language in relation to God. 
+  There are 3 ways to use words:
+    UNIVOCAL - using words in exactly the same way. I "hit" you, you "hit" me. "Hit" is being used in the same exact sense here.
+    EQUIVOCAL - using words in totally different ways. A "bat" flies away. I swing the baseball "bat." "Bat" is being used in totally different senses here.
+    ANALOGICAL - using words in similar ways. This cheeseburger is good. This movie is good. You are a good person. "Good" is being used in a similar, but not exactly identical, sense here. All three really are good, but their goodness is not exactly identical.
+  When we talk about God, we can only really use analogical language, because he is so fundamentally different from our ordinary everyday experience. So when we say God is Good, we do not, and cannot, mean he is Good in exactly the same way that you or I might be good. Keeping that in mind, let's analyze the attributes of God.
+
+==========
+
 syllogisms that expand on the attributes of God.
 
 God is the absolutely simple cause of the exsitence of composite things.
 Potency and Act divide being in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act as primary and intrinsic principles.
 ---
-God is pure act.
-There could be more than one thing of pure act only if there were some differentiating feature that one had and another lacked.
-Having such a differentiating feature would entail having some unactualized potential.
+    God is pure act.
+
+There could be multiple "pure acts" only if there were some differentiating feature that one had and another lacked.
+Lacking such a differentiating feature entails having some unactualized potential.
+---
+There could be multiple "pure acts" only if there were some unactualized potential that one had.
 Pure act cannot have an unactualized potential, by definition.
+---
 So there must be only one thing of pure act.
 If there is only one thing of a kind, it is unique.
 ---
-God is unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+    God is unique. (pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
 Something is "unchanging" when it cannot in principle change.
 Change is the actualization of potential.
-Pure act has no potential to actualize.
-Pure act cannot in principle change.
 ---
-God is unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+Something is "unchanging" when it cannot in principle actualize a potential.
+Pure act has no potential to actualize.
+---
+Pure act is unchanging.
+God is pure act.
+---
+    God is unchanging (, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
 Material things always have the potential to change location.
 Pure act has no potential to actualize.
 ---
-God is immaterial, unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
-A thing either exists necessarily, due to its essence, or it has a potential for existence which is actualized.
-Pure act cannot have its potential for existence actualized, because it would then have potential and not be pure act.
-Pure act exists necessarily, intrinsically to its essence.
-If something exists necessarily, it cannot not exist, which means it always has and always will exist, which means it exists eternally.
+Pure act is not material.
+Something that is "not material" is immaterial.
 ---
-God is immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+Pure act is immaterial.
+    God is immaterial (, unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
+A thing either exists necessarily, or it has a potential for existence which is actualized.
+Pure act has no potential to actualize, including the potential for existence.
+---
+Pure act exists necessarily.
+If something exists necessarily, it cannot fail to exist.
+---
+Pure act cannot fail to exist.
+If something cannot fail to exist, it must always have existed and always continue to exist.
+---
+Pure act must always have existed and always continue to exist.
+If something must always have existed and always continue to exist, it exists eternally.
+---
+Pure act exists eternally.
+    God is eternal, (immaterial, unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
 Something is perfect if there is no part of its nature which it fails to fulfill.
 A thing fails to fulfill part of its nature if it has some unactualized potential which it should actualize.
-Something is perfect if there is no unactualized potential which it should actualize.
-Pure act has no potentials, thus no unactualized potential which it should actualize.
 ---
-God is perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
-A thing is omnipotent if it can cause any possible change.
-Every change that could occur, would necessarily have God as its first cause.
+Something is perfect if there is no unactualized potential which it should actualize.
+Pure act has no potentials. (thus no unactualized potential which it should actualize.)
+---
+Pure act is perfect.
+    God is perfect (, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
+A thing is omnipotent if it can cause any logically possible change.
+Every change that could logically occur, would necessarily have God as its first cause.
 ---
 God is omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
 No cause can actualize what it does not actually have (immanently or formally)
