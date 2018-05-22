@@ -65,20 +65,20 @@ A thing is composite if it is composed of more than one distinct part.
 I am composed of more than one distinct part.
 ---
 I am composite.
-A composite thing exists at any moment only insofar as its parts are combined at that moment.
+A composite thing exists at any moment only because its parts are combined at that moment.
 ---
-I exist at any moment only insofar as my parts are combined at that moment.
+I exist at any moment only because my parts are combined at that moment.
 Two (or more) parts can be combined only where there is a concurrently combining cause.
 ---
-I exist at any moment only insofar as a concurrent cause keeps my parts combined.
-If a thing exists only insofar as a concurrent cause keeps its parts combined, that thing is "being caused to exist."
+I exist at any moment only because a concurrent cause keeps my parts combined.
+If a thing exists only because a concurrent cause keeps its parts combined, that thing is "being caused to exist."
 ---
 I am being caused to exist.
 A cause may be composite, or be absolutely simple (having no parts, even metaphysical ones).
     put the definition of "absolutely simple" in smaller side font on screen
 ---
 I am either being caused to exist by composite causes, or by an absolutely simple cause.
-God is absolutely simple.
+God is absolutely simple, and anything absolutely simple is God.
 ---
 I am either being caused to exist by composite causes, or by God.
 If I am being caused to exsit by God, God exists.
@@ -92,10 +92,10 @@ Composite causes in turn require a cause of their own existence at any moment th
 I am being caused to exist by composite causes, which in turn require a cause of their own existence at any moment that they exist.
 A causal chain is when an effect is produced by a cause, which is itself produced by a cause.
 ---
-I am being caused to exist by a causal chain at any moment that I exist.
-A causal chain is chronological if it occurs over some span of time.
+I am being caused to exist by a causal chain at any single moment that I exist.
+A causal chain is chronological if it occurs over some series of moments.
 ---
-I am not being caused to exist at any given moment by a chronological causal chain.
+I am being caused to exist by a non-chronological causal chain at any single moment that I exist.
 
   lets try again (do a rewind effect)
 
@@ -122,7 +122,8 @@ God exists.
 
 ==========
 
-  Now we've gotten to something called "God," but that thing is ill-defined and seems far removed from what most people think God is. After all, when you ask "what is God?" the answer "Absolutely Simple" is going to be pretty far down on the survey results list. But, before we go on to discover more attributes of God in order to make him match the common understanding better, we should to discuss our use of language in relation to God. 
+  God image -> survey says meme
+  Now we've gotten to something called "God," but that thing is ill-defined and seems far removed from what most people think God is. After all, when you ask "what is God?" the answer "Absolutely Simple" is going to be pretty far down on the survey results list. But, before we go on to discover more attributes of God in order to make him match the common understanding better, we should discuss our use of language in relation to God. 
   There are 3 ways to use words:
     UNIVOCAL - using words in exactly the same way. I "hit" you, you "hit" me. "Hit" is being used in the same exact sense here.
     EQUIVOCAL - using words in totally different ways. A "bat" flies away. I swing the baseball "bat." "Bat" is being used in totally different senses here.
@@ -133,44 +134,48 @@ God exists.
 
 syllogisms that expand on the attributes of God.
 
-God is the absolutely simple cause of the exsitence of composite things.
+When we left off, we had discovered an absolutely simple cause of the existence of things, that we called God. But the God of classical theism, and Catholicism more specifically, has quite a few other features. So we can't really say we've proven God exists until we prove that God has these features. According to classical theism, God is:
+[ ] omniscient
+[ ] omnipotent
+[ ] perfect
+[ ] immaterial
+[ ] eternal
+[ ] unchanging
+[ ] unique
+[ ] pure act
+[x] absolutely simple
+[x] the cause of the existence of composite things
+
+Let's do pure act first.
+
+God is the absolutely simple cause of the exsitence of composite things. => rephrase to "God is not composite"
 Potency and Act divide being in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act as primary and intrinsic principles.
 ---
     God is pure act.
 
-There could be multiple "pure acts" only if there were some differentiating feature that one had and another lacked.
+This can only make sense if you understand the idea of Potency and Act, and why it is necessary, so I highly reccommend clicking into the support video if you're the least bit confused. What follows will depend heavily on this concept.
+
+There could be multiple "pure acts" only if one had some differentiating feature that another lacked.
 Lacking such a differentiating feature entails having some unactualized potential.
 ---
 There could be multiple "pure acts" only if there were some unactualized potential that one had.
 Pure act cannot have an unactualized potential, by definition.
 ---
-So there must be only one thing of pure act.
-If there is only one thing of a kind, it is unique.
+There could not be multiple "pure acts."
+If there cannot be multiple of something, it is unique.
 ---
     God is unique. (pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
 Something is "unchanging" when it cannot in principle change.
 Change is the actualization of potential.
 ---
-Something is "unchanging" when it cannot in principle actualize a potential.
-Pure act has no potential to actualize.
----
-Pure act is unchanging.
-God is pure act.
+Something is "unchanging" when it cannot in principle have a potential actualized.
+Pure act has no potential to have actualized.
 ---
     God is unchanging (, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
-Material things always have the potential to change location.
-Pure act has no potential to actualize.
----
-Pure act is not material.
-Something that is "not material" is immaterial.
----
-Pure act is immaterial.
-    God is immaterial (, unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
-
 A thing either exists necessarily, or it has a potential for existence which is actualized.
-Pure act has no potential to actualize, including the potential for existence.
+Pure act has no potential to actualize (, including the potential for existence.)
 ---
 Pure act exists necessarily.
 If something exists necessarily, it cannot fail to exist.
@@ -182,7 +187,16 @@ Pure act must always have existed and always continue to exist.
 If something must always have existed and always continue to exist, it exists eternally.
 ---
 Pure act exists eternally.
-    God is eternal, (immaterial, unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+    God is eternal, ( unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
+Material things always have the potential to change location.
+Pure act has no potential to actualize.
+---
+Pure act is not material.
+Something that is "not material" is immaterial.
+---
+Pure act is immaterial.
+    God is immaterial (, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
 Something is perfect if there is no part of its nature which it fails to fulfill.
 A thing fails to fulfill part of its nature if it has some unactualized potential which it should actualize.
@@ -193,18 +207,38 @@ Pure act has no potentials. (thus no unactualized potential which it should actu
 Pure act is perfect.
     God is perfect (, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
-A thing is omnipotent if it can cause any logically possible change.
-Every change that could logically occur, would necessarily have God as its first cause.
+Change is the actualization of potential.
+Only something already actual can actualize potentials.
 ---
-God is omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
-No cause can actualize what it does not actually have (immanently or formally)
-Since God actualizes all actual things, he must have all things "inside" himself in some way.
-Since God is immaterial, the way that he has all things inside himself must be like knowledge.
-Thus, God knows all things.
+Every change that could occur must caused by something already actual.
+Something can only be "already actual" if it is pure act, or if its potential for existence is being actualized.
+---
+Every change that could occur must either be directly caused by pure act, or be caused by something whose potential for existence is being actualized by pure act.
+If some change is caused by something whose potential for existence is being actualized by pure act, then pure act is the ultimate cause of that change.
+---
+Every change that could occur must ultimately be caused by pure act, either directly or indirectly.
+If every change that could occur must be ultimately caused by pure act, then pure act can cause every change that could occur.
+---
+Pure act can cause every change that could occur.
+A thing is omnipotent if it can cause every change that could occur (aka any logically possible change).
+---
+Pure act is omnipotent.
+    God is omnipotent (, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
+
+No cause can actualize what it does not actually have (immanently or formally) in itself.
+God actualizes all actual things.
+---
+God has all things "inside" himself in some way.
+Something can be inside another thing either materially, or immaterially like how the mind contains knowledge.
+---
+God has all things "inside" himself either materially, or immaterially like how the mind contains knowledge.
+God is immaterial.
+---
+The way God has all things inside himself must be like knowledge.
+rephrase to: God knows all things.
 A thing is omniscient if it knows all things.
 ---
-THUS
-God is omniscient, omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.
+    God is omniscient (, omnipotent, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
 syllogisms leading to Christianity
 
@@ -400,3 +434,13 @@ This means that since a composite thing is composed of parts, then when those pa
 This follows directly from the previous two premises. If you accept the definition of a composite thing's existence, and accept that I am composite, then it necessarily follows that "I exist at any moment only insofar as my parts are combined at that moment." Denying the conclusion while accepting the premises is irrational.
 
 "Two (or more) parts can be combined only where there is a concurrently combining cause."
+
+
+
+"Potency and Act divide being in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act as primary and intrinsic principles."
+
+As a little aside, this line is the first of the 24 thomistic theses, which are a collection of propositions which define the Thomist philosophical system. But let's try to explain what this little bit of jargon means.
+Potency means the potential ways a thing might exist. I might exist in a standing or sitting position, as opposed to an unassisted flight which is not a way that I might exist. Standing is a potency I have whereas flying is not.
+Act mean the actual way a thing exists. Right now I actually am sitting. My potential for sitting has been actualized. I am in the "act" of sitting.
+Thus when we say that "Potency and Act divide being" we mean that there are only two kinds of existence: potential existence and actual existence. These kinds of existence stand in contrast to true nothingness or non-being. Nothingness is hard to really conceptualize. It is not just "empty space" since space itself is a kind of actual existence. Nothingness is more like a round square. It is something that truly just means nothing, and cannot even in principle have any kind of existence.
+How do we know that Potency and Act are our only choices? Well, we know Act is real, since that's basically what it means: "what is fully real right now." And we know that what is real now was not always real, and will not always be real in the future. Basically, we know that things change. But if things change, we need to explain how the things that will become actualized can happen, for if they fully do not exist at all before they are actualized then we must say that they come from nothing or non-being, which is absurd. From nothing, nothing can come. This means that these changes must exist in some real way already, before they are actualized, and this state of being we call "potential." Potential being comprises everything that *could* exist, even if it does not currently exist, and never in fact comes to exist. Because of this, it is impossible that there is any "room" so to speak for any modes of being beyond Act and Potency.
