@@ -1,0 +1,51 @@
+If something is made of multiple parts, then it is composite.
+I am made of multiple parts.
+---
+I am composite.
+Composite things only exist at any moment that their parts are combined.
+---
+I only exist at any moment that my parts are combined.
+In order for parts to be combined, there must be a cause keeping them combined.
+---
+I only exist at any moment because a cause keeps my parts combined.
+Something that only exists because a cause keeps its parts combined is "being caused to exist."
+---
+I am being caused to exist.
+Causes are either made of multiple parts, or be made of only one part.
+    --> rephrase to "Causes are either composite, or simple."
+---
+I am either being caused to exist by composite causes, or by a simple cause.
+Anything that is simple (made of only one part) we will call God.
+---
+I am either being caused to exist by composite causes, or by God.
+    --> if you think you're being caused to exist by a simple cause, called God, then you think God exists. So let's drop that part and assume you do not think you are being caused to exist directly by God.
+
+I am being caused to exist by composite causes.
+A cause that is composite only exists while a cause keeps its parts combined.
+---
+I am being caused to exist by composite causes, which themselves only exist while a cause keeps their parts combined.
+When A causes B which causes C, C is caused by a *causal chain.*
+---
+I am being caused to exist by a causal chain [at any single moment that I exist]. (we're adding "at any single moment that I exist" here for clarification, because if you remember at the beginning we were saying things like "I only exist at any moment that my parts are combined." We are only considering a single moment in time and explaining how I could exist at that particular moment)
+A causal chain is *chronological* if it occurs over some series of moments.
+---
+I am being caused to exist by a causal chain that is not chronological at any single moment that I exist.
+  that doesn't help, lets try again (do a rewind effect)
+
+I am being caused to exist by a causal chain at any single moment that I exist.
+A causal chain is *hierarchical* if it is composed of a series of causes acting all in one moment.
+---
+I am being caused to exist by a hierarchical causal chain.
+A hierarchical causal chain must have a beginning.
+---
+I am being caused to exist by a causal chain that has a beginning.
+The beginning of this causal chain must be a simple cause (non-composite cause), since any composite cause requires a further cause.
+---
+I am being caused to exist by a causal chain that begins with a simple cause.
+Anything that is simple (made of only one part) we will call God.
+---
+I am being caused to exist by a causal chain which begins with God.
+If a causal chain beginning with God exists, then God exists.
+---
+THUS
+God exists.
