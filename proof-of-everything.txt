@@ -204,25 +204,26 @@ Pure act is perfect.
     God is perfect (, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
 Change is the actualization of potential.
-Only something already actual can actualize potentials.
+Only actual things can actualize potentials( or cause change.)
 ---
-Every change that could occur must caused by something already actual.
-Something can only be "already actual" if it is pure act, or if its potential for existence is being actualized.
+Every change that could occur must be caused by something actual.
+All things are either pure act or something whose potential for existence is being actualized.
 ---
-Every change that could occur must either be directly caused by pure act, or be caused by something whose potential for existence is being actualized by pure act.
-If some change is caused by something whose potential for existence is being actualized by pure act, then pure act is the ultimate cause of that change.
+Every change that could occur must either be caused by pure act, or by something whose potential for existence is being actualized.
+Anything whose potential for existence is being actualized ultimately depends on pure act for its existence (either directly or indirectly).
+---
+Every change that could occur must either be caused by pure act, or by something that ultimately depends on pure act.
+If a change is caused by something that ultimately depends on pure act, then pure act is the ultimate cause of that change.
 ---
 Every change that could occur must ultimately be caused by pure act, either directly or indirectly.
-If every change that could occur must be ultimately caused by pure act, then pure act can cause every change that could occur.
----
-Pure act can cause every change that could occur.
+  rephrase to => Pure act can cause every change that could occur.
 A thing is omnipotent if it can cause every change that could occur (aka any logically possible change).
 ---
 Pure act is omnipotent.
     God is omnipotent (, perfect, immaterial, eternally unchanging, unique pure act, absolutely simple, and the cause of the exsitence of composite things.)
 
-No cause can actualize what it does not actually have (immanently or formally) in itself.
-God actualizes all actual things.
+Nothing can cause what it does not in some way have in itself to give (immanently or formally).
+God causes all things to exist.
 ---
 God has all things "inside" himself in some way.
 Something can be inside another thing either materially, or immaterially like how the mind contains knowledge.
@@ -230,7 +231,7 @@ Something can be inside another thing either materially, or immaterially like ho
 God has all things "inside" himself either materially, or immaterially like how the mind contains knowledge.
 God is immaterial.
 ---
-The way God has all things inside himself must be like knowledge.
+God has all things inside himself in a way like knowledge.
 rephrase to: God knows all things.
 A thing is omniscient if it knows all things.
 ---
@@ -438,5 +439,8 @@ This follows directly from the previous two premises. If you accept the definiti
 As a little aside, this line is the first of the 24 thomistic theses, which are a collection of propositions which define the Thomist philosophical system. But let's try to explain what this little bit of jargon means.
 Potency means the potential ways a thing might exist. I might exist in a standing or sitting position, as opposed to an unassisted flight which is not a way that I might exist. Standing is a potency I have whereas flying is not.
 Act mean the actual way a thing exists. Right now I actually am sitting. My potential for sitting has been actualized. I am in the "act" of sitting.
+It is important to note that potency is a kind of existence rooted in actual things. This is why I can say that I have the potential to stand up, but do not have the potential to fly of my own accord.
 Thus when we say that "Potency and Act divide being" we mean that there are only two kinds of existence: potential existence and actual existence. These kinds of existence stand in contrast to true nothingness or non-being. Nothingness is hard to really conceptualize. It is not just "empty space" since space itself is a kind of actual existence. Nothingness is more like a round square. It is something that truly just means nothing, and cannot even in principle have any kind of existence.
 How do we know that Potency and Act are our only choices? Well, we know Act is real, since that's basically what it means: "what is fully real right now." And we know that what is real now was not always real, and will not always be real in the future. Basically, we know that things change. But if things change, we need to explain how the things that will become actualized can happen, for if they fully do not exist at all before they are actualized then we must say that they come from nothing or non-being, which is absurd. From nothing, nothing can come. This means that these changes must exist in some real way already, before they are actualized, and this state of being we call "potential." Potential being comprises everything that *could* exist, even if it does not currently exist, and never in fact comes to exist. Because of this, it is impossible that there is any "room" so to speak for any modes of being beyond Act and Potency.
+So, "Potency and Act divide being" cool. "in such a way that whatever is, is either pure act, or of necessity it is composed of potency and act." Since potency and Act are the only two modes of existence, if a thing exists, that thing must either be composed of potency and act, which is the normal case, or that thing must be pure act. You may ask, why can't a thing be pure Potency? Good question. This is because Potency is inherently rooted in the actuality of a thing. I can only have the potential to stand up because I actually exist first. Thus, if a thing has no actuality whatsoever, then that thing does not actually exist. So Pure Potency is not real. Thus we're left with Pure Act or a mix of Act and Potency. Pretty much everything we see around us is a mix of Act and Potency. Anything that changes must necessarily be a mix. But this "Pure Act" is much different. Saying something is pure act is like saying that thing is existence itself, since act is reality. And this is the idea we connect with God.
+Why do I think this theory has any truth? Are there any scientific studies which can measure the act and potency in a thing? I think this idea is true because it provides a philosophical framework for explaining much of reality nicely. Unfortunately for our science loving age, all the arguments supporting it must be philosphical, since the process of science requires change, and change is the very thing this theory was invented by Aristotle to explain. So, no, there are no scientific studies that measure the act-ness or potency of a thing. But without the concept of act and potency, and the concepts which derive from it, science itself cannot get off the ground. Basically I think it is true because I have never heard a good counterargument to it, and it explains what I observe well enough.

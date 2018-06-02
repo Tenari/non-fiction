@@ -11,7 +11,7 @@ I only exist at any moment because a cause keeps my parts combined.
 Something that only exists because a cause keeps its parts combined is "being caused to exist."
 ---
 I am being caused to exist.
-Causes are either made of multiple parts, or be made of only one part.
+Causes are either made of multiple parts, or made of only one part.
     --> rephrase to "Causes are either composite, or simple."
 ---
 I am either being caused to exist by composite causes, or by a simple cause.
@@ -49,3 +49,78 @@ If a causal chain beginning with God exists, then God exists.
 ---
 THUS
 God exists.
+
+
+PREMISE DEFENSES:
+===
+"I am made of multiple parts"
+
+Come on.
+===
+
+===
+"Composite things only exist at any moment that their parts are combined."
+
+This follows if we consider the contrary. What happens when the parts of a composite thing are separated? That thing no longer exists. Separating all the parts of my body from each other would be thorough way of ensuring that I do not exist.
+===
+
+===
+"In order for parts to be combined, there must be a cause keeping them combined."
+
+
+===
+
+===
+"Something that only exists because a cause keeps its parts combined is "being caused to exist."
+
+
+===
+
+===
+"Causes are either made of multiple parts, or made of only one part."
+
+
+===
+
+===
+"Anything that is simple we will call God."
+
+In classical theism, and Catholicism more specifically, one of the attributes of God is "divine simplicity." Wikipedia says "the doctrine of divine simplicity says that God is without parts." It also says "Varieties of the doctrine may be found in Jewish, Christian, and Muslim philosophical theologians, especially during the height of scholasticism, though the doctrine's origins may be traced back to ancient Greek thought, finding apotheosis in Plotinus' Enneads as the Simplex." So, we can see that this idea of God existing without parts is not some arbitrary idea I came up with to make this proof work, but rather a long and widely held essential idea to understanding what God actually is. Is there more we can say about God than that he is absolutely simple? Of course. But analyzing and understanding the full nature and attributes of God is a lifetime's worth of work, so for now we'll try to keep it /simple/.
+===
+
+===
+"A cause that is composite only exists while a cause keeps its parts combined."
+
+
+===
+
+===
+"When A causes B which causes C, C is caused by a *causal chain.*"
+
+
+===
+
+===
+"A causal chain is *chronological* if it occurs over some series of moments."
+
+
+===
+
+===
+"A causal chain is *hierarchical* if it is composed of a series of causes acting all in one moment."
+
+Another name for this kind of causal chain is a "per se" causal chain. An example of a hierarchical causal chain is when a book rests on a shelf, which rests on a wall, which rests on the earth. The book is held up by the shelf, but only instrumentally, since without the earth as the ultimate base, there is nothing holding the chaing up. The key feature of such causal chains is that each element in the chain gets its causal power instrumentally from the previous element. Why do we say this occurs all in one moment? Well, at any given moment in time, the book is only held up as long as the other causal elements act at that moment to hold it up. If a causal chain happens all in one instant, thenit must be hierarchical since each element would be recieving its causal power instrumentally as opposed to inherently. 
+http://edwardfeser.blogspot.com/2010/08/edwards-on-infinite-causal-series.html
+===
+
+===
+"A hierarchical causal chain must have a beginning."
+
+If each element in a chain re
+===
+
+===
+"The beginning of this causal chain must be a simple cause, since any composite cause requires a further cause."
+
+
+===
