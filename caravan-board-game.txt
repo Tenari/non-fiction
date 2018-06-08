@@ -27,13 +27,13 @@ Player party:
   Each character in your party eats 1 food per turn. If you do not have enough food, your character becomes "starving" which halves HP,att,def. If you do not have enough food 2 turns in a row, your character dies. Food cost $1 at the cities and $3 in the wilderness.
 
 Death:
-  When your character dies, the job is failed. All items owned are lost. You respawn in your home city. You lose 2 XP on each character.
+  When your character dies, the job is failed. All items owned are lost. You respawn in your home city. You lose 3 XP on each character.
 
 Exploring:
   Any wilderness space can be explored as a player's main action, which prevents them from being ambushed there by bandits in the future. The player places a explore token to mark the space. Each player has a limited number of explore tokens. Tokens can be gained from new characters or from purchasing them at the city. Exploring also results in you drawing an item if you roll a 6 on a d6.
 
 Combat:
-  Each time you move through the wilderness, there is a chance of encountering bandits, unless you have explored that space. This chance is determined by the job.
+  Each time you move through the wilderness, there is a chance of encountering bandits, unless you have explored that space. This chance is determined by the job. One skull = 1/6 chance of encountering bandits.
   Bandits parties become stronger based on the number of game rounds that have occured.
   When bandits are defeated, you have a chance to gain an item.
   Once combat is begun, first, flip a coin to see which side attacks first.
