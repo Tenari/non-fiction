@@ -1,0 +1,92 @@
+Premise:
+You are a Caravan Guard. There are various cities, and paths connecting them. Go make money, fight bandits, etc.
+
+Basic Play:
+On your turn, you either move location, accept a job, hire a hand, or explore.
+  In a city:
+    all of your characters are healed to full HP
+    you can accept a job, or hire a hand
+      bonus actions are to buy/sell stuff
+  On the road:
+    You can move or explore
+      bonus actions are to fight bandits
+
+Winning:
+  A player wins when he can retire in peace. You must retire in the city you started at. Buying a home to retire costs $100
+
+Jobs:
+  There are 6 cities. At the start of every round, a d6 is rolled. Whichever city the result maps to has a chance of generating a job. The odds of generating a job are based on how many players are in the game. (lower odds for fewer players, higher odds for more players) The d6 is rolled again, and either a job is generated, nothing happens, or a 6 is rolled, indicating that a hired hand appears in the city.
+  Every city starts with two jobs.
+  A job is to escort a caravan from one city to another. The job will have a payout associated with success, an xp reward, and a danger level which determines how likely you will be to encounter any bandits.
+  Once accepting a job, no new jobs can be accepted, nor any other city but the destination entered.
+
+Player party:
+  Each player starts with a single character in their party.
+  Hiring a hand will add a character to your party.
+  When characters defeat bandits, they gain xp to level up and become better at fighting/get better powers. Each character gets 1 XP for winning combat, and 1 XP for finishing a job.
+  Each character in your party eats 1 food per turn. If you do not have enough food, your character becomes "starving" which halves HP,att,def. If you do not have enough food 2 turns in a row, your character dies. Food cost $1 at the cities and $3 in the wilderness.
+
+Death:
+  When your character dies, the job is failed. All items owned are lost. You respawn in your home city. You lose 2 XP on each character.
+
+Exploring:
+  Any wilderness space can be explored as a player's main action, which prevents them from being ambushed there by bandits in the future. The player places a explore token to mark the space. Each player has a limited number of explore tokens. Tokens can be gained from new characters or from purchasing them at the city. Exploring also results in you drawing an item if you roll a 6 on a d6.
+
+Combat:
+  Each time you move through the wilderness, there is a chance of encountering bandits, unless you have explored that space. This chance is determined by the job.
+  Bandits parties become stronger based on the number of game rounds that have occured.
+  When bandits are defeated, you have a chance to gain an item.
+  Once combat is begun, first, flip a coin to see which side attacks first.
+  Each character on the attacking side gets an attack.
+  To attack: roll a d6. if the result is greater than the Defense of the opponent, the attack hits. Damage is determined by the character who is attacking. A roll of a '6' will always hit, regardless of defense score, but can be foiled by powers. Move the hp peg on receiving damage.
+  Many powers can be used in combat. When a power is used, regardless of if it is successful, the used box on the character sheet should be covered with a token. Tokens are cleared when entering a city.
+
+Items:
+  Each character can have a weapon and an armor item. The top item card (face up) from the item deck can be purchased in cities for the listed price. Items gained in travel (through bandit drops or exploration) can be sold in cities for the listed sell price. Some items have level requirements to use.
+
+
+Characters:
+  Player characters:
+    Wizard
+      HP  10 / 15 / 20
+      Att 10 / 15 / 20
+      Def 1  / 2  / 3
+      Illusion  - retreat from a fight
+      Bind      - prevent opponent from attacking one turn
+      Fireball  - do double damage for one attack
+    Knight
+      HP  20 / 30 / 40
+      Att 4  / 8  / 12
+      Def 3  / 4  / 5
+      Bash        - if your attack hits, stun the enemy for 2 turns
+      Charge      - if your attack hits, double damage
+      Sheild Wall - half damage for whole party for whole fight
+    Rogue
+      HP  15 / 23 / 30
+      Att 8  / 12 / 17
+      Def 2  / 3  / 4
+      Dodge       - force an attack to miss
+      Pickpocket  - reroll an item drop
+      Backstab    - subtract 1 from your attack roll. If you still hit, you kill the opponent immediately.
+  Hired hands: (all cost $10 to hire + food upkeep)
+    Ranger
+      HP  5  / 10 / 15
+      Att 2  / 4  / 6
+      Def 2  / 3  / 4
+      Comes with 1 extra explore token
+    Cleric
+      HP  6  / 12 / 18
+      Att 1  / 2  / 4
+      Def 3  / 4  / 5
+      Healing Prayer - can heal [level]d6 of HP to any character
+      (Won't be in party with Warlock)
+    Warlock
+      HP  4  / 8  / 12
+      Att 4  / 8  / 12
+      Def 1  / 2  / 3
+      (Won't be in party with Cleric)
+    Bard
+      HP  5  / 10 / 15
+      Att 1  / 2  / 4
+      Def 2  / 3  / 4
+      Insipirational Song - allow player character to use a power they have used up.
