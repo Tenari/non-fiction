@@ -12,7 +12,7 @@ On your turn, you either move location, accept a job, hire a hand, or explore.
       bonus actions are to fight bandits
 
 Winning:
-  A player wins when he can retire in peace. You must retire in the city you started at. Buying a home to retire costs $100
+  A player wins when he can retire in peace. You must retire in the city you started at. Buying a home to retire costs $500.
 
 Jobs:
   There are 6 cities. At the start of every round, a d6 is rolled. Whichever city the result maps to has a chance of generating a job. The odds of generating a job are based on how many players are in the game. (lower odds for fewer players, higher odds for more players) The d6 is rolled again, and either a job is generated, nothing happens, or a 6 is rolled, indicating that a hired hand appears in the city.
@@ -28,9 +28,10 @@ Player party:
 
 Death:
   When your character dies, the job is failed. All items owned are lost. You respawn in your home city. You lose 3 XP on each character.
+  When your party members die, they just disappear, and any items they had are lost. Any explore tokens they had must be removed from the board.
 
 Exploring:
-  Any wilderness space can be explored as a player's main action, which prevents them from being ambushed there by bandits in the future. The player places a explore token to mark the space. Each player has a limited number of explore tokens. Tokens can be gained from new characters or from purchasing them at the city. Exploring also results in you drawing an item if you roll a 6 on a d6.
+  Any wilderness space can be explored as a player's main action, which prevents them from being ambushed there by bandits in the future. The player places a explore token to mark the space. Each player has a limited number of explore tokens (6). Tokens can be gained from new characters. Exploring also results in you drawing an item if you roll a 6 on a d6.
 
 Combat:
   Each time you move through the wilderness, there is a chance of encountering bandits, unless you have explored that space. This chance is determined by the job. One skull = 1/6 chance of encountering bandits.
@@ -42,7 +43,7 @@ Combat:
   Many powers can be used in combat. When a power is used, regardless of if it is successful, the used box on the character sheet should be covered with a token. Tokens are cleared when entering a city.
 
 Items:
-  Each character can have a weapon and an armor item. The top item card (face up) from the item deck can be purchased in cities for the listed price. Items gained in travel (through bandit drops or exploration) can be sold in cities for the listed sell price. Some items have level requirements to use.
+  Each character can have a weapon and an armor item. The item shop is composed of the top 3 item cards (face up) from the item deck. These items can be purchased in cities for the listed price. Items gained in travel (through bandit drops or exploration) can be sold in cities for the listed sell price. Some items have level requirements to use.
 
 
 Characters:
@@ -73,7 +74,7 @@ Characters:
       HP  5  / 10 / 15
       Att 2  / 4  / 6
       Def 2  / 3  / 4
-      Comes with 1 extra explore token
+      Comes with 2 extra explore tokens
     Cleric
       HP  6  / 12 / 18
       Att 1  / 2  / 4
