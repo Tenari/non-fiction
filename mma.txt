@@ -1,0 +1,86 @@
+A = Tyler Diamond (orange)
+B = Bryce Mitchell (blue)
+5:00 - open Aleft Bright
+4:59 - A pushK_r_hip_hit
+4:59 - B slide quickK_r_chest_miss
+4:57 - B slide sideK_r_chest_hit
+4:53 - B slide sideK_r_head_miss
+4:52 - A slide_dodge jab_l_head_miss
+4:52 - A slide jab_l_arm_hit B block
+4:51 - A combo cross_r_head_miss B lean
+4:51 - closed Aright Bright
+4:51 - A step jab_r_head_miss
+4:49 - open Aleft Bright
+4:47 - B circle_r A switch_feet | closed Aright Bright
+4:46 - open Aleft Bright
+4:46 - B fake_jab_r A slide_back
+4:45 - B slide fake_sideK
+4:45 - B fake_jab_r A fhook_l_head_miss B lean
+4:44 - B slide_back
+4:41 - B fake_jab_r A slide_back
+4:41 - B fake_jab_r A duck
+4:40 - B fake_jab_r A slike_back
+4:39 - B fake_jab_r A fhook_l_arm_miss
+4:39 - A cross_r_head_miss B lean_back
+4:38 - B fake_jab_r A jab_l_head_miss
+4:38 - B hook_l_head_hitSig A duck_forward
+4:37 - A jab_l_head_miss B slide_back
+4:33 - A cross_r_arm_miss B slide_back
+4:30 - B sideK_r_hip_miss A arm_deflect slide_back
+4:24 - A pushK_r_hip_miss B arm_deflect slide_back
+4:22 - A fake_jab_l B arm_deflect
+4:21 - A fake_hook_l B slide_back
+4:20 - A fake_jab_l B arm_deflect
+4:20 - A turningK_r_head_miss B arm_deflect
+4:19 - A cross_r_head_miss B slide_left duck
+4:18 - B grab_r_head A push_b_chest
+4:18 - B knee_l_head_miss A dodge slide_back
+4:16 - B pushK_l_chest_miss A arm_deflect
+4:12 - B jumpTurningK_r_head_miss A duck
+4:12 - A clinch_shoulder_grab
+4:11 - B sprawl B push
+4:11 - B knee_l_chest_hit
+4:10 - B knee_l_leg_hit
+4:09 - A knee_r_hip_hit
+4:09 - B knee_r_side_miss A straighten_up
+4:08 - A reposition_head_r
+4:07 - B knee_l_chest_hit
+4:06 - A push_chest
+---
+4:01 - A jab_l_head_miss B arm_deflect
+4:01 - A jab_l_head_miss B duck_side_l slide_back
+---
+3:59 - A turnK_r_head_hit B arm_deflect slide_back
+---
+3:51 - A cross_r_head_miss B lean_back slide_back
+3:50 - A neck_grab_miss B lean_back
+3:50 - open Aright Bleft
+3:49 - A hook_r_head_miss B duck
+3:49 - A grab_neck B grab_waist
+3:49 - A underhook_right_arm
+3:48 - B rotate push_into_fence
+3:46 - A lean_over B under
+3:45 - B step_between_legs hip_throw
+3:44 - A jump sprawl_counter
+3:43 - B knee_r_chest_hit disengage_push
+3:42 - A hook_r_chest_miss
+---
+3:40 open Aleft Bright
+3:40 A cross_r_head_miss B lean_back
+3:39 closed Aright Bright
+3:39 A jab_r_head_miss B slide_back
+3:39 A jab_r_head_hitSig B slide_back
+3:39 A jab_r_head_miss B lean_right
+3:38 B hook_l_head_miss A duck
+3:38 B shoulder_tackle A arm_wrap
+3:37 B knee_l_chest_hitSig
+3:36 B push
+3:35 B spin push
+3:34 A grab_ankle turtle
+---
+3:30 A step_over halfGuard
+3:27 B two_leg_knee_grab
+3:14 B lean_back armpit_choke
+3:08 B bridge
+3:05 B leg_over_shoulder_half_triangle
+

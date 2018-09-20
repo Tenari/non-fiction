@@ -1,0 +1,220 @@
+600   make tea, pray, pardus
+700   workout
+        roll joints
+        1m  jog in place, high knees, butt kicks, etc
+        dynamic kick and arm stretching
+        slow, faster, medium, full speed x5:
+          jab l
+          jab r
+          cross l
+          cross r
+          turningK l
+          turningK r
+          quickK l
+          quickK r
+          sideK l
+          sideK r
+        invent a combo, go hard on it for 1 minute
+        recover for one minute
+        do the other side of the combo for 1 minute
+        recover for one minute
+        stretch: calfs, quads, groin, sidebends, chest/pecs, tricep, bicep, wrists
+800   eat
+845   data-record a ufc fight until people come in
+900   work, pray terce
+1200  pray sext, eat BIG meal
+100   work
+300   pray none
+315   work
+500   chores
+530   goto gym for workout
+730   pray vespers, eat light dinner
+800   shower
+830   data-record ufc fight
+900   pray compline
+930   stretch/dick around, eat yogurt
+1000  sleep
+
+normal week
+Mon   https://www.youtube.com/watch?v=jogkD5FMTZk, no-gi wrestling
+Tues  morning, kickboxing
+Wed   lift (1 heavy compound, assistance stuff)
+Thur  morning, kickboxing
+Fri   no-gi wrestling (lunch)
+Sat   lunch kickboxing class
+Sun   morning
+
+sparring weekend week
+Mon   morning, no-gi wrestling
+Tues  morning, kickboxing
+Wed   lift (1 heavy compound, assistance stuff)
+Thur  morning, rest
+Fri   rest
+Sat   morning, sparring
+Sun   sparring, evening
+
+movelist:
+
+  Strikes:
+    jab (r/l) (head/arm/chest)
+    cross (r/l) (head/arm/chest)
+    jHook (r/l) (head/arm/chest)
+    hook (r/l) (head/arm/chest)
+    jUppercut (r/l) (head/arm/chest)
+    uppercut (r/l) (head/arm/chest)
+    sideK (r/l) (knee/hip/chest/head)
+    turnSideK (r/l) (knee/hip/chest/head)
+    frontTurnK (r/l) (knee/hip/chest/head)
+    turnK (r/l) (knee/hip/chest/head)
+    frontPushK (r/l) (knee/chest)
+    pushK (r/l) (knee/chest)
+  Grappling:
+    sprawl
+    turtle
+    fullGuard (top/bottom)
+    halfGuard (l/r) (top/bottom)
+    mount (top/bottom)
+    kneeOnBelly (l/r) (top/bottom)
+    sideControl (l/r) (top/bottom)
+    modifiedScarf (l/r) (top/bottom)
+    scarf (l/r) (top/bottom)
+    backControl
+
+
+
+What is the most common opening move in an engagment?
+What is the most effective response?
+
+
+open stance
+jab   counter-jab         pivot, cross
+                          switch, turnK
+      counter-cross
+      dodgeBack, cross
+      sideK leg
+outside leg kick    check
+                    switch back
+                    step-jab
+                    step-overhand
+
+
+
+
+Saturday:
+before: setup pad for punching
+
+800   wake, pray
+830   start workout:
+      roll joints
+      1m run in place
+      2m movement practice (forward, backward, left, right)
+      111222333444 jab l x3
+      111222333444 jab r x3
+      111222333444 cross l x3
+      111222333444 cross r x3
+      jab-counter video l open
+      stretch routine
+      foam roll and massage
+      breathing routine
+      10m rest
+      roll joints
+      1m run in place
+      2m movement practice (forward, backward, left, right)
+      11223344 jab l x3
+      11223344 jab r x3
+      11223344 cross r x3
+      11223344 cross l x3
+      jab-counter video r open
+      stretch routine
+      foam roll and massage
+      breathing routine
+      10m rest
+      roll joints
+      1m run in place
+      2m movement practice (forward, backward, left, right)
+      111222333444 jab l x3
+      111222333444 jab r x3
+      111222333444 cross l x3
+      111222333444 cross r x3
+      jab-counter video l closed
+      stretch routine
+      foam roll and massage
+      breathing routine
+      10m rest
+      roll joints
+      1m run in place
+      2m movement practice (forward, backward, left, right)
+      111222333444 jab l x3
+      111222333444 jab r x3
+      111222333444 cross l x3
+      111222333444 cross r x3
+      jab-counter video r closed
+      stretch routine
+      foam roll and massage
+      breathing routine
+
+
+layers to mma skill:
+1. Athleticism
+    toughness
+    power
+      quickness
+      strength
+    flexibility
+    recovery
+    endurance
+    reflexes
+2. Technique
+    movement
+    strikes
+        form
+        speed
+        signaling
+      punches
+        jab
+        cross
+        hook
+        uppercut
+      kicks
+        side
+        turning
+        push
+        axe
+        hook
+      elbows
+      knees
+    dodges/blocks
+      side slips
+      ducks
+      fades
+    clinch
+      holds
+      knees
+      elbows
+    takedowns
+      ???
+    grappling/rolling
+      guards
+      escapes
+      submissions
+3. Tactics
+    stances
+    positioning
+    targeting
+    counters
+      strike counters
+      combo counters
+    attacks
+      feints
+      openers
+      counter-responses
+4. Strategy
+    grapple vs strike
+    open vs closed
+    feint frequency
+    kick vs punch expected value
+    favored sides
+    opponent common attacks
+    attack intensity / frequency
+    attack vs counter
+    go for KO or submission or scorecards

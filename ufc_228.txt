@@ -1,0 +1,225 @@
+A = Darren Till
+B = Donald Cerrone
+===
+4:54 open_stance A right B left
+4:54 A jab_head_miss B block_hand
+4:54 B slideFrontTurnK_thigh_miss A slide_back
+===
+4:50 open_stance A right B left
+4:50 A jab_head_miss
+4:49 A feint_takedown
+4:49 A feint_jab
+4:48 B jab_head_miss A block_hand
+4:47 A feint_jab B block_hand
+4:46 A jab_head_miss B slip_back
+4:46 B pushK_chest_miss A slide_back
+===
+4:43 open_stance A right B left
+4:43 A cross_head_miss B slip_duck
+4:43 B single_leg_takedownAttempt A sprawl
+===
+4:34 open_stance A right B left
+4:34 A jab_head_miss B slip_back
+===
+4:28 open_stance A right B left
+4:28 A jab_chest_miss B block_hand
+4:28 A cross_head_miss B slip_duck block_hand
+4:27 B single_leg_takedownAttempt A push_head slide_back
+===
+4:22 open_stance A right B left
+4:22 A feint_jab
+4:22 A feint_jab B block_hand
+4:22 A cross_head_miss B slip_duck block_hand
+4:21 A slide_back
+4:21 A jab_head_miss B slide_back
+4:20 A cross_head_glance B slide_back
+===
+4:16 open_stance A right B left
+4:16 A feint_jab B slide_back
+4:15 A jab_head_miss B block_hand
+4:14 B feint_fHook A slide_back
+===
+4:12 open_stance A right B left
+4:12 A turnK_head_glance B block_arm
+4:11 B jab_head_miss 
+4:11 A feint_jab B block_hand
+4:10 A cross_head_hit B slide_back
+===
+4:08 open_stance A right B left
+4:08 slideFrontTurnK_thigh_miss B slide_back
+===
+4:06 open_stance A right B left
+4:06 A feint_jab B block_hand
+4:06 A feint_jab B feint_jab
+4:05 A feint_jab B block_hand
+4:04 A feint_jab B feint_jab
+4:04 A jab_head_hit B block_hand
+4:04 B knee_chest_glance A cross_head_hit
+4:03 A feint_jab B block_hand
+===
+4:00 open_stance A right B left
+4:00 A feint_jab
+3:59 A feint_jab B block_hand
+3:59 B cross_head_miss A slide_back
+3:59 B cross_head_miss A slide_back push_arm
+===
+3:54 open_stance A right B left
+3:54 A feint_jab
+3:54 B slideFrontTurnK_thigh_hit A ankle_grab
+3:53 B slide_back A slide_forward
+===
+3:50 open_stance A right B left
+3:50 A feint_jab B block_hand
+3:49 A crossElbow_head_miss B slip_duck
+3:49 B double_leg_takedownAttempt A slide_back
+3:47 B takedown
+3:44 A standup
+===
+3:20 open_stance A right B left
+3:20 B frontKnee_chest_hit
+3:16 B push_shoulders
+===
+3:12 open_stance A right B left
+3:12 A feint_jab B block_hand
+3:11 A feint_jab B block_hand
+3:11 A cross_head_miss B slip_duck
+===
+3:07 open_stance A right B left
+3:07 A feint_jab B slip_duck
+3:06 A uppercut_chest_hit B slip_left
+3:06 B jab_head_glance A hook_head_glance B slide_back
+===
+2:59 open_stance A right B left
+2:59 A jab_head_hit B slide_side
+2:58 A feint_jab B block_hand
+2:58 A cross_head_miss B slip_back
+===
+2:55 open_stance A right B left
+2:55 B turnK_calf_glance A slide_back
+2:53 B feint_jab A feint_jab
+2:52 A feint_jab B block_hand
+2:52 A jab_head_glance B slip_back
+===
+2:48 open_stance A right B left
+2:48 A feint_jab B block_hand
+2:48 A feint_jab B block_hand
+2:47 A cross_head_glance B block_hand
+2:46 A feint_jab B slide_back
+2:46 A cross_head_glance B block_hand
+===
+2:41 open_stance A right B left
+2:41 B slide_forward frontTurnK_thigh_hit A ankle_grab
+2:41 A cross_head_glance B slide_back
+===
+2:39 open_stance A right B left
+2:39 A feint_jab B block_hand
+2:38 A feint_jab B block_hand
+2:37 A grab_hand B feint_jab
+===
+2:34 closed_stance A right B right
+2:34 A cross_head_significantHit B slide_back
+2:34 B fHook_head_miss
+===
+2:31 open_stance A right B left
+2:31 A jab_head_glance B cross_head_glance
+2:30 B cross_head_miss A slip_back
+===
+2:24 open_stance A right B left
+2:24 B frontTurnK_thigh_significantHit A cross_head_hit
+===
+2:20 open_stance A right B left
+2:20 A jab_head_miss B slip_back
+2:19 A feint_jab B block_hand
+2:19 A uppercut_head_hit B slip_duck
+===
+2:15 open_stance A right B left
+2:15 A feint_jab
+2:14 A feint_jab B feint_jab
+2:14 A feint_jab
+2:13 A feint_jab
+2:12 B turnK_chest_glance A block_arm
+===
+2:08 open_stance A right B left
+2:08 A feint_jab B slide_back
+2:07 B feint_jab 
+2:06 B grab_hand cross_head_miss A slide_back
+===
+2:02 open_stance A right B left
+2:02 B pushK_chest_glance A ankle_grab
+2:00 A pushK_chest_miss
+===
+1:57 open_stance A right B left
+1:57 B frontSideK_chest_miss A slide_back
+===
+1:53 open_stance A right B left
+1:53 A jab_head_hit B block_hand
+1:53 B jab_head_miss A slide_back
+===
+1:49 open_stance A right B left
+1:49 A feint_jab B block_hand
+1:49 A cross_chest_glance B slip_duck
+===
+1:47 open_stance A right B left
+1:47 A cross_head_glance B block_arm
+===
+1:43 open_stance A right B left
+1:43 A feint_jab B block_hand
+1:43 A overhandCross_head_miss B slip_duck block_hand
+1:43 B jab_head_miss A slip_back
+===
+1:40 open_stance A right B left
+1:40 A jab_head_hit B block_hand
+1:40 A cross_head_miss B slip_back
+===
+1:37 open_stance A right B left
+1:37 B feint_jab A block_hand
+1:36 B frontTurnK_thigh_glance A slide_back
+1:33 A feint_jab B turnK_calf_miss
+===
+1:27 open_stance A right B left
+1:27 A feint_jab
+1:27 A jab_head_hit B block_hand
+1:27 B cross_chest_hit A slide_back
+===
+1:18 open_stance A right B left
+1:18 A feint_pushK B feint_sideK
+1:17 B jab_head_miss B slide_back
+===
+1:13 open_stance A right B left
+1:13 A feint_jab B feint_jab
+1:12 B feint_jab
+1:11 B jab_head_miss A slide_back
+===
+1:08 open_stance A right B left
+1:08 B turnK_calf_hit A step_back
+===
+1:04 open_stance A right B left
+1:04 A feint_jab B feint_jab
+1:03 B turnK_chest_hit A block_hand
+1:03 B feint_jab
+===
+0:58 open_stance A right B left
+0:58 A jab_head_hit B hand_block
+0:57 A cross_head_significantHit B slip_duck
+===
+0:52 open_stance A right B left
+0:52 B feint_jab A crossElbow_head_hit
+0:51 A feint_jab
+0:50 A cross_head_miss B block_arm
+0:49 A fHook_head_hit B slide_back
+0:49 A cross_head_significantHit
+0:48 A hook_head_hit B block_arm
+0:48 A hook_chest_glance B block_arm
+0:47 A fHook_head_miss
+0:46 A fHook_head_glance
+0:46 A fHook_head_glance
+0:45 A fHook_head_miss
+0:45 A fHook_head_glance
+0:45 A fHook_head_glance
+0:44 A fHook_head_miss
+0:44 A fHook_head_glance
+0:44 B drop_turtleDefense
+0:43 A groundAndPound_head_glance
+0:42 A groundAndPound_head_glance
+0:42 A groundAndPound_head_glance
+===

@@ -1,0 +1,225 @@
+A = TJ Dillashaw
+B = Renan Barao
+===
+4:50 closed_stance A left B left
+4:50 A turnK_knee_hit B jHook_head_miss
+4:49 B cross_head_miss A slide_back B jab_head_miss
+===
+4:43 closed_stance A left B left
+4:43 B pushK_chest_miss A slide_back block_elbow
+===
+4:38 closed_stance A left B left
+4:38 B feint_jab A armShootForTakedown_frontLeg_miss B jab_head_glance
+4:37 A uppercut_head_miss B block_hand fade_back
+4:36 A dash_forward overhandCross_head_miss B block_hand
+===
+4:32 closed_stance A left B left
+4:32 B jab_head_miss A block_hand slide_back
+===
+4:30 closed_stance A left B left
+4:30 A feint_jab B block_hand
+4:30 A turnK_knee_hit
+===
+4:26 closed_stance A left B left
+4:26 A jab_head_miss B jab_head_miss
+4:24 A cross_feint A cross_head_hit
+4:24 B hook_head_miss A slide_back
+===
+4:16 closed_stance A left B left
+4:16 B turnK_head_miss A block_arm slide_back
+===
+4:10 closed_stance A left B left
+4:10 B jab_head_miss A cross_head_miss
+===
+4:07 open_stance A right B left
+4:07 B jab_head_miss B block_hand
+4:07 B jab_head_miss B block_hand
+===
+4:04 open_stance A right B left
+4:04 B feint_jab A cross_head_miss
+4:04 A turnK_head_glance B duck block_hand
+===
+4:00 closed_stance A left B left
+4:00 A turnK_knee_hit B ankle_grab_miss
+3:59 B cross_head_glance A slide_back
+===
+3:56 closed_stance A left B left
+3:56 B jab_head_miss A block_hand slide_back
+===
+3:52 closed_stance A left B left
+3:52 A jumpFrontAxeK_head_miss B slide_back block_hand
+3:51 B jab_head_miss A block_hand
+===
+3:49 closed_stance A left B left
+3:49 B feint_jab A feint_cross
+===
+3:47 closed_stance A left B left
+3:47 B cross_body_miss A switch_stance slide_back
+===
+3:45 open_stance A right B left
+3:45 B turnK_chest_glance A block_elbow
+===
+3:35 closed_stance A left B left
+3:35 B feint_jab A duck
+3:35 B jab_head_miss A slide_back
+===
+3:33 closed_stance A left B left
+3:33 A supermanJab_head_miss B headFade
+3:33 A overhandCross_head_miss B block_hand
+===
+3:30 closed_stance A left B left
+3:30 B pushK_chest_glance A block_elbow slide_back
+===
+3:27 closed_stance A left B left
+3:27 B jab_head_miss A block_hand
+===
+3:25 closed_stance A left B left
+3:25 A turnK_knee_hit B ankle_grab_miss
+===
+3:23 closed_stance A left B left
+3:23 A supermanJab_head_miss B block_hand
+3:22 B jHook_head_miss A duck
+3:22 B hook_head_miss A slide_back
+===
+3:17 closed_stance A left B left
+3:17 A supermanCross_head_miss B block_hand slide_back
+===
+3:12 closed_stance A left B left
+3:12 B feint_jab A block_hand
+3:12 B feint_jab A armShootForTakedown_frontLeg_miss
+3:11 A uppercut_chest_hit B chest_push
+3:10 A cross_chest_miss B headFade
+3:10 B jHook_head_miss A slip slide_back
+===
+3:09 open_stance A right B left
+3:09 A cross_head_miss B slide_back
+3:08 A jUppercut_head_miss B block_hand
+3:08 A cross_head_miss B block_arm slide_back
+3:08 A jab_head_miss
+===
+3:03 open_stance A right B left
+3:03 A turnK_chest_hit B slide_back
+===
+3:01 closed_stance A left B left
+3:01 A slide_forward frontTurnK_knee_hit B jab_head_miss A block_hand
+3:01 B jab_head_miss A slide_back block_hand
+===
+2:57 closed_stance A left B left
+2:57 A feint_cross B jab_head_miss
+===
+2:55 open_stance A right B left
+2:55 B turnK_chest_miss A slide_left block_arm
+===
+2:51 open_stance A right B left
+2:51 B turnK_knee_glance A slide_back block_hand
+===
+2:48 open_stance A right B left
+2:48 B frontKnee_chest_glance A cross_head_hit
+2:48 B push_away slide_right
+2:48 closed_stance A left B left
+2:48 A cross_head_hit B fade_back
+===
+2:45 open_stance A right B left
+2:45 B feint_frontK A jUppercut_head_miss
+2:45 B jHook_head_hit A hook_chest_hit
+2:44 closed_stance A left B left
+2:44 A overhand_head_glance B block_hand
+===
+2:41 open_stance A right B left
+2:41 A feint_jab B feint_uppercut
+===
+2:37 closed_stance A left B left
+2:37 A feint_cross B jab_head_miss A slide_back
+2:36 B hook_chest_miss A block_elbow
+===
+2:33 closed_stance A left B left
+2:33 B spinBackK_chest_miss A slide_left block_arm
+2:31 A feint_cross B jHook_head_miss A block_hand
+2:30 A jab_head_miss B block_hand
+2:30 B jHook_chest_glance A turnK_knee_hit
+2:30 B cross_head_hit A jab_head_miss
+2:29 B jHook_head_miss A slide_back
+===
+2:23 closed_stance A left B left
+2:23 B jab_head_miss A duck
+2:23 A hook_head_miss B fade_back
+2:22 open_stance A right B left
+2:22 A feint_jab B jHook_chest_glance
+2:21 A feint_takedown B turnK_chest_miss A block_hand
+2:20 A turnK_knee_glance B step_back
+===
+2:16 open_stance A right B left
+2:16 B feint_jab A feint_cross B block_hand
+2:15 closed_stance A left B left
+2:15 A jab_chest_glance B slide_back
+2:14 A cross_head_miss B block_hand
+===
+2:07 closed_stance A left B left
+2:07 A feint_hook B block_hand
+2:07 B jab_chest_hit A block_elbow
+2:06 B cross_head_miss A block_hand
+2:05 A feint_takedown B feint_jab
+===
+2:04 closed_stance A left B left
+2:03 open_stance A right B left
+2:03 A feint_cross
+2:03 closed_stance A left B left
+2:03 A feint_cross B slip_right
+2:03 A turnK_knee_glance B slide_back
+===
+1:54 closed_stance A left B left
+1:54 A feint_jab B block_hand
+1:53 A cross_head_miss B dip_right jHook_head_miss
+1:53 B hook_head_miss A slide_back
+1:52 A backSideWristGrab_front jHook_head_hit B cross_head_miss
+1:52 open_stance A right B left
+1:52 A cross_head_miss B slide_back
+1:52 closed_stance A left B left
+1:51 B jHook_head_miss A fade_back
+1:51 B hook_head_miss A duck jHook_chest_glance
+1:51 B push_arm slide_back
+===
+1:43 open_stance A right B left
+1:43 A cross_chest_glance B block_arm
+1:42 A turnK_head_glance B block_elbow slide_back
+===
+1:33 closed_stance A left B left
+1:33 A turnK_head_glance B block_arm fade_right
+===
+1:29 closed_stance A left B left
+1:29 A feint_jab
+1:29 A feint_takedown B jab_head_miss
+1:28 A uppercut_head_glance B fade_back
+===
+1:25 open_stance A right B left
+1:25 A feint_cross
+1:25 B jab_head_miss A jHook_head_miss
+1:24 B slide_back A slide_forward
+===
+1:22 closed_stance A left B left
+1:22 A slide_forward frontTurnK_knee_hit B jab_head_miss
+1:21 B cross_head_glance A block_arm slide_back
+1:20 B turnK_knee_hit A slide_back
+===
+1:17 open_stance A right B left
+1:17 A feint_takedown B hand_push
+1:17 A jHook_head_miss B slide_back
+1:16 A feint_jUppercut
+1:16 closed_stance A left B left
+1:16 A jab_head_miss B slide_back
+1:15 A turnK_knee_miss B slide_back
+===
+1:09 closed_stance A left B left
+1:09 A slide_forward B jHook_chest_miss A slide_back
+===
+1:04 closed_stance A left B left
+1:04 A feint_jab B block_arm
+1:03 A duck B hand_push A overhandHook_head_significantHit 
+1:02 B fall A mount
+0:08 A standup B standup
+===
+0:04 open_stance A right B left
+0::4 A turnK_head_hit B jHook_head_miss
+0:03 B legGrab jab_chest_miss A fall
+0:02 B mountAttempt A standup B fall
+===

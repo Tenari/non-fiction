@@ -1,12 +1,19 @@
+NOTES:
+-double the rewards for jobs
+-bandit job means you're not attacked and you can move 2 spaces per turn.
+-  update bandit combat to be less all or nothing?
+-tweak bandit attack defense to be 1 shot killable by wizard and 3 shot killable by knight. and wizard to be 2 shot killable by bandit and knight to be many shot killable
+-remove food, it's boring
+-redo map + the way jobs are spawned
+
 Premise:
 You are a Caravan Guard. There are various cities, and paths connecting them. Go make money, fight bandits, etc.
 
 Basic Play:
-On your turn, you either move location, accept a job, hire a hand, or explore.
+On your turn, you either move location, accept a job, hire a hand, visit the market, or explore.
   In a city:
     all of your characters are healed to full HP
-    you can accept a job, or hire a hand
-      bonus actions are to buy/sell stuff
+    you can accept a job, or hire a hand ($10), or visit the market
   On the road:
     You can move or explore
       bonus actions are to fight bandits
@@ -19,12 +26,13 @@ Jobs:
   Every city starts with two jobs.
   A job is to escort a caravan from one city to another. The job will have a payout associated with success, an xp reward, and a danger level which determines how likely you will be to encounter any bandits.
   Once accepting a job, no new jobs can be accepted, nor any other city but the destination entered.
+  A job is failed if the main character dies.
+    If the caravan is robbed (by another player), then the job can be completed for 50% value only.
 
 Player party:
   Each player starts with a single character in their party.
   Hiring a hand will add a character to your party.
   When characters defeat bandits, they gain xp to level up and become better at fighting/get better powers. Each character gets 1 XP for winning combat, and 1 XP for finishing a job.
-  Each character in your party eats 1 food per turn. If you do not have enough food, your character becomes "starving" which halves HP,att,def. If you do not have enough food 2 turns in a row, your character dies. Food cost $1 at the cities and $3 in the wilderness.
 
 Death:
   When your character dies, the job is failed. All items owned are lost. You respawn in your home city. You lose 3 XP on each character.
@@ -37,8 +45,9 @@ Combat:
   Each time you move through the wilderness, there is a chance of encountering bandits, unless you have explored that space. This chance is determined by the job. One skull = 1/6 chance of encountering bandits.
   Bandits parties become stronger based on the number of game rounds that have occured.
   When bandits are defeated, you have a chance to gain an item.
+  Before combat, choose your turn order.
   Once combat is begun, first, flip a coin to see which side attacks first.
-  Each character on the attacking side gets an attack.
+  side A's first character attacks side B's first character, then side B's first character attacks side A's first character. Then side A's second attacks B's 2nd, and so on. The turn order wraps around back to the first in order. For bandits, there is only 1 character.
   To attack: roll a d6. if the result is greater than the Defense of the opponent, the attack hits. Damage is determined by the character who is attacking. A roll of a '6' will always hit, regardless of defense score, but can be foiled by powers. Move the hp peg on receiving damage.
   Many powers can be used in combat. When a power is used, regardless of if it is successful, the used box on the character sheet should be covered with a token. Tokens are cleared when entering a city.
 
@@ -69,7 +78,7 @@ Characters:
       Dodge       - force an attack to miss
       Pickpocket  - reroll an item drop
       Backstab    - subtract 1 from your attack roll. If you still hit, you kill the opponent immediately.
-  Hired hands: (all cost $10 to hire + food upkeep)
+  Hired hands: (all cost $10 to hire)
     Ranger
       HP  5  / 10 / 15
       Att 2  / 4  / 6

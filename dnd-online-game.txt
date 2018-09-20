@@ -1,0 +1,111 @@
+make the computer do the boring work and let dm do most things
+make the user interface like pokemon
+use my old coalition victory game stuff
+
+screens:
+  game list - lists games available for you to join
+  game info - allows you to join a game with a new character or with an existing character
+  create character - duh
+  in game
+    narration screen - for when the dm is telling you shit, or when you are in a non-combat encounter
+      dm puts up an image on screen, and he can overlay text to it.
+    encounter map screen - like pokemon walking around screen
+    character screen - show character sheet / items etc
+      select a skill
+      select a feat
+      buy items
+  DM
+    encounters list - lets you see previous encounters you made or go make a new one
+    create encounter - basic map making + enemy dropping tools
+    running game - allows you to switch to new encounters, to skip people's turns, to move enemies, to declare victory/etc...
+
+Races
+
+dwarf:
+  size: medium
+  speed: 5
+  con_bonus: 2
+  wis_bonus: 2
+elf:
+  size: medium
+  speed: 7
+  dex_bonus: 2
+  wis_bonus: 2
+human:
+  size: medium
+  speed: 6
+  any_bonus: 2
+  fortitude_bonus: 1
+  reflex_bonus: 1
+  will_bonus: 1
+
+Classes
+
+cleric:
+  will_bonus: 2
+  armor_proficiencies:
+    - cloth
+    - leather
+    - hide
+    - chainmail
+  weapon_proficiencies:
+    - simple_melee
+    - simple_ranged
+  hp:
+    base: 12
+    base_mod: con_score
+    gain_per_level: 5
+    heals_per_day: 7
+    heals_per_day_bonus: con
+  default_powers:
+    - turn_undead
+    - healing_word
+fighter:
+  fortitude_bonus: 2
+  armor_proficiencies:
+    - cloth
+    - leather
+    - hide
+    - chainmail
+    - scale
+    - light_shield
+    - heavy_shield
+  weapon_proficiencies:
+    - simple_melee
+    - military_melee
+    - simple_ranged
+    - military_ranged
+  hp:
+    base: 15
+    base_mod: con_score
+    gain_per_level: 6
+    heals_per_day: 9
+    heals_per_day_bonus: con
+  default_powers:
+    - combat_challenge
+    - combat_superiority
+
+Powers
+
+turn_undead:
+  description:
+healing_word:
+  description:
+combat_challenge:
+  description: Every time you attack an enemy, whether the attack hits or misses, you can choose to mark that target. The mark lasts until the end of your next turn. While a target is marked, it takes a –2 penalty to attack rolls for any attack that doesn’t include you as a target. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place. In addition, whenever a marked enemy that is adjacent to you shifts or makes an attack that does not include you, you can make a melee basic attack against that enemy as an immediate interrupt.
+  frequency: attack
+  effect: 
+    type: mark_target
+    attack_penalty: -2
+    condition: other
+  second_effect:
+    type: response_basic_attack
+    condition: shift_or_attack_other
+combat_superiority:
+  frequency: passive
+  condition: opportunity_attack
+  description: You gain a bonus to opportunity attacks equal to your Wisdom modifier. An enemy struck by your opportunity attack stops moving, if a move provoked the attack. If it still has actions remaining, it can use them to resume moving.
+
+Items
+
+
