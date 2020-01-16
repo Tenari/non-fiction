@@ -178,3 +178,126 @@ general overview of the scriptural basis for catholicism: https://www.youtube.co
 response to galileo affair + historicity of catholic worship: https://www.youtube.com/watch?v=RwUA-104MZQ
 doctrine of salvation: https://www.youtube.com/watch?v=k7IJGzQlo1w
 eucharist: https://www.youtube.com/watch?v=filV-JMFc98
+
+#### Question form
+
+1. Are you a Christian?
+2. Should Christians want to be in the presense of Jesus?
+3. If a large and ancient denomination of Christianity claims to have the Real Presence of Jesus, does that claim merit further study?
+4. 
+
+Which did Jesus Christ found on earth before He ascended into heaven: a unified body called the Church, or a unified scripture called the Bible?
+
+Does your church anoint the sick with oil, as James 5:14-15 commands?
+
+Has a woman in your church ever prayed with a veil, as Paul commands in 1 Corinthians 11:1-16?
+
+How can the prayers of one cause the forgiveness of the sins of another, as James 5:14-15 says?
+
+Did Christ come to abolish the law, or fulfill it?
+Did the law create a priesthood?
+Does your denomination have a priesthood, or have you abolished it?
+
+Why do you accept the Protestant biblical cannon instead of the Catholic, or Orthodox cannon? Are you accepting it because it is the tradition you inherited?
+
+If the Holy Spirit is guiding the interpretation and teaching of a particular group of people, would that group reverse theological teaching?
+Which group of humans has the longest history of unreversed theology: Protestants or Catholics?
+
+Do you follow the literal interpretation of the Bible, but think it is only symbolically Christ's body and blood in the bread and wine? Why make that exception?
+
+---
+
+Which group of humans is most responsible for the compilation and promulgation of the Bible: Clear Lake Bible Church, or the Catholic Church?
+
+If you think the church is teaching error, do you have the right to leave and found a new one?
+  If not, how can you be a part of any denomination founded as a breakaway response to error?
+  If so, why did Christ command those who would not listen to the church to be cast out as punishment? (Matthew 18:15-18) How can church discipline have any meaning at all?
+
+Do you call Mary "blessed" like Elizabeth did, and like Mary's song says all generations will? Do you actually call her that with your mouth?
+
+1 Cor 11:27 Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord.
+Have you ever refrained from eating the bread or drinking the cup, for fear of profaining the body and blood of the Lord?
+
+Who understood the meaning of the Eucharist better, the apostles and those they taught, or visionary theologians more than a thousand years later?
+
+Is Christianity a naturally historical religion, founded on a historical man, in a real place and time, who really died and rose again?
+Which denomination is more naturally historical, the Catholic Church, or a generic Protestant non-denominational denomination?
+
+Did Christ say that miracles would accompany his messengers?
+Which denomination has the most documented evidence of miracles?
+
+Did Christ found a church that was for all peoples and nations, temperments and traditions?
+Which church has within it the most variation of practice? Which church has mystics and logicians and charismatic miracle workers and reserved reverential meditators? The Austin Stone, or the Catholic Church?
+
+If Christ intended for his followers to listen to the written scriptures alone, then why did he come at a time when so few men could read? Was his message only for the literate elite for the first 1600 years?
+
+Is the Bible so unambiguously clear that no two men could approach it honestly in good faith and disagree as to its meaning?
+If so, why do so many disagree about its meaning? Are all who disagree with you really dishonest in their interpretation?
+If not, who can know which interpretation is correct without an authority to guide them?
+
+Why does James say "You see that a man is justified by works and not by faith alone." and "So faith by itself, if it has no works, is dead." if all we need is faith?
+
+Why does your denomination permit divorce if Christ said "What therefore God has joined together, let not man put asunder."?
+
+Were the fruits of the Reformation peace and goodwill among men, or war, strife, and division?
+
+Did Luther have the right to declare non-canonical the books of the Bible that referenced prayers for the dead, and then teach that prayers for the dead are to no avail?
+
+Luke 20:37-38
+But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob. Now he is not God of the dead, but of the living; for all live to him.
+If all live to God, if the resurrection from the dead is real, why scorn prayers for the dead? Are they not truly alive in heaven, to hear and take your prayers to God?
+
+1 Corinthians 7:6-8
+I say this by way of concession, not of command. I wish that all were as I myself am. But each has his own special gift from God, one of one kind and one of another. To the unmarried and the widows I say that it is well for them to remain single as I do.
+Where is the place in your denomination for those who wish to "remain single" like St Paul? Do you have monasteries or a priesthood for them to join others pursuing holiness in the same manner as themselves?
+
+How much does it matter which denomination of Church you go to?
+
+Is "How much does it matter which denomination of Church you go to?" an important question?
+
+---
+
+> My point was that don't believe that having a billion children without the capacity to attend to them is loving God. As well as denying sex to your wife is also not loving God when we have the technology to
+> I.e. contraception not bad
+
+Are children not "a gift of the LORD" (Psalm 127:3)? Are not grandchildren "the crown of old men"? Is not "the glory of sons" "their fathers"? (Proverbs 17:6) Do you disagree that "Like arrows in the hand of a warrior, so are children born in one’s youth. Blessed is the man whose quiver is full of them"? (Psalm 127:4-5)
+
+Moreover, since the human soul is immaterial, does it not require special action on the part of God to create each one of us?
+
+Furthermore, there is no requirement that you have "a billion children." There is no requirement that you marry. When married, there is no requirement that you have sex during the fertile periods of the month.
+
+You and the Church are agreed that no one should have more children than he can handle.
+
+However, you and the Church are disagreed as to what methods may be employed to reach an otherwise good end. The ends do NOT justify the means. There are some means that are wrong. Contraception is one. It is not just me you are arguing with. You are arguing with every major church figure from the time of Christ until the last ~100 years.
+
+
+> We can never know exactly what decision and action will bring the most glory to God
+
+Agreed
+
+> But as we continue our walk with God
+> We will get better at knowing
+> As we become more like him
+> And that is how we love God
+
+Agreed that we get better at knowing how to please God, and more importantly, we get better at actually doing it, as we grow closer to him, because we become more like him.
+
+But I do not agree that we will somehow become able to know "what decision and action will bring the most glory to God." That is an impossible knowledge problem. Only miraculous knowledge could attain that, and I know of no Bible verse which promises such miraculous knowledge.
+
+And becomeing more like Jesus is indeed how we love God. But what was Jesus like? He did "the will of Him who sent" him. So as we become more like God, we conform ourselves more to God's will. Fortunately, God's will is not entirely nebulous and inscrutable. He has revealed himself to us and given many commands. Moreover, he has given us earthly shepherds to guide us. So on a more specific and practical level, we love God by obeying the commands of God, and the commands of those God has delegated his authority to.
+
+
+---
+
+# Catholic Verses
+
+Here is a long list of verses that, in my mind, are clearly supportive of Catholic doctrine and practice, over and above typical American "bible-believing Christian" (non-denomintional) doctrine and practice.
+
+John 3:5              - Catholic doctrine of the saving power of Baptism
+1 Corinthians 11:1-16 - Catholic practice of veil wearing during Mass
+James 2:14-26         - Catholic doctrine that we are NOT justified by faith alone
+James 5:14            - Catholic sacrament of annointing the sick (last rites)
+James 5:15-16         - Catholic sacrament of confession
+1 Peter 3:20-21       - Catholic doctrine of the saving power of Baptism
+rev 21:27
+
