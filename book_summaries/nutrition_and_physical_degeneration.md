@@ -4,6 +4,12 @@
 
 by Weston Price
 
+## One Sentence Summary
+
+Modern processed food that is high in sugar and low in vitamins does not have enough nutritional value to adequately promote the development of human bodies, which is most important in utero, and through childhood; thus effective supplementation, or just higher nutritional content food must be chosen to achieve genetic health potential.
+
+## One Paragraph Summary
+
 ### Why Seek Wisdom from Primitive Races
 
 Because some isloated primitive people have avoided certain health problems caused from modern diets and lifestyle. By comparing and contrasting isolated vs modernized people from the same racial group, it makes clear what health problems are introduced by modernity specifically, and highlights the specific causes. The problems he is looking at are: tooth decay, general physical degeneration, facial/dental-arch defromities, and character changes. He is also focused on reducing the number of problems caused during pregnancy by lack of necessary nutrition.
@@ -104,6 +110,14 @@ final paragraphs from chapter:
 ### Peruvian Indians
 
 ### Characteristics of Primitive and Modernized Dietaries
+
+Evaluate primitive diets on basis of known biologic requirements, and test their primitive diets by "applying their equivalents to our modern families".
+
+Use the generally accepted minimal + optimal amounts of vitamins/minerals needed for health as a yardstick for evaluating primitive diets.
+
+Divide nutrition between "body building"(like growth and health, not competivie muscle men) materials and "energy units". Modern people generally stop eating when they get enough "energy units" regardless of if they actually got enough "body building" materials. Big difference between body-building material required by a growing child or a pregnant mom or an average sedentary adult.
+
+[bookmark is here] 
 
 ### Primitive Control of Dental Caries
 
