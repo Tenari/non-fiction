@@ -10,6 +10,10 @@ Modern processed food that is high in sugar and low in vitamins does not have en
 
 ## One Paragraph Summary
 
+TBD
+
+## Chapter-by-Chapter Summary
+
 ### Why Seek Wisdom from Primitive Races
 
 Because some isloated primitive people have avoided certain health problems caused from modern diets and lifestyle. By comparing and contrasting isolated vs modernized people from the same racial group, it makes clear what health problems are introduced by modernity specifically, and highlights the specific causes. The problems he is looking at are: tooth decay, general physical degeneration, facial/dental-arch defromities, and character changes. He is also focused on reducing the number of problems caused during pregnancy by lack of necessary nutrition.
