@@ -78,6 +78,7 @@ chemical data of food analyzed in chpt 15
 final paragraphs from chapter:
 
 > High immunity to dental caries, freedom from deformity of the dental arches and face, and sturdy physiques with high immunity to disease were all found associated with physical isolation, and with forced limitation in selection of foods. This resulted in a very liberal use of dairy products and whole-rye bread, in connection with plant foods, and with meat served about once a week.
+
 > The individuals in the modernized districs were found to have widespread tooth decay. Many had facial and dental arch deformities and much susceptibility to diseases. These conditions were associated with the use of refined cereal flours, a high intake of sweets, acanned goods, sweetened fruits, chocolate; and a greatly reduced use of dairy products.
 
 ### Gaelics
